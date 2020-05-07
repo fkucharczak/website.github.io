@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-07T22:53:33+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Physiologie neurologie</title><link href="http://localhost:4000/2020/05/07/FicheNeuroPhysio.html" rel="alternate" type="text/html" title="Physiologie neurologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/FicheNeuroPhysio</id><content type="html" xml:base="http://localhost:4000/2020/05/07/FicheNeuroPhysio.html">&lt;h3 id=&quot;généralités-sur-les-différentes-régions-du-cortex&quot;&gt;Généralités sur les différentes régions du cortex&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-07T23:46:45+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Physiologie neurologie</title><link href="http://localhost:4000/2020/05/07/FicheNeuroPhysio.html" rel="alternate" type="text/html" title="Physiologie neurologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/FicheNeuroPhysio</id><content type="html" xml:base="http://localhost:4000/2020/05/07/FicheNeuroPhysio.html">&lt;h3 id=&quot;généralités-sur-les-différentes-régions-du-cortex&quot;&gt;Généralités sur les différentes régions du cortex&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Lésion cortex moteur primaire&lt;/strong&gt; (frontal postérieur) à droite cause une paralysie à gauche&lt;/li&gt;
@@ -167,4 +167,73 @@
       &lt;li&gt;&lt;em&gt;ICG&lt;/em&gt; : indocyanine green (vert d’indocyanine). Angiographie destinée à mettre en évidence les néovaisseaux choroïdiens dans la DMLA&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Ophtalmologie" /><category term="Fiche" /><summary type="html">Sémiologie</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="Ophtalmologie" /><category term="Fiche" /><summary type="html">Sémiologie</summary></entry><entry><title type="html">Hackathon EUvsVirus</title><link href="http://localhost:4000/2020/04/26/PubAnalytics.html" rel="alternate" type="text/html" title="Hackathon EUvsVirus" /><published>2020-04-26T00:00:00+02:00</published><updated>2020-04-26T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/26/PubAnalytics</id><content type="html" xml:base="http://localhost:4000/2020/04/26/PubAnalytics.html">&lt;h2 id=&quot;presentation-video&quot;&gt;Presentation video&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6AHYLxZzThY&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/6AHYLxZzThY/0.jpg&quot; alt=&quot;Presentation video&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;The sudden outbreak of the COVID-19 pandemic caused by SARS-COV-2 virus is responsible for a major health, economic and social tragedy. It makes COVID-19 one of the biggest crisis in our lifetime. However, as this Hackathon shows, it is also the root of many collective initiatives which are, in turn, sources of hope for the future.&lt;/p&gt;
+
+&lt;p&gt;For its extraordinary nature in our contemporary lives and for the damage it causes in our societies, many researchers around the world mobilized themselves to try understand this new disease. Consequently, the number of search results related to the subject in medical article databases has exploded. For example, the keyword &lt;em&gt;COVID-19&lt;/em&gt; has 43,943 results on the &lt;em&gt;EuropePMC&lt;/em&gt; database on 04/24/2020, at the beginning of the Hackathon.&lt;/p&gt;
+
+&lt;p&gt;However, the result of this explosion in the number of publications, with numerous different scientific tracks, make it very difficult to apprehend these researches and to have an accurate overview.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-it-does&quot;&gt;What it does&lt;/h2&gt;
+&lt;p&gt;Our platform allows to access information that are usually not accessible with common research platforms.
+For example, when one looks for a randomized clinical trial on COVID-19 on the &lt;em&gt;EuropePMC&lt;/em&gt; database, they will receive a list with numerous articles including their keywords “randomized clinical trial” and “COVID-19”. Now, should one wants to find information about which potential COVID-19 treatments have been investigated in clinical trials, there are two solutions :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;search each combination &lt;em&gt;“[treatment keyword]” + “randomized clinical trial”&lt;/em&gt; testing all the treatments one thinks that may have been investigated (at the high risk of forgetting some).&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;search &lt;em&gt;“randomized clinical trial”&lt;/em&gt;, browse all the results and manually retrieve all the different treatments trials.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Unfortunately, both approaches are obviously not efficient nor satisfying.
+What we offer with &lt;strong&gt;PubAnalytics&lt;/strong&gt; (&lt;a href=&quot;pubanalytics.eu&quot;&gt;link&lt;/a&gt;) is a solution to this type of questions. We proposed a new way of dealing with big data to contextualize the user query.&lt;/p&gt;
+
+&lt;p&gt;Let’s return to the previous example and see how &lt;strong&gt;PubAnalytics&lt;/strong&gt; (&lt;a href=&quot;pubanalytics.eu&quot;&gt;link&lt;/a&gt;) works when one looks for a randomized clinical trial on COVID-19 on the &lt;em&gt;EuropePMC&lt;/em&gt; database :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;search &lt;em&gt;“randomized clinical trial”&lt;/em&gt; (the database is restricted to papers about COVID-19 extracted from the &lt;em&gt;EuropePMC&lt;/em&gt; database for the challenge) click enter and … let the magic happen!!&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For now, we give access to three different visualization plots for the results :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;a diagram displaying all the treatments involved in a randomized clinical trial about COVID-19&lt;/li&gt;
+  &lt;li&gt;a diagram displaying the number of papers with the keyword “randomized clinical trial” and COVID-19&lt;/li&gt;
+  &lt;li&gt;a diagram displaying the country distribution of the randomized clinical trial about COVID-19
+At the bottom, you can also can browse the results corresponding to the request in a more conventional way, as it is in
+&lt;em&gt;EuropePMC&lt;/em&gt; website for example.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is just an example of prototype for the platform we will build. The best is to try it out.&lt;/p&gt;
+&lt;h2 id=&quot;how-we-built-it&quot;&gt;How we built it&lt;/h2&gt;
+&lt;p&gt;We constructed a website allowing to perform queries on the &lt;em&gt;EuropePMC&lt;/em&gt; database that gathers “&lt;em&gt;a worldwide collection of life science publications and preprints from trusted sources around the globe&lt;/em&gt;”.&lt;/p&gt;
+
+&lt;p&gt;In parallel, we constructed a database of molecules used in medical clinical routine practice approved by the &lt;em&gt;EMA&lt;/em&gt; and &lt;em&gt;FDA&lt;/em&gt; including the main treatments candidates tested in COVID-19 trials. C. Lozza, a PharmD, PhD researcher advised us for this task.&lt;/p&gt;
+
+&lt;p&gt;Then, we built a basic API allowing to search by keywords and improved the results by cross-referencing our molecule database and &lt;em&gt;EuropePMC&lt;/em&gt;. Behind, autonomous agents take care of this process to improve the cross-referencing and improve our results day by day.&lt;/p&gt;
+
+&lt;h2 id=&quot;challenges-we-ran-into&quot;&gt;Challenges we ran into&lt;/h2&gt;
+&lt;p&gt;The challenges we ran into are closely related to the tasks we described in the previous section. We needed to pool and assemble very different skills from our team of computer science PhDs. As there were only three of us, we divided the tasks : S.B. was responsible for the database management, the front and backend of the website, V.I. was responsible for the visualization part and its integration in the website and F.K. was responsible for the coordination and the medical part. Communication was the key, and we are pleased with the way we have dealt with the challenges of this project.&lt;/p&gt;
+&lt;h2 id=&quot;accomplishments-that-were-proud-of&quot;&gt;Accomplishments that we’re proud of&lt;/h2&gt;
+&lt;p&gt;We are proud to have succeeded in creating a website from scratch in two and a half days and teleworking due to the containment rules. And of course we hope that this new platform will, from now on, be useful to the scientific community and continue to develop itself since we truly believe in the potential of this project.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-we-learned&quot;&gt;What we learned&lt;/h2&gt;
+&lt;p&gt;Building a website of this type, aggregating skills in so many different fields with so many different technologies, in a weekend, with only three people, was a great learning experience for us, at very different levels. It allowed us to surpass our limits and to set up an ambitious project. #TeamWork!&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next-for-pubanalytics&quot;&gt;What’s next for PubAnalytics&lt;/h2&gt;
+&lt;p&gt;This is just the beginning of PubAnalytics. By investing the time to reflect on this project, immersed in this Hackathon during 3 days, we imagined many development perspectives for &lt;strong&gt;PubAnalytics&lt;/strong&gt; &lt;a href=&quot;pubanalytics.eu&quot;&gt;link&lt;/a&gt;. The idea of the project, through this Hackathon, was to give access to more efficient, global, and clearer vision of COVID-19 treatments involved in medical studies for researchers and physicians. Even if some improvements and updates are still to be made, we are proud to have developed this website prototype.&lt;/p&gt;
+
+&lt;p&gt;We believe we can scale this initiative to medical research in a more global way, allowing researchers working in pre-clinical, hospital, or biology laboratories to have access to our literature research and visualization tools. We also think that this initiative could also be a new powerful platform for performing meta-analysis.
+Indeed, the environment is conducive to the use of technologies such as machine learning, natural language processing (NLP), etc. These tools would greatly improve the analysis we provide, allowing the users to interact with the figures we provide, yielding to more accurate researches.&lt;/p&gt;
+
+&lt;p&gt;We definitely plan to keep on growing this project. It is obvious to us that this project must remain an open access tool. Thus, we plan to raise money from university institutions (2 of the members are working for University of Montpellier and Lille, in France) in order to continue to develop the functionalities of &lt;strong&gt;PubAnalytics&lt;/strong&gt; and maybe, at least we hope so, contribute to research in our own way.&lt;/p&gt;</content><author><name></name></author><category term="Hackaton" /><category term="PubAnalytics" /><summary type="html">Presentation video</summary></entry></feed>
