@@ -13,6 +13,7 @@ tags: [Ophtalmologie, Fiche]
 * **Chalazion** : inflammation d'une glande sébacée des paupières Conjonctivite : inflammation de la conjonctive
 * **Colobome irien** : malformation congénitale de l'iris
 * **Dacryocystite** : inflammation du sac lacrymal
+* **Diplopie** : double vision
 * **Ectropion** : bascule de la paupière en dehors
 * **Endophtalmie** : infection de l'intérieur du globe oculaire
 * **Entropion** : bascule de la paupière en dedans
@@ -21,11 +22,15 @@ tags: [Ophtalmologie, Fiche]
 * **Fluorescéine** : colore les déficits épithéliaux (indications : ulcères de cornée, etc.)
 * **Hyphéma** : sang dans la chambre antérieure
 * **Hypopion** : pus dans la chambre antérieure Kératite : inflammation de la cornée
+* **Métamorphopsies** : lignes ondulées, déformées
 * **Mydriase** : pupille anormalement ouverte
+* **Myodésopsie** : mouches volantes
 * **Myosis** : pupille anormalement fermée
 * **Orgelet** : infection d'un follicule pilosébacé d'un cil
+* **Phosphènes** : flash lumineux
 * **Ptosis** : paupière anormalement basse
 * **Rubéose irienne** : Malformation congénitale de l'iris
+* **Scotome** : tache aveugle dans le champ visuel
 * **Signe de Seidel** : l'humeur aqueuse repousse le film de fluorescéine instillé sur la cornée. Signe une plaie perforante de la cornée
 * **Test de Schirmer** : bandelette buvard qui mesure la quantité de larmes
 * **Tyndall** : présence de cellules et/ou de protéines dans l'humeur aqueuse. Signe un saignement ou une inflammation intraoculaire
