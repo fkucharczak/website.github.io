@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-07T22:53:33+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Physiologie neurologie</title><link href="http://localhost:4000/2020/05/07/FicheNeuroPhysio.html" rel="alternate" type="text/html" title="Physiologie neurologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/FicheNeuroPhysio</id><content type="html" xml:base="http://localhost:4000/2020/05/07/FicheNeuroPhysio.html">&lt;h3 id=&quot;généralités-sur-les-différentes-régions-du-cortex&quot;&gt;Généralités sur les différentes régions du cortex&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Lésion cortex moteur primaire&lt;/strong&gt; (frontal postérieur) à droite cause une paralysie à gauche&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Lésion&lt;/th&gt;
+      &lt;th&gt;Effet&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Aire de Broca&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Comprend mais ne peut exécuter la parole. Sait ce qu’il veut dire mais ne peut pas le faire&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Aire de Wernicke&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Ne comprennent pas ce qu’ils lisent ou entendent mais peuvent parler en articulant correctement&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Aire associatives&lt;/strong&gt; (qui ne sont pas soit motrices, sensorielles ou du langage) :
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Cortex associatif pariéto-temporo-occipital&lt;/em&gt; : permet d’acquérir une représentation complète de la situation des diverses parties du corps dans l’environnement&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Cortex associatif préfrontal&lt;/em&gt; : programmation d’une activité, prise de décision, créativité, traits de personnalité et production idées abstraites&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Cortex associatif limbique&lt;/em&gt; : motivation, émotions et mémoire&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Noyaux gris centraux&lt;/strong&gt; : inhibition du tonus musculaire, suppression de mouvements parasites&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Thalamus&lt;/strong&gt; : dirige l’attention vers un stimuli d’intérêt&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hypothalamus&lt;/strong&gt; : contrôle de la température du corps, soif, production urine (fonctions homéostatiques)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Système limbique&lt;/strong&gt; : comprend les NGC, thalamus, hypothalamus. Rôle clé dans les émotions et le comportement, contrôle des comportements élémentaires. C’et le centre de la récompense et de la stimulation&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Amygdale&lt;/strong&gt; : réaction « avec les tripes » alors que le cortex préfrontal pondère cette réaction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_1.png&quot; alt=&quot;Fonction des régions&quot; /&gt;
+&lt;img src=&quot;/assets/img/medecine/neuro_2.png&quot; alt=&quot;Position corticale vs région anatomique&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;moelle-épinière&quot;&gt;Moelle épinière&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fibres afférentes&lt;/strong&gt; : porteuses de signaux entrants pénètrent dans la moelle par la racine postérieure et quittent la moelle par la racine antérieure.
+    &lt;ul&gt;
+      &lt;li&gt;Corps cellulaires de neurones afférents de la racine postérieure sont groupés pour former le ganglion rachidien&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Corps cellulaires des &lt;strong&gt;neurones efférents&lt;/strong&gt; sont situés dans la substance grise de la moelle et leur axone en sort par la racine antérieure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_3.png&quot; alt=&quot;Schéma moelle épinière&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mémoire&quot;&gt;Mémoire&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Amnésie rétrograde&lt;/strong&gt; : incapacité de se souvenir des évènements récents (trauma, KO, AVC)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Amnésie antérograde&lt;/strong&gt; : incapacité de stocker dans la mémoire long terme en vue d’une utilisation ultérieure&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hippocampe&lt;/strong&gt; : lieu de stockage temporaire des nouvelles données dans la mémoire long terme avant son transfert. Mémoire déclarative : personnes, objets, faits&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cervelet&lt;/strong&gt; : mémoire procédurale inconsciente (« laisser faire son corps » plutôt que de tout raisonner quand on fait du sport) -&amp;gt; ex, dans le cas de lésions temporo-limbiques de patients capables de jouer du piano mais sans s’en souvenir&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lésions du cervelet&lt;/strong&gt; : équilibre instable, tonus musculaire réduit sans paralysie, incapacité de faire en souplesse des mouvements rapides, impossibilité de commencer et arrêter brusquement l’action d’un muscle squelettique.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tronc cérébral&lt;/strong&gt; : Lieu d’origine des 12 paires de nerfs crâniens&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sommeil-2-types&quot;&gt;Sommeil (2 types)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;A ondes lentes (80%)&lt;/strong&gt; : du stade 1 (léger) à 4 (profond) en 30 à 45min puis repasse en sens inverse à 1 par les autres stades dans le même temps. 10/15 min de sommeil paradoxal entre chaque cycle de sommeil à ondes lentes
+    &lt;blockquote&gt;
+      &lt;p&gt;Remarque : cauchemars, somnambulisme, parole -&amp;gt; en stade 3,4&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paradoxal (20%)&lt;/strong&gt; : EEG semblable à celui de la phase en plein éveil. Inhibition généralisée brusque du tonus musculaire. Immobilité complète. Phase du rêve. Mouvements rapides des yeux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;la-douleur&quot;&gt;La douleur&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Activité des nocicepteurs renforcée par la présence de prostaglandines qui augmentent fortement la réponse à un stimulus (Aspirine inhibe production de prostaglandines, d’où son effet antalgique).&lt;/li&gt;
+  &lt;li&gt;Deux types de fibres afférentes :
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Voie rapide&lt;/em&gt; : signaux provenant de nocicepteurs mécaniques et thermiques transmis par petites fibres myélinisées.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Voie lente&lt;/em&gt; : signaux provenant de nocicepteurs polymodaux transmis par de petites fibres amyélinisées. Récepteurs activés par la capsaicine (substance piquante des piments rouges). Se lient aussi aux récepteurs de la chaleur -&amp;gt; sensation de brûlure.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Substance P&lt;/strong&gt; : peptide neurotransmetteur de la douleur.&lt;/li&gt;
+  &lt;li&gt;Présence d’un système d’analgésie qui s’oppose à la transmission des voies de la douleur à leur entrée dans la moelle épinière : récepteurs aux opiacés.&lt;/li&gt;
+  &lt;li&gt;Le système d’analgésie naturel est dormant.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_4.png&quot; alt=&quot;Voies sensitives&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Généralités sur les différentes régions du cortex</summary></entry><entry><title type="html">Paires crâniennes</title><link href="http://localhost:4000/2020/05/07/FichePairesCraniennes.html" rel="alternate" type="text/html" title="Paires crâniennes" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/FichePairesCraniennes</id><content type="html" xml:base="http://localhost:4000/2020/05/07/FichePairesCraniennes.html">&lt;h3 id=&quot;liste-des-12-paires-crâniennes&quot;&gt;Liste des 12 paires crâniennes&lt;/h3&gt;
+
+&lt;p&gt;Moyen mnémotechnique : &lt;em&gt;&lt;strong&gt;Oh, Oscar ! Ma Petite Théière Me Fait A Grand Peine Six Grogs&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nerf I (sensoriel) : nerf &lt;strong&gt;olfactif&lt;/strong&gt;, qui est le nerf de l’odorat&lt;/li&gt;
+  &lt;li&gt;Nerf II (sensoriel) : nerf &lt;strong&gt;optique&lt;/strong&gt;, qui est le nerf de la vision&lt;/li&gt;
+  &lt;li&gt;Nerf III (moteur) : nerf &lt;strong&gt;oculomoteur&lt;/strong&gt;, ou &lt;strong&gt;moteur oculaire commun&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Nerf IV (moteur) : nerf &lt;strong&gt;trochléaire&lt;/strong&gt; ou &lt;strong&gt;pathétique&lt;/strong&gt;, innerve le muscle oblique supérieur au niveau oculaire&lt;/li&gt;
+  &lt;li&gt;Nerf V (mixte) : nerf &lt;strong&gt;trijumeau&lt;/strong&gt;, moteur pour les muscles de la mastication et sensitif pour la bouche, la face et la moitié antérieure du scalp&lt;/li&gt;
+  &lt;li&gt;Nerf VI (moteur) : nerf &lt;strong&gt;abducens&lt;/strong&gt; ou moteur oculaire externe, innerve le muscle droit externe au niveau oculaire&lt;/li&gt;
+  &lt;li&gt;Nerf VII (mixte) : nerf &lt;strong&gt;facial&lt;/strong&gt;, moteur pour les muscles de la face et sensitif pour les 2/3 de la langue&lt;/li&gt;
+  &lt;li&gt;Nerf VIII (sensoriel) : nerf &lt;strong&gt;vestibulocochléaire&lt;/strong&gt; ou nerf &lt;strong&gt;auditif&lt;/strong&gt;, il assure l’audition et intervient dans l’équilibre&lt;/li&gt;
+  &lt;li&gt;Nerf IX (mixte) : nerf &lt;strong&gt;glossopharyngien&lt;/strong&gt;, sensibilité du pharynx et de la langue et motricité d’un muscle du pharynx (stylopharyngien)&lt;/li&gt;
+  &lt;li&gt;Nerf X (mixte) : nerf &lt;strong&gt;vague&lt;/strong&gt; ou nerf &lt;strong&gt;pneumogastrique&lt;/strong&gt;, moteur pour les muscles du pharynx, du larynx et du voile du palais, parasympathique et sensitif pour les structures thoraciques et abdominales&lt;/li&gt;
+  &lt;li&gt;Nerf XI (moteur) : nerf &lt;strong&gt;accessoire&lt;/strong&gt; ou nerf &lt;strong&gt;spinal&lt;/strong&gt; pour quelques muscles du cou&lt;/li&gt;
+  &lt;li&gt;Nerf XII (moteur) : nerf &lt;strong&gt;hypoglosse&lt;/strong&gt; ou nerf &lt;strong&gt;grand hypoglosse&lt;/strong&gt; pour tous les muscles de langue&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;version-schéma&quot;&gt;Version schéma&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/oph_1.png&quot; alt=&quot;Schéma nerfs crâniens&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Ophtalmologie" /><category term="ORL" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Liste des 12 paires crâniennes</summary></entry><entry><title type="html">Glossaire d’Ophtalmologie</title><link href="http://localhost:4000/2020/05/07/GlossaireOphtalmo.html" rel="alternate" type="text/html" title="Glossaire d'Ophtalmologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/GlossaireOphtalmo</id><content type="html" xml:base="http://localhost:4000/2020/05/07/GlossaireOphtalmo.html">&lt;h3 id=&quot;sémiologie&quot;&gt;Sémiologie&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Accommodation&lt;/strong&gt; : modification active de la courbure du cristallin dans la vision de près Blépharite : inflammation des paupières&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Chalazion&lt;/strong&gt; : inflammation d’une glande sébacée des paupières Conjonctivite : inflammation de la conjonctive&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dacryocystite&lt;/strong&gt; : inflammation du sac lacrymal&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ectropion&lt;/strong&gt; : bascule de la paupière en dehors&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Endophtalmie&lt;/strong&gt; : infection de l’intérieur du globe oculaire&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Entropion&lt;/strong&gt; : bascule de la paupière en dedans&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exophtalmie&lt;/strong&gt; : protrusion en avant du globe oculaire&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fluorescéine&lt;/strong&gt; : colore les déficits épithéliaux (indications : ulcères de cornée, etc.)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hyphéma&lt;/strong&gt; : sang dans la chambre antérieure&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hypopion&lt;/strong&gt; : pus dans la chambre antérieure Kératite : inflammation de la cornée&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mydriase&lt;/strong&gt; : pupille anormalement ouverte&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Myosis&lt;/strong&gt; : pupille anormalement fermée&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Orgelet&lt;/strong&gt; : infection d’un follicule pilosébacé d’un cil&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ptosis&lt;/strong&gt; : paupière anormalement basse&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Signe de Seidel&lt;/strong&gt; : l’humeur aqueuse repousse le film de fluorescéine instillé sur la cornée. Signe une plaie perforante de la cornée&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Test de Schirmer&lt;/strong&gt; : bandelette buvard qui mesure la quantité de larmes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tyndall&lt;/strong&gt; : présence de cellules et/ou de protéines dans l’humeur aqueuse. Signe un saignement ou une inflammation intraoculaire&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Uvéite&lt;/strong&gt; : inflammation de l’uvée. Comprend les uvéites antérieures (iridocyclites), intermédiaires (pars planites) et postérieures (choroïdites)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vert de lissamine, rose Bengale&lt;/strong&gt; : colorent les cellules mortes (indications : œil sec, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;examens-complémentaires&quot;&gt;Examens complémentaires&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Atlas d’Ishihara&lt;/strong&gt; : dépistage de troubles de la vision des couleurs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Biométrie&lt;/strong&gt; : mesure de la longueur axiale du globe (calcul de l’implant dans la chirurgie de la cataracte)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;EOG&lt;/strong&gt; : électro-oculogramme&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ERG&lt;/strong&gt; : électrorétinogramme&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étudient la fonction rétinienne&lt;/strong&gt;. Principales indications : rétinite pigmentaire, suivi de traitements rétinotoxiques (antipaludéens de synthèse)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exophtalmomètre de Hertel&lt;/strong&gt; : étude de l’exophtalmie&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mesure de la tension oculaire&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;indentation&lt;/li&gt;
+      &lt;li&gt;aplanation&lt;/li&gt;
+      &lt;li&gt;air pulsé&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;OCT&lt;/strong&gt; : optical coherence tomography ou tomographie en cohérence optique. Imagerie du fond d’œil non invasive. Étudie la macula et la papille (principales indications : glaucome, DMLA) Pachymétrie : mesure de l’épaisseur de la cornée (utile pour interpréter la tension intraoculaire)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;PEV&lt;/strong&gt; : potentiels évoqués visuels. Étude de la conduction nerveuse sur les voies visuelles (principales indications : pathologies du nerf optique – sclérose en plaques)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Test de Farnsworth&lt;/strong&gt; : suivi de troubles de la vision des couleurs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Topographie cornéenne&lt;/strong&gt; : étude de l’astigmatisme en deux dimensions&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Angiographie&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Effet fenêtre&lt;/em&gt; : lésion qui fait apparaître anormalement la fluorescence choroïdienne sous- jacente, par exemple DMLA atrophique (hyperfluorescence)&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Effet masque&lt;/em&gt; : lésion qui masque la fluorescence rétinienne sous-jacente, par exemple hémorragie (hypofluorescence)&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;ICG&lt;/em&gt; : indocyanine green (vert d’indocyanine). Angiographie destinée à mettre en évidence les néovaisseaux choroïdiens dans la DMLA&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Ophtalmologie" /><category term="Fiche" /><summary type="html">Sémiologie</summary></entry></feed>
