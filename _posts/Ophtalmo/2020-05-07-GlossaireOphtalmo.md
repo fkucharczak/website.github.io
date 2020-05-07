@@ -6,12 +6,17 @@ tags: [Ophtalmologie, Fiche]
 
 ### Sémiologie
 
+* **Amblyopie** : différence d'accuité visuelle entre les deux yeux (trouble cortical) -> défaut de parallélisme entre les 2 axes visuels
+* **Amétropie** : trouble de la réfraction causant myopie, hypermétropie, astigmatisme
 * **Accommodation** : modification active de la courbure du cristallin dans la vision de près Blépharite : inflammation des paupières
+* **Athalamie** : applatissement total de la chambre antérieure (hypothalamie si partiel)
 * **Chalazion** : inflammation d'une glande sébacée des paupières Conjonctivite : inflammation de la conjonctive
+* **Colobome irien** : malformation congénitale de l'iris
 * **Dacryocystite** : inflammation du sac lacrymal
 * **Ectropion** : bascule de la paupière en dehors
 * **Endophtalmie** : infection de l'intérieur du globe oculaire
 * **Entropion** : bascule de la paupière en dedans
+* **Epicanthus** : cause des yeux bridés
 * **Exophtalmie** : protrusion en avant du globe oculaire
 * **Fluorescéine** : colore les déficits épithéliaux (indications : ulcères de cornée, etc.)
 * **Hyphéma** : sang dans la chambre antérieure
@@ -20,6 +25,7 @@ tags: [Ophtalmologie, Fiche]
 * **Myosis** : pupille anormalement fermée
 * **Orgelet** : infection d'un follicule pilosébacé d'un cil
 * **Ptosis** : paupière anormalement basse
+* **Rubéose irienne** : Malformation congénitale de l'iris
 * **Signe de Seidel** : l'humeur aqueuse repousse le film de fluorescéine instillé sur la cornée. Signe une plaie perforante de la cornée
 * **Test de Schirmer** : bandelette buvard qui mesure la quantité de larmes
 * **Tyndall** : présence de cellules et/ou de protéines dans l'humeur aqueuse. Signe un saignement ou une inflammation intraoculaire
