@@ -1,6 +1,16 @@
 [
   
   {
+    "title"    : "Fiche antibiotiques",
+    "category" : "",
+    "tags"     : " Antibiotiques, Traitements, Fiche",
+    "url"      : "/2020/05/11/FicheATB.html",
+    "date"     : "May 11, 2020",
+    "excerpt"  : "Cibles et classes d’antibiotiques\n\n\n\nTraitement type en fonction du point d’entrée\n\n\n",
+  "content"  : "Cibles et classes d’antibiotiques\n\n\n\nTraitement type en fonction du point d’entrée\n\n\n"
+} ,
+  
+  {
     "title"    : "Physiologie Opthalmologique",
     "category" : "",
     "tags"     : " Ophtalmologie, Physiologie, Fiche",
@@ -110,11 +120,11 @@
   
   "title"    : "Medecine",
   "category" : "",
-  "tags"     : " Ipsum",
+  "tags"     : " Collèges, Ressources, LCA",
   "url"      : "/portfolio/medicine",
-  "date"     : "September 1, 2014",
-  "excerpt"  : "\n\nCollèges en ligne\n",
-  "content"  : "\n\nCollèges en ligne\n"
+  "date"     : "May 11, 2020",
+  "excerpt"  : "\n\nCollèges en ligne\n\nCours de LCA\nRéussir la LCA aux ECN\nPoly BMQ et LCA de la faculté de médecine\n",
+  "content"  : "\n\nCollèges en ligne\n\nCours de LCA\nRéussir la LCA aux ECN\nPoly BMQ et LCA de la faculté de médecine\n"
   
 } 
   
