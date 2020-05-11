@@ -1,4 +1,260 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://sylhare.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sylhare.github.io/" rel="alternate" type="text/html" /><updated>2020-05-11T20:41:53+02:00</updated><id>https://sylhare.github.io/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Physiologie opthalmologie</title><link href="https://sylhare.github.io/2020/05/11/FichePhysioOphtalmo.html" rel="alternate" type="text/html" title="Physiologie opthalmologie" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/11/FichePhysioOphtalmo</id><content type="html" xml:base="https://sylhare.github.io/2020/05/11/FichePhysioOphtalmo.html">&lt;h3 id=&quot;généralités-anatomiques-et-physiologiques&quot;&gt;Généralités anatomiques et physiologiques&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-11T22:36:11+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Séquences IRM</title><link href="http://localhost:4000/2020/05/11/FicheIRMNeuro.html" rel="alternate" type="text/html" title="Séquences IRM" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FicheIRMNeuro</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FicheIRMNeuro.html">&lt;h3 id=&quot;différentes-séquences-utiles-en-irm-pour-la-neurologie&quot;&gt;Différentes séquences utiles en IRM pour la neurologie&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Séquence&lt;/th&gt;
+      &lt;th&gt;Caractéristiques&lt;/th&gt;
+      &lt;th&gt;Exemple&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;T1&lt;/strong&gt;&lt;br /&gt;(INJECTÉ OU PAS)&lt;/td&gt;
+      &lt;td&gt;LCR : noir&lt;br /&gt;Muscle : gris&lt;br /&gt;Moelle spinale : gris&lt;br /&gt;Graisse : blanc&lt;br /&gt;Disques para vertébraux : gris&lt;br /&gt; Air : très noir&lt;br /&gt;Inflammation (œdème, zone infarcie, démyélinisation) : foncé&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_1.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;T2&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;LCR : blanc&lt;br /&gt;Muscle : noir&lt;br /&gt;Moelle spinale : gris clair&lt;br /&gt;Graisse : blanc (gris clair)&lt;br /&gt;Disques para vertébraux : blanc&lt;br /&gt; Air : très noir&lt;br /&gt;Inflammation (œdème, zone infarcie, démyélinisation) : blanc&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_2.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;T2 FLAIR&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;T2 avec suppression du LCR&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_3.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;T2&lt;/strong&gt;:star:&lt;/td&gt;
+      &lt;td&gt;Présence de produits sanguins et de calcifications en raison des propriétés de susceptibilité de ces matériaux&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_4.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Diffusion&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Mouvement des molécules d’eau entraine une réduction du signal&lt;/em&gt;&lt;br /&gt;Mouvement intense : hypo-intense&lt;br /&gt;Mouvement restreint comme dans les tissus hyper-cellulaires (tumeur) : hyper-intense&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_5.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="IRM" /><category term="Neurologie" /><category term="Fiche" /><summary type="html">Différentes séquences utiles en IRM pour la neurologie</summary></entry><entry><title type="html">Physiologie neurologie - système nerveux périphérique</title><link href="http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP.html" rel="alternate" type="text/html" title="Physiologie neurologie - système nerveux périphérique" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP.html">&lt;h3 id=&quot;voies-efférentes&quot;&gt;Voies efférentes&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Système nerveux somatique&lt;/th&gt;
+      &lt;th&gt;Système nerveux autonome&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Exerce son influence sur les muscles squelettiques&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Pas soumis au contrôle volontaire&lt;/em&gt; &lt;br /&gt; -&amp;gt; muscle cardiaque, muscles lisses, glandes exocrines et certaines endocrines&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Sympathique&lt;/strong&gt; ou &lt;strong&gt;Parasympathique&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sympathique&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;Courts neurones pré-ganglionnaires &lt;strong&gt;cholinergiques&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;Longs neurones post-ganglionnaires &lt;strong&gt;adrénergiques&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Parasympathique&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;Longs neurones pré-ganglionnaires &lt;strong&gt;cholinergiques&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;Courts neurones post-ganglionnaires &lt;strong&gt;cholinergiques&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Chaque voie possède deux neurones l’un à la suite de l’autre :
+    &lt;ul&gt;
+      &lt;li&gt;1er : neurone pré-ganglionnaire -&amp;gt; corps cellulaire dans le SNC&lt;/li&gt;
+      &lt;li&gt;2e : neurone post-ganglionnaire -&amp;gt; corps cellulaire situé en dehors du SNC et innerve les organes effecteurs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Rappel : ganglion = ensemble de corps cellulaires de neurones situés en dehors du SNC&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_5.png&quot; alt=&quot;Voies sensitives&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dominance parasympathique&lt;/strong&gt; : en situation calme, sans menace, l’organisme fait passer au premier plan la digestion et le repos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dominance sympathique&lt;/strong&gt; : prépare l’organisme à une activité physique intense en cas de situation stressante. Préparation à la fuite ou à la lutte (cœur accélère, PA augmente, vasoconstriction…)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;récepteurs-cholinergiques&quot;&gt;Récepteurs cholinergiques&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Nicotiniques&lt;/strong&gt; : sur le corps cellulaire des neurones post-ganglionnaires de tous les ganglions du SNA. Répondent à l’acétylcholine.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Muscariniques&lt;/strong&gt; : dans la membrane des cellules effectrices (muscle cardiaque, muscles lisses…). Stimulés par liaison à acétylcholine.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;récepteurs-adrénergiques-&quot;&gt;Récepteurs adrénergiques :&lt;/h4&gt;
+
+&lt;p&gt;Deux classes de récepteurs à l’adrénaline et noradrénaline :&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Alpha&lt;/strong&gt; : plus grande affinité pour la noradrénaline que pour l’adrénaline
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Alpha 1 (excitateur)&lt;/em&gt; : plupart des tissus cible du sympathique&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Alpha 2 (inhibiteur)&lt;/em&gt; : au niveau des organes digestifs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Beta&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Beta 1 (excitateur)&lt;/em&gt; : exclusivement localisés au niveau du cœur.
+Affinité identique pour adrénaline ou noradrénaline.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Beta 2 (inhibiteur)&lt;/em&gt; : au niveau des muscles lisses, artérioles et bronchioles.
+Affinité exclusive à l’adrénaline.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Médicament agoniste&lt;/strong&gt; : se lie au récepteur -&amp;gt; &lt;em&gt;mime le neurotransmetteur&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Médicament antagoniste&lt;/strong&gt; : se lie au récepteur et &lt;em&gt;bloque la liaison du neurotransmetteur&lt;/em&gt; (même l’agoniste ne produit plus d’effet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;système-nerveux-somatique&quot;&gt;Système nerveux somatique&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Motoneurones&lt;/strong&gt; :&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;A l’inverse du système autonome&lt;/em&gt; : l’axone du motoneurone va directeur du SNC au muscle qu’il innerve.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Terminaison du motoneurone&lt;/em&gt; : libère de l’acétylcholine qui entraine contraction musculaire&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;em&gt;Seul rôle du motoneurone&lt;/em&gt; : stimuler les muscles squelettiques&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Maladies des motoneurones&lt;/em&gt; :
+        &lt;ul&gt;
+          &lt;li&gt;&lt;em&gt;Poliomyélite&lt;/em&gt; : destruction du corps des motoneurones par le virus&lt;/li&gt;
+          &lt;li&gt;&lt;em&gt;SLA (= Charcot)&lt;/em&gt; : dégénérescence et mort des motoneurones de cause indéterminée&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Jonction neuromusculaire&lt;/strong&gt; :&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;L’acétylcholine est le neurotransmetteur de la jonction musculaire.&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Acétylcholinestérase met fin à l’action de l’acétylcholine dans la jonction neuromusculaire : quand plus de signal du motoneurone, l’activité électrique de la fibre musculaire est interrompue grâce à cette enzyme qui inactive l’acétylcholine.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Application en pathologie :&lt;/em&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Venin de la veuve noire : cause libération explosive d’ACh&lt;/li&gt;
+          &lt;li&gt;Toxine botulique : bloque la libération d’ACh&lt;/li&gt;
+          &lt;li&gt;Curare : bloque action de l’ACh sur les récepteurs (paralysie musculaire réversible)&lt;/li&gt;
+          &lt;li&gt;Myasthénie : inactive les sites récepteurs de l’ACh. Extrême fatigabilité musculaire. Attaque auto-immune d’Ac contre les récepteurs&lt;/li&gt;
+          &lt;li&gt;Organophosphores : s’opposent de façon irréversible à l’activité de l’acétylcholinestérase. Présents dans pesticides et gaz de combat&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Voies efférentes</summary></entry><entry><title type="html">Physiologie ORL</title><link href="http://localhost:4000/2020/05/11/FichePhysioORL.html" rel="alternate" type="text/html" title="Physiologie ORL" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FichePhysioORL</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FichePhysioORL.html">&lt;h3 id=&quot;généralités-anatomiques-et-physiologiques&quot;&gt;Généralités anatomiques et physiologiques&lt;/h3&gt;
+
+&lt;p&gt;Chaque oreille comporte 3 parties :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Oreille externe&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Pavillon&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Conduit auditif externe&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Membrane tympanique&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Oreille moyenne&lt;/strong&gt; : transfère les mouvements vibratoires du tympan aux liquides de l’oreille interne
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Membrane tympanique&lt;/em&gt; : iso-pression assurée par pression atmosphérique à l’extérieur, et trompe d’Eustache (normalement fermée mais s’ouvre au bâillement, mastication, déglutition) reliée au pharynx en interne.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Oreille interne&lt;/strong&gt; : remplie de liquide, contient deux systèmes sensoriels différents
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Cochlée&lt;/em&gt; : récepteurs convertissent ondes sonores en signaux électriques
+        &lt;ul&gt;
+          &lt;li&gt;Contient l’organe de Corti, qui est l’appareil sensoriel de l’audition : cellules ciliées de ce dernier transforment les mouvements du liquide en signaux nerveux&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Appareil vestibulaire&lt;/em&gt; : nécessaire à l’équilibre&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/ORL_1.png&quot; alt=&quot;Anatomie&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Oreille humaine sensible à des fréquences allant de 20 à 20kHz&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sons &amp;gt; 100dB peuvent endommager définitivement la cochlée&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fibres de la voie auditive croisent dans le tronc cérébral de sorte que les signaux auditifs sont transmis aux deux lobes temporaux&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Discrimination des tons&lt;/em&gt; : basses fréquences près de l’hélicotrème, hautes fréquences près de la fenêtre ronde (voir figure)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/ORL_2.png&quot; alt=&quot;Anatomie&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    
+    &lt;div class=&quot;column&quot; style=&quot;flex: %&quot;&gt;
+        &lt;img src=&quot;/assets/img/medecine/ORL_3.png&quot; alt=&quot;ORL_3.png&quot; /&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&quot;column&quot; style=&quot;flex: %&quot;&gt;
+        &lt;img src=&quot;/assets/img/medecine/ORL_4.png&quot; alt=&quot;ORL_4.png&quot; /&gt;
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Surdité&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Transmission&lt;/em&gt; : ondes ne sont pas transmises correctement dans l’oreille interne. Nombreuses étiologies : bouchon cérumen, rupture tympan, lésion osselets, liquide dans oreille moyenne, lésions fenêtre ovale&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Perception&lt;/em&gt; : ondes transmises dans l’oreille interne ne sont pas transcrites en signaux électriques : anomalies de l’organe de Corti ou des nerfs auditifs
+        &lt;ul&gt;
+          &lt;li&gt;&lt;em&gt;Presbyacousie&lt;/em&gt; : dégénératif, vieillissement atteinte cellules de Corti.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Remarque : les appareils auditifs ont de l’intérêt pour les surdités de transmission, mais peu pour celles de perception.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;appareil-vestibulaire&quot;&gt;Appareil vestibulaire&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Appareil vestibulaire&lt;/strong&gt; : fournit informations essentielles sur l’équilibre, coordination des mouvements de la tête, des yeux avec les mouvements posturaux. Tous les constituants de l’appareil vestibulaire sont remplis de liquide.
+Deux ensembles de structures dans les cavités de l’os temporal :
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Canaux semi-circulaires&lt;/em&gt; : détectent l’accélération ou la décélération angulaire ou rotative de la tête. 3 dans chaque oreille, disposés perpendiculairement.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Organes à otolithes (urticule, saccule)&lt;/em&gt; : fournissent des informations sur la position de la tête dans le champ de gravité et sur les accélérations linéaires au cours de mouvements rectilignes quelle qu’en soit la direction.
+        &lt;ul&gt;
+          &lt;li&gt;&lt;em&gt;Urticule&lt;/em&gt; : mouvement horizontal&lt;/li&gt;
+          &lt;li&gt;&lt;em&gt;Saccule&lt;/em&gt; : mouvement vertical&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/ORL_5.png&quot; alt=&quot;Structure et activation de l'appareil vestibulaire&quot; /&gt;
+&lt;img src=&quot;/assets/img/medecine/ORL_6.png&quot; alt=&quot;Fonctions&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="ORL" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Généralités anatomiques et physiologiques</summary></entry><entry><title type="html">Physiologie Opthalmologique</title><link href="http://localhost:4000/2020/05/11/FichePhysioOphtalmo.html" rel="alternate" type="text/html" title="Physiologie Opthalmologique" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FichePhysioOphtalmo</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FichePhysioOphtalmo.html">&lt;h3 id=&quot;généralités-anatomiques-et-physiologiques&quot;&gt;Généralités anatomiques et physiologiques&lt;/h3&gt;
 
 &lt;p&gt;L’œil est composé de trois couches (de l’extérieur vers l’intérieur) :
 •	Cornée
@@ -38,192 +294,253 @@
   &lt;li&gt;&lt;strong&gt;Cécité nocturne&lt;/strong&gt; : conséquence d’une lacune en vitamine A (carottes sont bonnes pour les yeux)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/oph_4.png&quot; alt=&quot;Fonction des composants&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Ophtalmologie" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Généralités anatomiques et physiologiques</summary></entry><entry><title type="html">Physiologie neurologie</title><link href="https://sylhare.github.io/2020/05/07/FicheNeuroPhysio.html" rel="alternate" type="text/html" title="Physiologie neurologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/07/FicheNeuroPhysio</id><content type="html" xml:base="https://sylhare.github.io/2020/05/07/FicheNeuroPhysio.html">### Généralités sur les différentes régions du cortex
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/oph_4.png&quot; alt=&quot;Fonction des composants&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Ophtalmologie" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Généralités anatomiques et physiologiques</summary></entry><entry><title type="html">Physiologie neurologie - système nerveux central</title><link href="http://localhost:4000/2020/05/07/FicheNeuroPhysioSNC.html" rel="alternate" type="text/html" title="Physiologie neurologie - système nerveux central" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/FicheNeuroPhysioSNC</id><content type="html" xml:base="http://localhost:4000/2020/05/07/FicheNeuroPhysioSNC.html">&lt;h3 id=&quot;généralités-sur-les-différentes-régions-du-cortex&quot;&gt;Généralités sur les différentes régions du cortex&lt;/h3&gt;
 
--	**Lésion cortex moteur primaire** (frontal postérieur) à droite cause une paralysie à gauche
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Lésion cortex moteur primaire&lt;/strong&gt; (frontal postérieur) à droite cause une paralysie à gauche&lt;/li&gt;
+&lt;/ul&gt;
 
-Lésion  | Effet
-------------- | -------------
-**Aire de Broca**  | Comprend mais ne peut exécuter la parole. Sait ce qu’il veut dire mais ne peut pas le faire
-**Aire de Wernicke**  | Ne comprennent pas ce qu’ils lisent ou entendent mais peuvent parler en articulant correctement
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Lésion&lt;/th&gt;
+      &lt;th&gt;Effet&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Aire de Broca&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Comprend mais ne peut exécuter la parole. Sait ce qu’il veut dire mais ne peut pas le faire&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Aire de Wernicke&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Ne comprennent pas ce qu’ils lisent ou entendent mais peuvent parler en articulant correctement&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-*	**Aire associatives** (qui ne sont pas soit motrices, sensorielles ou du langage) :
-    * _Cortex associatif pariéto-temporo-occipital_ : permet d’acquérir une représentation complète de la situation des diverses parties du corps dans l’environnement
-    * _Cortex associatif préfrontal_ : programmation d’une activité, prise de décision, créativité, traits de personnalité et production idées abstraites
-    * _Cortex associatif limbique_ : motivation, émotions et mémoire
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Aire associatives&lt;/strong&gt; (qui ne sont pas soit motrices, sensorielles ou du langage) :
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Cortex associatif pariéto-temporo-occipital&lt;/em&gt; : permet d’acquérir une représentation complète de la situation des diverses parties du corps dans l’environnement&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Cortex associatif préfrontal&lt;/em&gt; : programmation d’une activité, prise de décision, créativité, traits de personnalité et production idées abstraites&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Cortex associatif limbique&lt;/em&gt; : motivation, émotions et mémoire&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Noyaux gris centraux&lt;/strong&gt; : inhibition du tonus musculaire, suppression de mouvements parasites&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Thalamus&lt;/strong&gt; : dirige l’attention vers un stimuli d’intérêt&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hypothalamus&lt;/strong&gt; : contrôle de la température du corps, soif, production urine (fonctions homéostatiques)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Système limbique&lt;/strong&gt; : comprend les NGC, thalamus, hypothalamus. Rôle clé dans les émotions et le comportement, contrôle des comportements élémentaires. C’et le centre de la récompense et de la stimulation&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Amygdale&lt;/strong&gt; : réaction « avec les tripes » alors que le cortex préfrontal pondère cette réaction&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_1.png&quot; alt=&quot;Fonction des régions&quot; /&gt;
+&lt;img src=&quot;/assets/img/medecine/neuro_2.png&quot; alt=&quot;Position corticale vs région anatomique&quot; /&gt;&lt;/p&gt;
 
-*	**Noyaux gris centraux** : inhibition du tonus musculaire, suppression de mouvements parasites
-*	**Thalamus** : dirige l’attention vers un stimuli d’intérêt
-*	**Hypothalamus** : contrôle de la température du corps, soif, production urine (fonctions homéostatiques)
-*	**Système limbique** : comprend les NGC, thalamus, hypothalamus. Rôle clé dans les émotions et le comportement, contrôle des comportements élémentaires. C’et le centre de la récompense et de la stimulation
-*	**Amygdale** : réaction « avec les tripes » alors que le cortex préfrontal pondère cette réaction
+&lt;h3 id=&quot;moelle-épinière&quot;&gt;Moelle épinière&lt;/h3&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fibres afférentes&lt;/strong&gt; : porteuses de signaux entrants pénètrent dans la moelle par la racine postérieure et quittent la moelle par la racine antérieure.
+    &lt;ul&gt;
+      &lt;li&gt;Corps cellulaires de neurones afférents de la racine postérieure sont groupés pour former le ganglion rachidien&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Corps cellulaires des &lt;strong&gt;neurones efférents&lt;/strong&gt; sont situés dans la substance grise de la moelle et leur axone en sort par la racine antérieure.&lt;/li&gt;
+&lt;/ul&gt;
 
-![Fonction des régions]({{ &quot;/assets/img/medecine/neuro_1.png&quot; | relative_url}})
-![Position corticale vs région anatomique]({{ &quot;/assets/img/medecine/neuro_2.png&quot; | relative_url}})
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_3.png&quot; alt=&quot;Schéma moelle épinière&quot; /&gt;&lt;/p&gt;
 
-### Moelle épinière
+&lt;h3 id=&quot;mémoire&quot;&gt;Mémoire&lt;/h3&gt;
 
-*	**Fibres afférentes** : porteuses de signaux entrants pénètrent dans la moelle par la racine postérieure et quittent la moelle par la racine antérieure.
-    *	Corps cellulaires de neurones afférents de la racine postérieure sont groupés pour former le ganglion rachidien
-*	Corps cellulaires des **neurones efférents** sont situés dans la substance grise de la moelle et leur axone en sort par la racine antérieure.
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Amnésie rétrograde&lt;/strong&gt; : incapacité de se souvenir des évènements récents (trauma, KO, AVC)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Amnésie antérograde&lt;/strong&gt; : incapacité de stocker dans la mémoire long terme en vue d’une utilisation ultérieure&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hippocampe&lt;/strong&gt; : lieu de stockage temporaire des nouvelles données dans la mémoire long terme avant son transfert. Mémoire déclarative : personnes, objets, faits&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cervelet&lt;/strong&gt; : mémoire procédurale inconsciente (« laisser faire son corps » plutôt que de tout raisonner quand on fait du sport) -&amp;gt; ex, dans le cas de lésions temporo-limbiques de patients capables de jouer du piano mais sans s’en souvenir&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lésions du cervelet&lt;/strong&gt; : équilibre instable, tonus musculaire réduit sans paralysie, incapacité de faire en souplesse des mouvements rapides, impossibilité de commencer et arrêter brusquement l’action d’un muscle squelettique.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tronc cérébral&lt;/strong&gt; : Lieu d’origine des 12 paires de nerfs crâniens&lt;/li&gt;
+&lt;/ul&gt;
 
-![Schéma moelle épinière]({{ &quot;/assets/img/medecine/neuro_3.png&quot; | relative_url}})
+&lt;h4 id=&quot;sommeil-2-types&quot;&gt;Sommeil (2 types)&lt;/h4&gt;
 
-### Mémoire
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;A ondes lentes (80%)&lt;/strong&gt; : du stade 1 (léger) à 4 (profond) en 30 à 45min puis repasse en sens inverse à 1 par les autres stades dans le même temps. 10/15 min de sommeil paradoxal entre chaque cycle de sommeil à ondes lentes
+    &lt;blockquote&gt;
+      &lt;p&gt;Remarque : cauchemars, somnambulisme, parole -&amp;gt; en stade 3,4&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paradoxal (20%)&lt;/strong&gt; : EEG semblable à celui de la phase en plein éveil. Inhibition généralisée brusque du tonus musculaire. Immobilité complète. Phase du rêve. Mouvements rapides des yeux&lt;/li&gt;
+&lt;/ul&gt;
 
-* **Amnésie rétrograde** : incapacité de se souvenir des évènements récents (trauma, KO, AVC)
-* **Amnésie antérograde** : incapacité de stocker dans la mémoire long terme en vue d’une utilisation ultérieure
-* **Hippocampe** : lieu de stockage temporaire des nouvelles données dans la mémoire long terme avant son transfert. Mémoire déclarative : personnes, objets, faits
-* **Cervelet** : mémoire procédurale inconsciente (« laisser faire son corps » plutôt que de tout raisonner quand on fait du sport) -&gt; ex, dans le cas de lésions temporo-limbiques de patients capables de jouer du piano mais sans s’en souvenir
+&lt;h3 id=&quot;la-douleur&quot;&gt;La douleur&lt;/h3&gt;
 
-* **Lésions du cervelet** : équilibre instable, tonus musculaire réduit sans paralysie, incapacité de faire en souplesse des mouvements rapides, impossibilité de commencer et arrêter brusquement l’action d’un muscle squelettique.
+&lt;ul&gt;
+  &lt;li&gt;Activité des nocicepteurs renforcée par la présence de prostaglandines qui augmentent fortement la réponse à un stimulus (Aspirine inhibe production de prostaglandines, d’où son effet antalgique).&lt;/li&gt;
+  &lt;li&gt;Deux types de fibres afférentes :
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Voie rapide&lt;/em&gt; : signaux provenant de nocicepteurs mécaniques et thermiques transmis par petites fibres myélinisées.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Voie lente&lt;/em&gt; : signaux provenant de nocicepteurs polymodaux transmis par de petites fibres amyélinisées. Récepteurs activés par la capsaicine (substance piquante des piments rouges). Se lient aussi aux récepteurs de la chaleur -&amp;gt; sensation de brûlure.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Substance P&lt;/strong&gt; : peptide neurotransmetteur de la douleur.&lt;/li&gt;
+  &lt;li&gt;Présence d’un système d’analgésie qui s’oppose à la transmission des voies de la douleur à leur entrée dans la moelle épinière : récepteurs aux opiacés.&lt;/li&gt;
+  &lt;li&gt;Le système d’analgésie naturel est dormant.&lt;/li&gt;
+&lt;/ul&gt;
 
-* **Tronc cérébral** : Lieu d’origine des 12 paires de nerfs crâniens
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_4.png&quot; alt=&quot;Voies sensitives&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Généralités sur les différentes régions du cortex</summary></entry><entry><title type="html">Paires crâniennes</title><link href="http://localhost:4000/2020/05/07/FichePairesCraniennes.html" rel="alternate" type="text/html" title="Paires crâniennes" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/FichePairesCraniennes</id><content type="html" xml:base="http://localhost:4000/2020/05/07/FichePairesCraniennes.html">&lt;h3 id=&quot;liste-des-12-paires-crâniennes&quot;&gt;Liste des 12 paires crâniennes&lt;/h3&gt;
 
-#### Sommeil (2 types)
+&lt;p&gt;Moyen mnémotechnique : &lt;em&gt;&lt;strong&gt;Oh, Oscar ! Ma Petite Théière Me Fait A Grand Peine Six Grogs&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 
-*	**A ondes lentes (80%)** : du stade 1 (léger) à 4 (profond) en 30 à 45min puis repasse en sens inverse à 1 par les autres stades dans le même temps. 10/15 min de sommeil paradoxal entre chaque cycle de sommeil à ondes lentes
-&gt; Remarque : cauchemars, somnambulisme, parole -&gt; en stade 3,4
+&lt;ul&gt;
+  &lt;li&gt;Nerf I (sensoriel) : nerf &lt;strong&gt;olfactif&lt;/strong&gt;, qui est le nerf de l’odorat&lt;/li&gt;
+  &lt;li&gt;Nerf II (sensoriel) : nerf &lt;strong&gt;optique&lt;/strong&gt;, qui est le nerf de la vision&lt;/li&gt;
+  &lt;li&gt;Nerf III (moteur) : nerf &lt;strong&gt;oculomoteur&lt;/strong&gt;, ou &lt;strong&gt;moteur oculaire commun&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Nerf IV (moteur) : nerf &lt;strong&gt;trochléaire&lt;/strong&gt; ou &lt;strong&gt;pathétique&lt;/strong&gt;, innerve le muscle oblique supérieur au niveau oculaire&lt;/li&gt;
+  &lt;li&gt;Nerf V (mixte) : nerf &lt;strong&gt;trijumeau&lt;/strong&gt;, moteur pour les muscles de la mastication et sensitif pour la bouche, la face et la moitié antérieure du scalp&lt;/li&gt;
+  &lt;li&gt;Nerf VI (moteur) : nerf &lt;strong&gt;abducens&lt;/strong&gt; ou moteur oculaire externe, innerve le muscle droit externe au niveau oculaire&lt;/li&gt;
+  &lt;li&gt;Nerf VII (mixte) : nerf &lt;strong&gt;facial&lt;/strong&gt;, moteur pour les muscles de la face et sensitif pour les 2/3 de la langue&lt;/li&gt;
+  &lt;li&gt;Nerf VIII (sensoriel) : nerf &lt;strong&gt;vestibulocochléaire&lt;/strong&gt; ou nerf &lt;strong&gt;auditif&lt;/strong&gt;, il assure l’audition et intervient dans l’équilibre&lt;/li&gt;
+  &lt;li&gt;Nerf IX (mixte) : nerf &lt;strong&gt;glossopharyngien&lt;/strong&gt;, sensibilité du pharynx et de la langue et motricité d’un muscle du pharynx (stylopharyngien)&lt;/li&gt;
+  &lt;li&gt;Nerf X (mixte) : nerf &lt;strong&gt;vague&lt;/strong&gt; ou nerf &lt;strong&gt;pneumogastrique&lt;/strong&gt;, moteur pour les muscles du pharynx, du larynx et du voile du palais, parasympathique et sensitif pour les structures thoraciques et abdominales&lt;/li&gt;
+  &lt;li&gt;Nerf XI (moteur) : nerf &lt;strong&gt;accessoire&lt;/strong&gt; ou nerf &lt;strong&gt;spinal&lt;/strong&gt; pour quelques muscles du cou&lt;/li&gt;
+  &lt;li&gt;Nerf XII (moteur) : nerf &lt;strong&gt;hypoglosse&lt;/strong&gt; ou nerf &lt;strong&gt;grand hypoglosse&lt;/strong&gt; pour tous les muscles de langue&lt;/li&gt;
+&lt;/ul&gt;
 
-*	**Paradoxal (20%)** : EEG semblable à celui de la phase en plein éveil. Inhibition généralisée brusque du tonus musculaire. Immobilité complète. Phase du rêve. Mouvements rapides des yeux
+&lt;h3 id=&quot;version-schéma&quot;&gt;Version schéma&lt;/h3&gt;
 
-### La douleur
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/oph_1.png&quot; alt=&quot;Schéma nerfs crâniens&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Ophtalmologie" /><category term="ORL" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Liste des 12 paires crâniennes</summary></entry><entry><title type="html">Glossaire d’Ophtalmologie</title><link href="http://localhost:4000/2020/05/07/GlossaireOphtalmo.html" rel="alternate" type="text/html" title="Glossaire d'Ophtalmologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/GlossaireOphtalmo</id><content type="html" xml:base="http://localhost:4000/2020/05/07/GlossaireOphtalmo.html">&lt;h3 id=&quot;sémiologie&quot;&gt;Sémiologie&lt;/h3&gt;
 
-* Activité des nocicepteurs renforcée par la présence de prostaglandines qui augmentent fortement la réponse à un stimulus (Aspirine inhibe production de prostaglandines, d’où son effet antalgique).
-*	Deux types de fibres afférentes :
-    *	_Voie rapide_ : signaux provenant de nocicepteurs mécaniques et thermiques transmis par petites fibres myélinisées.
-    *	_Voie lente_ : signaux provenant de nocicepteurs polymodaux transmis par de petites fibres amyélinisées. Récepteurs activés par la capsaicine (substance piquante des piments rouges). Se lient aussi aux récepteurs de la chaleur -&gt; sensation de brûlure.
-*	**Substance P** : peptide neurotransmetteur de la douleur.
-*	Présence d’un système d’analgésie qui s’oppose à la transmission des voies de la douleur à leur entrée dans la moelle épinière : récepteurs aux opiacés.
-*	Le système d'analgésie naturel est dormant.
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Amblyopie&lt;/strong&gt; : différence d’accuité visuelle entre les deux yeux (trouble cortical) -&amp;gt; défaut de parallélisme entre les 2 axes visuels&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Amétropie&lt;/strong&gt; : trouble de la réfraction causant myopie, hypermétropie, astigmatisme&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accommodation&lt;/strong&gt; : modification active de la courbure du cristallin dans la vision de près Blépharite : inflammation des paupières&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Athalamie&lt;/strong&gt; : applatissement total de la chambre antérieure (hypothalamie si partiel)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Chalazion&lt;/strong&gt; : inflammation d’une glande sébacée des paupières Conjonctivite : inflammation de la conjonctive&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Colobome irien&lt;/strong&gt; : malformation congénitale de l’iris&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dacryocystite&lt;/strong&gt; : inflammation du sac lacrymal&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Diplopie&lt;/strong&gt; : double vision&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ectropion&lt;/strong&gt; : bascule de la paupière en dehors&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Endophtalmie&lt;/strong&gt; : infection de l’intérieur du globe oculaire&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Entropion&lt;/strong&gt; : bascule de la paupière en dedans&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Epicanthus&lt;/strong&gt; : cause des yeux bridés&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exophtalmie&lt;/strong&gt; : protrusion en avant du globe oculaire&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fluorescéine&lt;/strong&gt; : colore les déficits épithéliaux (indications : ulcères de cornée, etc.)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hyphéma&lt;/strong&gt; : sang dans la chambre antérieure&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hypopion&lt;/strong&gt; : pus dans la chambre antérieure Kératite : inflammation de la cornée&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Métamorphopsies&lt;/strong&gt; : lignes ondulées, déformées&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mydriase&lt;/strong&gt; : pupille anormalement ouverte&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Myodésopsie&lt;/strong&gt; : mouches volantes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Myosis&lt;/strong&gt; : pupille anormalement fermée&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Orgelet&lt;/strong&gt; : infection d’un follicule pilosébacé d’un cil&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phosphènes&lt;/strong&gt; : flash lumineux&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ptosis&lt;/strong&gt; : paupière anormalement basse&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rubéose irienne&lt;/strong&gt; : Malformation congénitale de l’iris&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Scotome&lt;/strong&gt; : tache aveugle dans le champ visuel&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Signe de Seidel&lt;/strong&gt; : l’humeur aqueuse repousse le film de fluorescéine instillé sur la cornée. Signe une plaie perforante de la cornée&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Test de Schirmer&lt;/strong&gt; : bandelette buvard qui mesure la quantité de larmes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tyndall&lt;/strong&gt; : présence de cellules et/ou de protéines dans l’humeur aqueuse. Signe un saignement ou une inflammation intraoculaire&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Uvéite&lt;/strong&gt; : inflammation de l’uvée. Comprend les uvéites antérieures (iridocyclites), intermédiaires (pars planites) et postérieures (choroïdites)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vert de lissamine, rose Bengale&lt;/strong&gt; : colorent les cellules mortes (indications : œil sec, etc.)&lt;/li&gt;
+&lt;/ul&gt;
 
-![Voies sensitives]({{ &quot;/assets/img/medecine/neuro_4.png&quot; | relative_url}})</content><author><name></name></author><category term="Neurologie" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Généralités sur les différentes régions du cortex</summary></entry><entry><title type="html">Paires crâniennes</title><link href="https://sylhare.github.io/2020/05/07/FichePairesCraniennes.html" rel="alternate" type="text/html" title="Paires crâniennes" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/07/FichePairesCraniennes</id><content type="html" xml:base="https://sylhare.github.io/2020/05/07/FichePairesCraniennes.html">### Liste des 12 paires crâniennes
+&lt;h3 id=&quot;examens-complémentaires&quot;&gt;Examens complémentaires&lt;/h3&gt;
 
-Moyen mnémotechnique : _**Oh, Oscar ! Ma Petite Théière Me Fait A Grand Peine Six Grogs**_
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Atlas d’Ishihara&lt;/strong&gt; : dépistage de troubles de la vision des couleurs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Biométrie&lt;/strong&gt; : mesure de la longueur axiale du globe (calcul de l’implant dans la chirurgie de la cataracte)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;EOG&lt;/strong&gt; : électro-oculogramme&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ERG&lt;/strong&gt; : électrorétinogramme&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Étudient la fonction rétinienne&lt;/strong&gt;. Principales indications : rétinite pigmentaire, suivi de traitements rétinotoxiques (antipaludéens de synthèse)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exophtalmomètre de Hertel&lt;/strong&gt; : étude de l’exophtalmie&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mesure de la tension oculaire&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;indentation&lt;/li&gt;
+      &lt;li&gt;aplanation&lt;/li&gt;
+      &lt;li&gt;air pulsé&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;OCT&lt;/strong&gt; : optical coherence tomography ou tomographie en cohérence optique. Imagerie du fond d’œil non invasive. Étudie la macula et la papille (principales indications : glaucome, DMLA) Pachymétrie : mesure de l’épaisseur de la cornée (utile pour interpréter la tension intraoculaire)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;PEV&lt;/strong&gt; : potentiels évoqués visuels. Étude de la conduction nerveuse sur les voies visuelles (principales indications : pathologies du nerf optique – sclérose en plaques)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Test de Farnsworth&lt;/strong&gt; : suivi de troubles de la vision des couleurs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Topographie cornéenne&lt;/strong&gt; : étude de l’astigmatisme en deux dimensions&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Angiographie&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Effet fenêtre&lt;/em&gt; : lésion qui fait apparaître anormalement la fluorescence choroïdienne sous- jacente, par exemple DMLA atrophique (hyperfluorescence)&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Effet masque&lt;/em&gt; : lésion qui masque la fluorescence rétinienne sous-jacente, par exemple hémorragie (hypofluorescence)&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;ICG&lt;/em&gt; : indocyanine green (vert d’indocyanine). Angiographie destinée à mettre en évidence les néovaisseaux choroïdiens dans la DMLA&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Ophtalmologie" /><category term="Fiche" /><summary type="html">Sémiologie</summary></entry><entry><title type="html">Hackathon EUvsVirus</title><link href="http://localhost:4000/2020/04/26/PubAnalytics.html" rel="alternate" type="text/html" title="Hackathon EUvsVirus" /><published>2020-04-26T00:00:00+02:00</published><updated>2020-04-26T00:00:00+02:00</updated><id>http://localhost:4000/2020/04/26/PubAnalytics</id><content type="html" xml:base="http://localhost:4000/2020/04/26/PubAnalytics.html">&lt;h2 id=&quot;presentation-video&quot;&gt;Presentation video&lt;/h2&gt;
 
-*	Nerf I (sensoriel) : nerf **olfactif**, qui est le nerf de l'odorat
-*	Nerf II (sensoriel) : nerf **optique**, qui est le nerf de la vision
-*	Nerf III (moteur) : nerf **oculomoteur**, ou **moteur oculaire commun**
-*	Nerf IV (moteur) : nerf **trochléaire** ou **pathétique**, innerve le muscle oblique supérieur au niveau oculaire
-*	Nerf V (mixte) : nerf **trijumeau**, moteur pour les muscles de la mastication et sensitif pour la bouche, la face et la moitié antérieure du scalp
-*	Nerf VI (moteur) : nerf **abducens** ou moteur oculaire externe, innerve le muscle droit externe au niveau oculaire
-*	Nerf VII (mixte) : nerf **facial**, moteur pour les muscles de la face et sensitif pour les 2/3 de la langue
-*	Nerf VIII (sensoriel) : nerf **vestibulocochléaire** ou nerf **auditif**, il assure l'audition et intervient dans l'équilibre
-*	Nerf IX (mixte) : nerf **glossopharyngien**, sensibilité du pharynx et de la langue et motricité d'un muscle du pharynx (stylopharyngien)
-*	Nerf X (mixte) : nerf **vague** ou nerf **pneumogastrique**, moteur pour les muscles du pharynx, du larynx et du voile du palais, parasympathique et sensitif pour les structures thoraciques et abdominales
-*	Nerf XI (moteur) : nerf **accessoire** ou nerf **spinal** pour quelques muscles du cou
-*	Nerf XII (moteur) : nerf **hypoglosse** ou nerf **grand hypoglosse** pour tous les muscles de langue
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6AHYLxZzThY&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/6AHYLxZzThY/0.jpg&quot; alt=&quot;Presentation video&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-### Version schéma
+&lt;h2 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;The sudden outbreak of the COVID-19 pandemic caused by SARS-COV-2 virus is responsible for a major health, economic and social tragedy. It makes COVID-19 one of the biggest crisis in our lifetime. However, as this Hackathon shows, it is also the root of many collective initiatives which are, in turn, sources of hope for the future.&lt;/p&gt;
 
-![Schéma nerfs crâniens]({{ &quot;/assets/img/medecine/oph_1.png&quot; | relative_url}})</content><author><name></name></author><category term="Neurologie" /><category term="Ophtalmologie" /><category term="ORL" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Liste des 12 paires crâniennes</summary></entry><entry><title type="html">Glossaire d’Ophtalmologie</title><link href="https://sylhare.github.io/2020/05/07/GlossaireOphtalmo.html" rel="alternate" type="text/html" title="Glossaire d'Ophtalmologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/07/GlossaireOphtalmo</id><content type="html" xml:base="https://sylhare.github.io/2020/05/07/GlossaireOphtalmo.html">### Sémiologie
+&lt;p&gt;For its extraordinary nature in our contemporary lives and for the damage it causes in our societies, many researchers around the world mobilized themselves to try understand this new disease. Consequently, the number of search results related to the subject in medical article databases has exploded. For example, the keyword &lt;em&gt;COVID-19&lt;/em&gt; has 43,943 results on the &lt;em&gt;EuropePMC&lt;/em&gt; database on 04/24/2020, at the beginning of the Hackathon.&lt;/p&gt;
 
-* **Amblyopie** : différence d'accuité visuelle entre les deux yeux (trouble cortical) -&gt; défaut de parallélisme entre les 2 axes visuels
-* **Amétropie** : trouble de la réfraction causant myopie, hypermétropie, astigmatisme
-* **Accommodation** : modification active de la courbure du cristallin dans la vision de près Blépharite : inflammation des paupières
-* **Athalamie** : applatissement total de la chambre antérieure (hypothalamie si partiel)
-* **Chalazion** : inflammation d'une glande sébacée des paupières Conjonctivite : inflammation de la conjonctive
-* **Colobome irien** : malformation congénitale de l'iris
-* **Dacryocystite** : inflammation du sac lacrymal
-* **Diplopie** : double vision
-* **Ectropion** : bascule de la paupière en dehors
-* **Endophtalmie** : infection de l'intérieur du globe oculaire
-* **Entropion** : bascule de la paupière en dedans
-* **Epicanthus** : cause des yeux bridés
-* **Exophtalmie** : protrusion en avant du globe oculaire
-* **Fluorescéine** : colore les déficits épithéliaux (indications : ulcères de cornée, etc.)
-* **Hyphéma** : sang dans la chambre antérieure
-* **Hypopion** : pus dans la chambre antérieure Kératite : inflammation de la cornée
-* **Métamorphopsies** : lignes ondulées, déformées
-* **Mydriase** : pupille anormalement ouverte
-* **Myodésopsie** : mouches volantes
-* **Myosis** : pupille anormalement fermée
-* **Orgelet** : infection d'un follicule pilosébacé d'un cil
-* **Phosphènes** : flash lumineux
-* **Ptosis** : paupière anormalement basse
-* **Rubéose irienne** : Malformation congénitale de l'iris
-* **Scotome** : tache aveugle dans le champ visuel
-* **Signe de Seidel** : l'humeur aqueuse repousse le film de fluorescéine instillé sur la cornée. Signe une plaie perforante de la cornée
-* **Test de Schirmer** : bandelette buvard qui mesure la quantité de larmes
-* **Tyndall** : présence de cellules et/ou de protéines dans l'humeur aqueuse. Signe un saignement ou une inflammation intraoculaire
-* **Uvéite** : inflammation de l'uvée. Comprend les uvéites antérieures (iridocyclites), intermédiaires (pars planites) et postérieures (choroïdites)
-* **Vert de lissamine, rose Bengale** : colorent les cellules mortes (indications : œil sec, etc.)
+&lt;p&gt;However, the result of this explosion in the number of publications, with numerous different scientific tracks, make it very difficult to apprehend these researches and to have an accurate overview.&lt;/p&gt;
 
-### Examens complémentaires
+&lt;h2 id=&quot;what-it-does&quot;&gt;What it does&lt;/h2&gt;
+&lt;p&gt;Our platform allows to access information that are usually not accessible with common research platforms.
+For example, when one looks for a randomized clinical trial on COVID-19 on the &lt;em&gt;EuropePMC&lt;/em&gt; database, they will receive a list with numerous articles including their keywords “randomized clinical trial” and “COVID-19”. Now, should one wants to find information about which potential COVID-19 treatments have been investigated in clinical trials, there are two solutions :&lt;/p&gt;
 
-* **Atlas d'Ishihara** : dépistage de troubles de la vision des couleurs
-* **Biométrie** : mesure de la longueur axiale du globe (calcul de l'implant dans la chirurgie de la cataracte)
-* **EOG** : électro-oculogramme
-* **ERG** : électrorétinogramme
-* **Étudient la fonction rétinienne**. Principales indications : rétinite pigmentaire, suivi de traitements rétinotoxiques (antipaludéens de synthèse)
-* **Exophtalmomètre de Hertel** : étude de l'exophtalmie
-* **Mesure de la tension oculaire** :
-    * indentation
-    * aplanation
-    * air pulsé
-* **OCT** : optical coherence tomography ou tomographie en cohérence optique. Imagerie du fond d'œil non invasive. Étudie la macula et la papille (principales indications : glaucome, DMLA) Pachymétrie : mesure de l'épaisseur de la cornée (utile pour interpréter la tension intraoculaire)
-* **PEV** : potentiels évoqués visuels. Étude de la conduction nerveuse sur les voies visuelles (principales indications : pathologies du nerf optique – sclérose en plaques)
-* **Test de Farnsworth** : suivi de troubles de la vision des couleurs
-* **Topographie cornéenne** : étude de l'astigmatisme en deux dimensions
-* **Angiographie**
-    * *Effet fenêtre* : lésion qui fait apparaître anormalement la fluorescence choroïdienne sous- jacente, par exemple DMLA atrophique (hyperfluorescence)
-    * *Effet masque* : lésion qui masque la fluorescence rétinienne sous-jacente, par exemple hémorragie (hypofluorescence)
-    * *ICG* : indocyanine green (vert d'indocyanine). Angiographie destinée à mettre en évidence les néovaisseaux choroïdiens dans la DMLA</content><author><name></name></author><category term="Ophtalmologie" /><category term="Fiche" /><summary type="html">Sémiologie</summary></entry><entry><title type="html">Hackathon EUvsVirus</title><link href="https://sylhare.github.io/2020/04/26/PubAnalytics.html" rel="alternate" type="text/html" title="Hackathon EUvsVirus" /><published>2020-04-26T00:00:00+02:00</published><updated>2020-04-26T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/04/26/PubAnalytics</id><content type="html" xml:base="https://sylhare.github.io/2020/04/26/PubAnalytics.html">## Presentation video
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;search each combination &lt;em&gt;“[treatment keyword]” + “randomized clinical trial”&lt;/em&gt; testing all the treatments one thinks that may have been investigated (at the high risk of forgetting some).&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
 
-[![Presentation video](https://img.youtube.com/vi/6AHYLxZzThY/0.jpg)](https://www.youtube.com/watch?v=6AHYLxZzThY)
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;search &lt;em&gt;“randomized clinical trial”&lt;/em&gt;, browse all the results and manually retrieve all the different treatments trials.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
 
+&lt;p&gt;Unfortunately, both approaches are obviously not efficient nor satisfying.
+What we offer with &lt;strong&gt;PubAnalytics&lt;/strong&gt; (&lt;a href=&quot;pubanalytics.eu&quot;&gt;link&lt;/a&gt;) is a solution to this type of questions. We proposed a new way of dealing with big data to contextualize the user query.&lt;/p&gt;
 
-## Inspiration
-The sudden outbreak of the COVID-19 pandemic caused by SARS-COV-2 virus is responsible for a major health, economic and social tragedy. It makes COVID-19 one of the biggest crisis in our lifetime. However, as this Hackathon shows, it is also the root of many collective initiatives which are, in turn, sources of hope for the future.
+&lt;p&gt;Let’s return to the previous example and see how &lt;strong&gt;PubAnalytics&lt;/strong&gt; (&lt;a href=&quot;pubanalytics.eu&quot;&gt;link&lt;/a&gt;) works when one looks for a randomized clinical trial on COVID-19 on the &lt;em&gt;EuropePMC&lt;/em&gt; database :&lt;/p&gt;
 
-For its extraordinary nature in our contemporary lives and for the damage it causes in our societies, many researchers around the world mobilized themselves to try understand this new disease. Consequently, the number of search results related to the subject in medical article databases has exploded. For example, the keyword _COVID-19_ has 43,943 results on the _EuropePMC_ database on 04/24/2020, at the beginning of the Hackathon.
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;search &lt;em&gt;“randomized clinical trial”&lt;/em&gt; (the database is restricted to papers about COVID-19 extracted from the &lt;em&gt;EuropePMC&lt;/em&gt; database for the challenge) click enter and … let the magic happen!!&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
 
-However, the result of this explosion in the number of publications, with numerous different scientific tracks, make it very difficult to apprehend these researches and to have an accurate overview.
-
-## What it does
-Our platform allows to access information that are usually not accessible with common research platforms.
-For example, when one looks for a randomized clinical trial on COVID-19 on the _EuropePMC_ database, they will receive a list with numerous articles including their keywords &quot;randomized clinical trial&quot; and &quot;COVID-19&quot;. Now, should one wants to find information about which potential COVID-19 treatments have been investigated in clinical trials, there are two solutions :
-
-&gt;* search each combination _&quot;[treatment keyword]&quot; + &quot;randomized clinical trial&quot;_ testing all the treatments one thinks that may have been investigated (at the high risk of forgetting some).
-
-&gt;* search _&quot;randomized clinical trial&quot;_, browse all the results and manually retrieve all the different treatments trials.
-
-Unfortunately, both approaches are obviously not efficient nor satisfying.
-What we offer with **PubAnalytics** ([link](pubanalytics.eu)) is a solution to this type of questions. We proposed a new way of dealing with big data to contextualize the user query.
-
-Let's return to the previous example and see how **PubAnalytics** ([link](pubanalytics.eu)) works when one looks for a randomized clinical trial on COVID-19 on the _EuropePMC_ database :
-
-&gt;* search _&quot;randomized clinical trial&quot;_ (the database is restricted to papers about COVID-19 extracted from the _EuropePMC_ database for the challenge) click enter and ... let the magic happen!!
-
-For now, we give access to three different visualization plots for the results :
-* a diagram displaying all the treatments involved in a randomized clinical trial about COVID-19
-* a diagram displaying the number of papers with the keyword &quot;randomized clinical trial&quot; and COVID-19
-* a diagram displaying the country distribution of the randomized clinical trial about COVID-19
+&lt;p&gt;For now, we give access to three different visualization plots for the results :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;a diagram displaying all the treatments involved in a randomized clinical trial about COVID-19&lt;/li&gt;
+  &lt;li&gt;a diagram displaying the number of papers with the keyword “randomized clinical trial” and COVID-19&lt;/li&gt;
+  &lt;li&gt;a diagram displaying the country distribution of the randomized clinical trial about COVID-19
 At the bottom, you can also can browse the results corresponding to the request in a more conventional way, as it is in
-_EuropePMC_ website for example.
+&lt;em&gt;EuropePMC&lt;/em&gt; website for example.&lt;/li&gt;
+&lt;/ul&gt;
 
-This is just an example of prototype for the platform we will build. The best is to try it out.
-## How we built it
-We constructed a website allowing to perform queries on the _EuropePMC_ database that gathers &quot;_a worldwide collection of life science publications and preprints from trusted sources around the globe_&quot;.
+&lt;p&gt;This is just an example of prototype for the platform we will build. The best is to try it out.&lt;/p&gt;
+&lt;h2 id=&quot;how-we-built-it&quot;&gt;How we built it&lt;/h2&gt;
+&lt;p&gt;We constructed a website allowing to perform queries on the &lt;em&gt;EuropePMC&lt;/em&gt; database that gathers “&lt;em&gt;a worldwide collection of life science publications and preprints from trusted sources around the globe&lt;/em&gt;”.&lt;/p&gt;
 
-In parallel, we constructed a database of molecules used in medical clinical routine practice approved by the _EMA_ and _FDA_ including the main treatments candidates tested in COVID-19 trials. C. Lozza, a PharmD, PhD researcher advised us for this task.
+&lt;p&gt;In parallel, we constructed a database of molecules used in medical clinical routine practice approved by the &lt;em&gt;EMA&lt;/em&gt; and &lt;em&gt;FDA&lt;/em&gt; including the main treatments candidates tested in COVID-19 trials. C. Lozza, a PharmD, PhD researcher advised us for this task.&lt;/p&gt;
 
-Then, we built a basic API allowing to search by keywords and improved the results by cross-referencing our molecule database and _EuropePMC_. Behind, autonomous agents take care of this process to improve the cross-referencing and improve our results day by day.
+&lt;p&gt;Then, we built a basic API allowing to search by keywords and improved the results by cross-referencing our molecule database and &lt;em&gt;EuropePMC&lt;/em&gt;. Behind, autonomous agents take care of this process to improve the cross-referencing and improve our results day by day.&lt;/p&gt;
 
-## Challenges we ran into
-The challenges we ran into are closely related to the tasks we described in the previous section. We needed to pool and assemble very different skills from our team of computer science PhDs. As there were only three of us, we divided the tasks : S.B. was responsible for the database management, the front and backend of the website, V.I. was responsible for the visualization part and its integration in the website and F.K. was responsible for the coordination and the medical part. Communication was the key, and we are pleased with the way we have dealt with the challenges of this project.
-## Accomplishments that we're proud of
-We are proud to have succeeded in creating a website from scratch in two and a half days and teleworking due to the containment rules. And of course we hope that this new platform will, from now on, be useful to the scientific community and continue to develop itself since we truly believe in the potential of this project.
+&lt;h2 id=&quot;challenges-we-ran-into&quot;&gt;Challenges we ran into&lt;/h2&gt;
+&lt;p&gt;The challenges we ran into are closely related to the tasks we described in the previous section. We needed to pool and assemble very different skills from our team of computer science PhDs. As there were only three of us, we divided the tasks : S.B. was responsible for the database management, the front and backend of the website, V.I. was responsible for the visualization part and its integration in the website and F.K. was responsible for the coordination and the medical part. Communication was the key, and we are pleased with the way we have dealt with the challenges of this project.&lt;/p&gt;
+&lt;h2 id=&quot;accomplishments-that-were-proud-of&quot;&gt;Accomplishments that we’re proud of&lt;/h2&gt;
+&lt;p&gt;We are proud to have succeeded in creating a website from scratch in two and a half days and teleworking due to the containment rules. And of course we hope that this new platform will, from now on, be useful to the scientific community and continue to develop itself since we truly believe in the potential of this project.&lt;/p&gt;
 
-## What we learned
-Building a website of this type, aggregating skills in so many different fields with so many different technologies, in a weekend, with only three people, was a great learning experience for us, at very different levels. It allowed us to surpass our limits and to set up an ambitious project. #TeamWork!
+&lt;h2 id=&quot;what-we-learned&quot;&gt;What we learned&lt;/h2&gt;
+&lt;p&gt;Building a website of this type, aggregating skills in so many different fields with so many different technologies, in a weekend, with only three people, was a great learning experience for us, at very different levels. It allowed us to surpass our limits and to set up an ambitious project. #TeamWork!&lt;/p&gt;
 
-## What's next for PubAnalytics
-This is just the beginning of PubAnalytics. By investing the time to reflect on this project, immersed in this Hackathon during 3 days, we imagined many development perspectives for **PubAnalytics** [link](pubanalytics.eu). The idea of the project, through this Hackathon, was to give access to more efficient, global, and clearer vision of COVID-19 treatments involved in medical studies for researchers and physicians. Even if some improvements and updates are still to be made, we are proud to have developed this website prototype.
+&lt;h2 id=&quot;whats-next-for-pubanalytics&quot;&gt;What’s next for PubAnalytics&lt;/h2&gt;
+&lt;p&gt;This is just the beginning of PubAnalytics. By investing the time to reflect on this project, immersed in this Hackathon during 3 days, we imagined many development perspectives for &lt;strong&gt;PubAnalytics&lt;/strong&gt; &lt;a href=&quot;pubanalytics.eu&quot;&gt;link&lt;/a&gt;. The idea of the project, through this Hackathon, was to give access to more efficient, global, and clearer vision of COVID-19 treatments involved in medical studies for researchers and physicians. Even if some improvements and updates are still to be made, we are proud to have developed this website prototype.&lt;/p&gt;
 
-We believe we can scale this initiative to medical research in a more global way, allowing researchers working in pre-clinical, hospital, or biology laboratories to have access to our literature research and visualization tools. We also think that this initiative could also be a new powerful platform for performing meta-analysis.
-Indeed, the environment is conducive to the use of technologies such as machine learning, natural language processing (NLP), etc. These tools would greatly improve the analysis we provide, allowing the users to interact with the figures we provide, yielding to more accurate researches.
+&lt;p&gt;We believe we can scale this initiative to medical research in a more global way, allowing researchers working in pre-clinical, hospital, or biology laboratories to have access to our literature research and visualization tools. We also think that this initiative could also be a new powerful platform for performing meta-analysis.
+Indeed, the environment is conducive to the use of technologies such as machine learning, natural language processing (NLP), etc. These tools would greatly improve the analysis we provide, allowing the users to interact with the figures we provide, yielding to more accurate researches.&lt;/p&gt;
 
-We definitely plan to keep on growing this project. It is obvious to us that this project must remain an open access tool. Thus, we plan to raise money from university institutions (2 of the members are working for University of Montpellier and Lille, in France) in order to continue to develop the functionalities of **PubAnalytics** and maybe, at least we hope so, contribute to research in our own way.</content><author><name></name></author><category term="Hackaton" /><category term="PubAnalytics" /><summary type="html">Presentation video</summary></entry></feed>
+&lt;p&gt;We definitely plan to keep on growing this project. It is obvious to us that this project must remain an open access tool. Thus, we plan to raise money from university institutions (2 of the members are working for University of Montpellier and Lille, in France) in order to continue to develop the functionalities of &lt;strong&gt;PubAnalytics&lt;/strong&gt; and maybe, at least we hope so, contribute to research in our own way.&lt;/p&gt;</content><author><name></name></author><category term="Hackaton" /><category term="PubAnalytics" /><summary type="html">Presentation video</summary></entry></feed>

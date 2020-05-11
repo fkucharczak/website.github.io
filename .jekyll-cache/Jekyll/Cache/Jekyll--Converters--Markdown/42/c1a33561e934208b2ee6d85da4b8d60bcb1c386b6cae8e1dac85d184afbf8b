@@ -1,0 +1,47 @@
+I"V<h3 id="différentes-séquences-utiles-en-irm-pour-la-neurologie">Différentes séquences utiles en IRM pour la neurologie</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Séquence</th>
+      <th>Caractéristiques</th>
+      <th>Exemple</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>T1</strong><br />(INJECTÉ OU PAS)</td>
+      <td>LCR : noir<br />Muscle : gris<br />Moelle spinale : gris<br />Graisse : blanc<br />Disques para vertébraux : gris<br /> Air : très noir<br />Inflammation (œdème, zone infarcie, démyélinisation) : foncé</td>
+      <td><img src="/assets/img/medecine/IRM_1.png" alt="T1" /></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><strong>T2</strong></td>
+      <td>LCR : blanc<br />Muscle : noir<br />Moelle spinale : gris clair<br />Graisse : blanc (gris clair)<br />Disques para vertébraux : blanc<br /> Air : très noir<br />Inflammation (œdème, zone infarcie, démyélinisation) : blanc</td>
+      <td><img src="/assets/img/medecine/IRM_2.png" alt="T1" /></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><strong>T2 FLAIR</strong></td>
+      <td>T2 avec suppression du LCR</td>
+      <td><img src="/assets/img/medecine/IRM_3.png" alt="T1" /></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><strong>T2</strong></td>
+      <td>Présence de produits sanguins et de calcifications en raison des propriétés de susceptibilité de ces matériaux</td>
+      <td><img src="/assets/img/medecine/IRM_4.png" alt="T1" /></td>
+    </tr>
+    <tr>
+      <td><strong>Diffusion</strong></td>
+      <td><em>Mouvement des molécules d’eau entraine une réduction du signal</em><br />Mouvement intense : hypo-intense<br />Mouvement restreint comme dans les tissus hyper-cellulaires (tumeur) : hyper-intense</td>
+      <td><img src="/assets/img/medecine/IRM_5.png" alt="T1" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>:iphone</p>
+:ET

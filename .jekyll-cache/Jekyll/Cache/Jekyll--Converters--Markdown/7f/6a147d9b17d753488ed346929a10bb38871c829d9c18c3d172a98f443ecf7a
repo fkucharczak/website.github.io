@@ -1,0 +1,112 @@
+I"<h3 id="voies-efférentes">Voies efférentes</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Système nerveux somatique</th>
+      <th>Système nerveux autonome</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Exerce son influence sur les muscles squelettiques</td>
+      <td><em>Pas soumis au contrôle volontaire</em> <br /> -&gt; muscle cardiaque, muscles lisses, glandes exocrines et certaines endocrines</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td><strong>Sympathique</strong> ou <strong>Parasympathique</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>Sympathique</strong> :
+    <ul>
+      <li>Courts neurones pré-ganglionnaires <strong>cholinergiques</strong></li>
+      <li>Longs neurones post-ganglionnaires <strong>adrénergiques</strong></li>
+    </ul>
+  </li>
+  <li><strong>Parasympathique</strong> :
+    <ul>
+      <li>Longs neurones pré-ganglionnaires <strong>cholinergiques</strong></li>
+      <li>Courts neurones post-ganglionnaires <strong>cholinergiques</strong></li>
+    </ul>
+  </li>
+  <li>Chaque voie possède deux neurones l’un à la suite de l’autre :
+    <ul>
+      <li>1er : neurone pré-ganglionnaire -&gt; corps cellulaire dans le SNC</li>
+      <li>2e : neurone post-ganglionnaire -&gt; corps cellulaire situé en dehors du SNC et innerve les organes effecteurs.</li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p>Rappel : ganglion = ensemble de corps cellulaires de neurones situés en dehors du SNC</p>
+</blockquote>
+
+<p><img src="/assets/img/medecine/neuro_5.png" alt="Voies sensitives" /></p>
+
+<ul>
+  <li><strong>Dominance parasympathique</strong> : en situation calme, sans menace, l’organisme fait passer au premier plan la digestion et le repos.</li>
+  <li><strong>Dominance sympathique</strong> : prépare l’organisme à une activité physique intense en cas de situation stressante. Préparation à la fuite ou à la lutte (cœur accélère, PA augmente, vasoconstriction…)
+<br /></li>
+</ul>
+
+<h4 id="récepteurs-cholinergiques">Récepteurs cholinergiques</h4>
+<ul>
+  <li><strong>Nicotiniques</strong> : sur le corps cellulaire des neurones post-ganglionnaires de tous les ganglions du SNA. Répondent à l’acétylcholine.</li>
+  <li><strong>Muscariniques</strong> : dans la membrane des cellules effectrices (muscle cardiaque, muscles lisses…). Stimulés par liaison à acétylcholine.</li>
+</ul>
+
+<h4 id="récepteurs-adrénergiques-">Récepteurs adrénergiques :</h4>
+
+<p>Deux classes de récepteurs à l’adrénaline et noradrénaline :<br /></p>
+<ul>
+  <li><strong>Alpha</strong> : plus grande affinité pour la noradrénaline que pour l’adrénaline
+    <ul>
+      <li><em>Alpha 1 (excitateur)</em> : plupart des tissus cible du sympathique</li>
+      <li><em>Alpha 2 (inhibiteur)</em> : au niveau des organes digestifs</li>
+    </ul>
+  </li>
+  <li><strong>Beta</strong> :
+    <ul>
+      <li><em>Beta 1 (excitateur)</em> : exclusivement localisés au niveau du cœur.
+Affinité identique pour adrénaline ou noradrénaline.</li>
+      <li><em>Beta 2 (inhibiteur)</em> : au niveau des muscles lisses, artérioles et bronchioles.
+Affinité exclusive à l’adrénaline.<br /><br /></li>
+    </ul>
+  </li>
+  <li><strong>Médicament agoniste</strong> : se lie au récepteur -&gt; <em>mime le neurotransmetteur</em></li>
+  <li><strong>Médicament antagoniste</strong> : se lie au récepteur et <em>bloque la liaison du neurotransmetteur</em> (même l’agoniste ne produit plus d’effet</li>
+</ul>
+
+<h3 id="système-nerveux-somatique">Système nerveux somatique</h3>
+
+<ul>
+  <li><strong>Motoneurones</strong> :
+    <ul>
+      <li><em>A l’inverse du système autonome</em> : l’axone du motoneurone va directeur du SNC au muscle qu’il innerve.</li>
+      <li><em>Terminaison du motoneurone</em> : libère de l’acétylcholine qui entraine contraction musculaire</li>
+      <li><em>Seul rôle du motoneurone</em> : stimuler les muscles squelettiques</li>
+    </ul>
+
+    <p>•	Maladies des motoneurones :
+o	Poliomyélite : destruction du corps des motoneurones par le virus
+o	SLA (= Charcot) : dégénérescence et mort des motoneurones de cause indéterminée</p>
+  </li>
+  <li>
+    <p><strong>Jonction neuromusculaire</strong> :
+•	L’acétylcholine est le neurotransmetteur de la jonction musculaire.
+•	Acétylcholinestérase met fin à l’action de l’acétylcholine dans la jonction neuromusculaire : quand plus de signal du motoneurone, l’activité électrique de la fibre musculaire est interrompue grâce à cette enzyme qui inactive l’acétylcholine.</p>
+
+    <p>•	Application en pathologie :
+o	Venin de la veuve noire : cause libération explosive d’ACh
+o	Toxine botulique : bloque la libération d’ACh
+o	Curare : bloque action de l’ACh sur les récepteurs (paralysie musculaire réversible)
+o	Myasthénie : inactive les sites récepteurs de l’ACh. Extrême fatigabilité musculaire. Attaque auto-immune d’Ac contre les récepteurs
+o	Organophosphores : s’opposent de façon irréversible à l’activité de l’acétylcholinestérase. Présents dans pesticides et gaz de combat</p>
+  </li>
+</ul>
+:ET
