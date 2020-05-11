@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://sylhare.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sylhare.github.io/" rel="alternate" type="text/html" /><updated>2020-05-11T14:19:33+02:00</updated><id>https://sylhare.github.io/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Physiologie neurologie</title><link href="https://sylhare.github.io/2020/05/07/FicheNeuroPhysio.html" rel="alternate" type="text/html" title="Physiologie neurologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/07/FicheNeuroPhysio</id><content type="html" xml:base="https://sylhare.github.io/2020/05/07/FicheNeuroPhysio.html">### Généralités sur les différentes régions du cortex
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://sylhare.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sylhare.github.io/" rel="alternate" type="text/html" /><updated>2020-05-11T20:41:53+02:00</updated><id>https://sylhare.github.io/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Physiologie opthalmologie</title><link href="https://sylhare.github.io/2020/05/11/FichePhysioOphtalmo.html" rel="alternate" type="text/html" title="Physiologie opthalmologie" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/11/FichePhysioOphtalmo</id><content type="html" xml:base="https://sylhare.github.io/2020/05/11/FichePhysioOphtalmo.html">&lt;h3 id=&quot;généralités-anatomiques-et-physiologiques&quot;&gt;Généralités anatomiques et physiologiques&lt;/h3&gt;
+
+&lt;p&gt;L’œil est composé de trois couches (de l’extérieur vers l’intérieur) :
+•	Cornée
+•	Ensemble choroïde – corps ciliaire – iris
+•	Rétine&lt;/p&gt;
+
+&lt;p&gt;Deux éléments importants :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Chambre antérieure&lt;/strong&gt; : composée d’humeur aqueuse : nutriments pour cornée et cristallin qui ne sont pas irrigués de sang. Passe par les corps ciliaires et retourne dans le sang par un canal à l’angle de la cornée.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Glaucome&lt;/em&gt; : problème de drainage de l’humeur aqueuse -&amp;gt; cristallin repoussé dans l’humeur vitrée qui presse sur la rétine et la lèse, ainsi que le nerf optique&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Chambre postérieure&lt;/strong&gt; : composée d’humeur vitrée : substance semi-fluide, gélatineuse située entre cristallin et rétine, permet la conservation de la forme sphérique de l’œil.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/oph_2.png&quot; alt=&quot;Anatomie&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Deux composants essentiels de l’appareil réfracteur :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Cornée&lt;/strong&gt; : courbure immuable (irrégulière dans l’astigmatisme)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cristallin&lt;/strong&gt; : courbure ajustable de manière à pouvoir voir de loin comme de près. Quand perte d’élasticité -&amp;gt; presbytie
+    &lt;ul&gt;
+      &lt;li&gt;Fibres élastiques du cristallin normalement transparentes, quand deviennent opaques -&amp;gt; cataracte&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/oph_3.png&quot; alt=&quot;Troubles de la réfraction&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Tache jaune&lt;/strong&gt; : zone entourant la fovéa : forte concentration de cônes, lieu de vision précise
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Dégénérescence maculaire liée à l’âge&lt;/strong&gt; : perte de photorécepteurs de la tâche jaune associée au vieillissement qui occasionne la perte de la vision centrale (et maximale) du champ visuel&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cécité nocturne&lt;/strong&gt; : conséquence d’une lacune en vitamine A (carottes sont bonnes pour les yeux)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/oph_4.png&quot; alt=&quot;Fonction des composants&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Ophtalmologie" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Généralités anatomiques et physiologiques</summary></entry><entry><title type="html">Physiologie neurologie</title><link href="https://sylhare.github.io/2020/05/07/FicheNeuroPhysio.html" rel="alternate" type="text/html" title="Physiologie neurologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/07/FicheNeuroPhysio</id><content type="html" xml:base="https://sylhare.github.io/2020/05/07/FicheNeuroPhysio.html">### Généralités sur les différentes régions du cortex
 
 -	**Lésion cortex moteur primaire** (frontal postérieur) à droite cause une paralysie à gauche
 
