@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications et présentations
+title: Recherche
 permalink: /about/
 feature-img: "assets/img/img_design_site/bg.jpeg"
 tags: [Publications, Articles, Recherche]

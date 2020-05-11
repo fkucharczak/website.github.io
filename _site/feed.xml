@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-07T23:46:45+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Physiologie neurologie</title><link href="http://localhost:4000/2020/05/07/FicheNeuroPhysio.html" rel="alternate" type="text/html" title="Physiologie neurologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/FicheNeuroPhysio</id><content type="html" xml:base="http://localhost:4000/2020/05/07/FicheNeuroPhysio.html">&lt;h3 id=&quot;généralités-sur-les-différentes-régions-du-cortex&quot;&gt;Généralités sur les différentes régions du cortex&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-11T14:00:27+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Physiologie neurologie</title><link href="http://localhost:4000/2020/05/07/FicheNeuroPhysio.html" rel="alternate" type="text/html" title="Physiologie neurologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/FicheNeuroPhysio</id><content type="html" xml:base="http://localhost:4000/2020/05/07/FicheNeuroPhysio.html">&lt;h3 id=&quot;généralités-sur-les-différentes-régions-du-cortex&quot;&gt;Généralités sur les différentes régions du cortex&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Lésion cortex moteur primaire&lt;/strong&gt; (frontal postérieur) à droite cause une paralysie à gauche&lt;/li&gt;
@@ -119,20 +119,31 @@
 &lt;p&gt;&lt;img src=&quot;/assets/img/medecine/oph_1.png&quot; alt=&quot;Schéma nerfs crâniens&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Ophtalmologie" /><category term="ORL" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Liste des 12 paires crâniennes</summary></entry><entry><title type="html">Glossaire d’Ophtalmologie</title><link href="http://localhost:4000/2020/05/07/GlossaireOphtalmo.html" rel="alternate" type="text/html" title="Glossaire d'Ophtalmologie" /><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/07/GlossaireOphtalmo</id><content type="html" xml:base="http://localhost:4000/2020/05/07/GlossaireOphtalmo.html">&lt;h3 id=&quot;sémiologie&quot;&gt;Sémiologie&lt;/h3&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Amblyopie&lt;/strong&gt; : différence d’accuité visuelle entre les deux yeux (trouble cortical) -&amp;gt; défaut de parallélisme entre les 2 axes visuels&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Amétropie&lt;/strong&gt; : trouble de la réfraction causant myopie, hypermétropie, astigmatisme&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Accommodation&lt;/strong&gt; : modification active de la courbure du cristallin dans la vision de près Blépharite : inflammation des paupières&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Athalamie&lt;/strong&gt; : applatissement total de la chambre antérieure (hypothalamie si partiel)&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Chalazion&lt;/strong&gt; : inflammation d’une glande sébacée des paupières Conjonctivite : inflammation de la conjonctive&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Colobome irien&lt;/strong&gt; : malformation congénitale de l’iris&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Dacryocystite&lt;/strong&gt; : inflammation du sac lacrymal&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Diplopie&lt;/strong&gt; : double vision&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Ectropion&lt;/strong&gt; : bascule de la paupière en dehors&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Endophtalmie&lt;/strong&gt; : infection de l’intérieur du globe oculaire&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Entropion&lt;/strong&gt; : bascule de la paupière en dedans&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Epicanthus&lt;/strong&gt; : cause des yeux bridés&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Exophtalmie&lt;/strong&gt; : protrusion en avant du globe oculaire&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Fluorescéine&lt;/strong&gt; : colore les déficits épithéliaux (indications : ulcères de cornée, etc.)&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Hyphéma&lt;/strong&gt; : sang dans la chambre antérieure&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Hypopion&lt;/strong&gt; : pus dans la chambre antérieure Kératite : inflammation de la cornée&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Métamorphopsies&lt;/strong&gt; : lignes ondulées, déformées&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Mydriase&lt;/strong&gt; : pupille anormalement ouverte&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Myodésopsie&lt;/strong&gt; : mouches volantes&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Myosis&lt;/strong&gt; : pupille anormalement fermée&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Orgelet&lt;/strong&gt; : infection d’un follicule pilosébacé d’un cil&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phosphènes&lt;/strong&gt; : flash lumineux&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Ptosis&lt;/strong&gt; : paupière anormalement basse&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rubéose irienne&lt;/strong&gt; : Malformation congénitale de l’iris&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Scotome&lt;/strong&gt; : tache aveugle dans le champ visuel&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Signe de Seidel&lt;/strong&gt; : l’humeur aqueuse repousse le film de fluorescéine instillé sur la cornée. Signe une plaie perforante de la cornée&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Test de Schirmer&lt;/strong&gt; : bandelette buvard qui mesure la quantité de larmes&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Tyndall&lt;/strong&gt; : présence de cellules et/ou de protéines dans l’humeur aqueuse. Signe un saignement ou une inflammation intraoculaire&lt;/li&gt;
