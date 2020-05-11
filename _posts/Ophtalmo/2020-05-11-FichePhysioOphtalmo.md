@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Physiologie opthalmologie
+title: Physiologie Opthalmologique
 tags: [Ophtalmologie, Physiologie, Fiche]
 ---
 ### Généralités anatomiques et physiologiques
