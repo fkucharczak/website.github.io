@@ -13,6 +13,7 @@ tags: [Data Science]
 [Machine Learning Python](/assets/docs/portfolio/DataScience/StatisticsMachineLearningPython.pdf)
 
 [R for Data Science - online website](https://r4ds.had.co.nz/index.html)
+[Code sur github](https://github.com/hadley/r4ds)
 
 ### Visualisation et interraction
 
