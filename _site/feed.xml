@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-12T21:41:46+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Physiologie neurologie - système nerveux périphérique</title><link href="http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP.html" rel="alternate" type="text/html" title="Physiologie neurologie - système nerveux périphérique" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP.html">&lt;h3 id=&quot;voies-efférentes&quot;&gt;Voies efférentes&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-12T21:46:42+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Physiologie neurologie - système nerveux périphérique</title><link href="http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP.html" rel="alternate" type="text/html" title="Physiologie neurologie - système nerveux périphérique" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP.html">&lt;h3 id=&quot;voies-efférentes&quot;&gt;Voies efférentes&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -439,10 +439,12 @@ Deux ensembles de structures dans les cavités de l’os temporal :
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Amblyopie&lt;/strong&gt; : différence d’accuité visuelle entre les deux yeux (trouble cortical) -&amp;gt; défaut de parallélisme entre les 2 axes visuels&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Amétropie&lt;/strong&gt; : trouble de la réfraction causant myopie, hypermétropie, astigmatisme&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Accommodation&lt;/strong&gt; : modification active de la courbure du cristallin dans la vision de près Blépharite : inflammation des paupières&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accommodation&lt;/strong&gt; : modification active de la courbure du cristallin dans la vision de près&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Athalamie&lt;/strong&gt; : applatissement total de la chambre antérieure (hypothalamie si partiel)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Chalazion&lt;/strong&gt; : inflammation d’une glande sébacée des paupières Conjonctivite : inflammation de la conjonctive&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blépharite&lt;/strong&gt; : inflammation des paupières&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Chalazion&lt;/strong&gt; : inflammation d’une glande sébacée des paupières&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Colobome irien&lt;/strong&gt; : malformation congénitale de l’iris&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Conjonctivite&lt;/strong&gt; : inflammation de la conjonctive&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Dacryocystite&lt;/strong&gt; : inflammation du sac lacrymal&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Diplopie&lt;/strong&gt; : double vision&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Ectropion&lt;/strong&gt; : bascule de la paupière en dehors&lt;/li&gt;

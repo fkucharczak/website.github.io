@@ -8,10 +8,12 @@ tags: [Ophtalmologie, Fiche]
 
 * **Amblyopie** : différence d'accuité visuelle entre les deux yeux (trouble cortical) -> défaut de parallélisme entre les 2 axes visuels
 * **Amétropie** : trouble de la réfraction causant myopie, hypermétropie, astigmatisme
-* **Accommodation** : modification active de la courbure du cristallin dans la vision de près Blépharite : inflammation des paupières
+* **Accommodation** : modification active de la courbure du cristallin dans la vision de près
 * **Athalamie** : applatissement total de la chambre antérieure (hypothalamie si partiel)
-* **Chalazion** : inflammation d'une glande sébacée des paupières Conjonctivite : inflammation de la conjonctive
+* **Blépharite** : inflammation des paupières
+* **Chalazion** : inflammation d'une glande sébacée des paupières
 * **Colobome irien** : malformation congénitale de l'iris
+* **Conjonctivite** : inflammation de la conjonctive
 * **Dacryocystite** : inflammation du sac lacrymal
 * **Diplopie** : double vision
 * **Ectropion** : bascule de la paupière en dehors
