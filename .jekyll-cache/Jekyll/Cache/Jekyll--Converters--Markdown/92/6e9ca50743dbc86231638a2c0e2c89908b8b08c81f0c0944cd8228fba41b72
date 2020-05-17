@@ -1,0 +1,50 @@
+I"�<h2 id="les-biais">Les biais</h2>
+
+<p>Si l’étude est multicentrique ou réalisée par différents investigateurs, le recueil doit être standardisé, par exemple par un questionnaire identique (cf. biais d’information)</p>
+
+<h3 id="biais-de-confusion">Biais de confusion</h3>
+
+<blockquote>
+  <p>Le plus difficile à éviter</p>
+</blockquote>
+
+<ul>
+  <li>Introduit par la présence d’un facteur de confusion</li>
+  <li>Lié à la fois à :
+    <ul>
+      <li>L’exposition :</li>
+      <li>La maladie :</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><strong>Pour s’affranchir de ce biais</strong> :
+    <ul>
+      <li>Dans le choix du type d’étude
+        <ol>
+          <li>La randomisation
+    - Pas de raison qu’on retrouve une différence d’exposition sur un facteur de confusion (ex : biais de confusion de l’âge pour une étude sur l’HTA évité par la randomisation)
+    - Fonctionne même sur les facteurs de confusion inconnus</li>
+          <li>L’appariement
+    - A chaque personne incluse on cherche un candidat comparable pour l’autre groupe
+            <ul>
+              <li>Ainsi, même exposition au facteur de confusion</li>
+            </ul>
+          </li>
+        </ol>
+      </li>
+      <li>Lors du traitement des résultats
+        <ol>
+          <li>La stratification
+    - Segmentation des deux groupes en <script type="math/tex">n</script> sous-groupes puis analyse de chaque sous-groupes
+            <ul>
+              <li><script type="math/tex">n</script> RR pour différents types d’expositions à un facteur de confusion</li>
+            </ul>
+          </li>
+          <li>Ajustement de l’analyse multivariée</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET

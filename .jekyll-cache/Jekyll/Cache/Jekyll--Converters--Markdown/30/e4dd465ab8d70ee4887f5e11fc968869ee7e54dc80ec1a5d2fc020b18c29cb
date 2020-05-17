@@ -1,0 +1,58 @@
+I"�	<h2 id="les-biais">Les biais</h2>
+
+<p>Si l’étude est multicentrique ou réalisée par différents investigateurs, le recueil doit être standardisé, par exemple par un questionnaire identique (cf. biais d’information)</p>
+
+<h3 id="biais-de-confusion">Biais de confusion</h3>
+
+<blockquote>
+  <p>Le plus difficile à éviter</p>
+</blockquote>
+
+<ul>
+  <li>Introduit par la présence d’un facteur de confusion</li>
+  <li>Lié à la fois à l’exposition et à la maladie</li>
+</ul>
+<ul>
+  <li><strong>Pour s’affranchir de ce biais</strong> :
+    <ul>
+      <li><em>Dans le choix du type d’étude</em>
+        <ol>
+          <li><em style="color: orange">La randomisation</em>
+    - Pas de raison qu’on retrouve une différence d’exposition sur un facteur de confusion (ex : biais de confusion de l’âge pour une étude sur l’HTA évité par la randomisation)
+    - Fonctionne même sur les facteurs de confusion inconnus</li>
+          <li><em style="color: orange">L’appariement</em>
+    - A chaque personne incluse on cherche un candidat comparable pour l’autre groupe
+            <ul>
+              <li>Ainsi, même exposition au facteur de confusion</li>
+            </ul>
+          </li>
+        </ol>
+      </li>
+      <li><em>Lors du traitement des résultats</em>
+        <ol>
+          <li><em style="color: orange">La stratification</em>
+    - Segmentation des deux groupes en <script type="math/tex">n</script> sous-groupes puis analyse de chaque sous-groupes
+            <ul>
+              <li><script type="math/tex">n</script> RR pour différents types d’expositions à un facteur de confusion</li>
+            </ul>
+          </li>
+          <li><em style="color: orange">Ajustement de l’analyse multivariée</em>
+    - Intervient lors du traitement statistique
+    - Il va permettre de tenir compte d’un facteur de confusion et donnera des résultats en RRajusté ou ORajusté</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="biais-de-sélection">Biais de sélection</h3>
+
+<ul>
+  <li>Erreur dans la sélection des patients = échantillon étudié n’est pas représentatif de la maladie étudiée ou non conforme à l’objectif
+    <ul>
+      <li>Non conforme à la maladie étudiée -&gt; Femme incluse dans une étude sur la prostate</li>
+      <li>Non conforme à l’objectif -&gt; Efficacité d’un traitement sur l’évolution de la maladie sur des malades en phase terminale</li>
+    </ul>
+  </li>
+</ul>
+:ET

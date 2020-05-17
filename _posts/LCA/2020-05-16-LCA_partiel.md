@@ -65,6 +65,8 @@ ethics committee or institutional review board at each contributing centre.
 - Essai randomisé
   - ouvert
   - contrôlé vs "meilleure méthode validée"
+  - test bilatéral
+    - puissance de test inférieure à l'unilatéral
   - en intention de traiter (ITT)
   - randomly assigned 1:1:1
     - random allocation was done by local investigators by using web-based interactive response technology
@@ -97,7 +99,7 @@ ethics committee or institutional review board at each contributing centre.
   - Pas tous les centres ont accès à la photographie rétinienne
   - open label, not masked, and used no placebo
     - d'autant plus problématique que l'industriel à accès à tout
-  - choix de retraiter avec une ou l'autre des méthodes inclus un biais (préférence du clinicien)
+  - choix de retraiter avec une ou l'autre des méthodes inclus un biais (préférence du clinicien) -> biais de sélection
   - modification de la cible de recrutement et donc baisse de puissance
 
 ## Conclusion
@@ -108,7 +110,7 @@ ethics committee or institutional review board at each contributing centre.
 
 ### Commentaires
 
-- Manière de quantifier l'outcome : opérateur dépendant
+- Manière de quantifier l'outcome : opérateur dépendant -> biais de mesure qui est un biais de classement
 - Risque de non uniformité des pratiques dans le traitement dû au profil international des centres -> prise en considération, d'où par la stratification sur la région géographique. Pas tout à fait satisfaisante pour supprimer ce biais
 - On n'a pas les *p-values* pour la comparaison des groupes, juste la phrase : "*Most other baseline characteristics were well balanced between study groups*"
 - Biais de changement de traitement (TTT additionnel) au cours de l'étude : "the rules for additional treatments were set at a low threshold to minimise the risk of visual impairment and applied to both laser therapy and ranibizumab groups."
