@@ -23,4 +23,15 @@ Moyen mnémotechnique : _**Oh, Oscar ! Ma Petite Théière Me Fait A Grand Peine
 
 ### Version schéma
 
+#### Nerfs crâniens
+
 ![Schéma nerfs crâniens]({{ "/assets/img/medecine/oph_1.png" | relative_url}})
+
+#### Nerfs de la face
+
+![Schéma nerfs face]({{ "/assets/img/medecine/neuro_9.jpg" | relative_url}})
+
+#### Innervation du larynx
+
+- Nerf récurrent = nerf laryngé inférieur
+![Innervation du larynx]({{ "/assets/img/medecine/ORL_11.jpg" | relative_url}})

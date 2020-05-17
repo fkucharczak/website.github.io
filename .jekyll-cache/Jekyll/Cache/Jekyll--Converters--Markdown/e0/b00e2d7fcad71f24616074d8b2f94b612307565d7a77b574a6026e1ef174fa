@@ -1,0 +1,124 @@
+I"�<h3 id="objectifs">Objectifs</h3>
+
+<blockquote>
+  <p>Connaître les agents infectieux responsables des OMA.<br />
+Diagnostic et prise en charge d’une OMA purulente, otite externe et otite séromuqueuse.<br />
+Prescrire le TTT.<br />
+Diagnostiquer otite moyenne chronique dangereuse ou cholestéateuse.</p>
+</blockquote>
+
+<h3 id="un-peu-danatomie">Un peu d’anatomie</h3>
+
+<p>Chaque oreille comporte 3 parties :</p>
+
+<ol>
+  <li><strong>Oreille externe</strong>
+    <ul>
+      <li><em>Pavillon</em></li>
+      <li><em>Conduit auditif externe</em></li>
+      <li><em>Membrane tympanique</em></li>
+    </ul>
+  </li>
+  <li><strong>Oreille moyenne</strong> : transfère les mouvements vibratoires du tympan aux liquides de l’oreille interne
+    <ul>
+      <li><em>Membrane tympanique</em> : iso-pression assurée par pression atmosphérique à l’extérieur, et trompe d’Eustache (normalement fermée mais s’ouvre au bâillement, mastication, déglutition) reliée au pharynx en interne.</li>
+    </ul>
+  </li>
+  <li><strong>Oreille interne</strong> : remplie de liquide, contient deux systèmes sensoriels différents
+    <ul>
+      <li><em>Cochlée</em> : récepteurs convertissent ondes sonores en signaux électriques
+        <ul>
+          <li>Contient l’organe de Corti, qui est l’appareil sensoriel de l’audition : cellules ciliées de ce dernier transforment les mouvements du liquide en signaux nerveux</li>
+        </ul>
+      </li>
+      <li><em>Appareil vestibulaire</em> : nécessaire à l’équilibre</li>
+    </ul>
+  </li>
+</ol>
+
+<p><img src="/assets/img/medecine/ORL_1.png" alt="Anatomie" />
+<img src="/assets/img/medecine/ORL_7.png" alt="Anatomie" /></p>
+
+<h3 id="différents-types-dotites">Différents types d’otites</h3>
+
+<h4 id="de-loreille-externe">De l’oreille externe</h4>
+
+<ul>
+  <li><strong>Otite externe</strong> :
+    <ul>
+      <li>Deux principaux types :
+        <ul>
+          <li>Bactérienne : Staph dorés +++</li>
+          <li>Maligne : Pseudomonas aeroginosa (chez diabétique ou iD)</li>
+        </ul>
+      </li>
+      <li>Pathologie plutôt dermato (aureus, pseudomonas aeruginosa, aspergillus)</li>
+      <li>Facteur favorisant : Baignade +++, cotons tiges, etc.</li>
+      <li>💊 local -&gt; gouttes ATB d’Oflocet + cortico</li>
+      <li>💢 chondrite (pavillon rouge, cartillage touché), otite externe maligne (ostéolyse associée)</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="de-loreille-moyenne">De l’oreille moyenne</h4>
+
+<ol>
+  <li><strong>Aigue congestive</strong>
+    <ul>
+      <li>Tympan rouge, hyper vascularisé</li>
+      <li>Petit épanchement rétrotympanique</li>
+      <li>Tympan ne bombe pas ! (différence avec OSM)</li>
+      <li>Virale -&gt; pas d’ATB</li>
+    </ul>
+  </li>
+  <li><strong>Aigue purulente</strong>
+    <ul>
+      <li>Disparition de la transparence tympan, relief des osselets</li>
+      <li>Bactérienne : germes respiratoires (pneumocoque, Hae. Influenzae)</li>
+      <li>💊 Amox 80-90 mg/kg/J en 2 ou 3 prises (1e intention), si echec : Augmentin</li>
+      <li>Si &gt;2A avec symptômes peu intense -&gt; paracétamol seul et réevaluation à 48h.</li>
+    </ul>
+
+    <p><img src="/assets/img/medecine/ORL_8.png" alt="Anatomie" /></p>
+  </li>
+  <li><strong>Séro-muqueuse</strong> (chronique)
+    <ul>
+      <li>Epanchement rétro-tympanique stérile</li>
+      <li>Bilatérale ++, Fréquent ++</li>
+      <li>FdR : fente, tumeur cavum, hypertrophie végétations adénoïdes, RGO</li>
+      <li>Ne fait pas mal mais génère surdité de transmission : typanogramme plat</li>
+      <li>💊 aérateur trans-tympanique = yoyo = diabolo si &gt; 6 mois ou si modification du tympan.</li>
+      <li>💢 OMA à répétition, cholestéatome, tbe articulation</li>
+    </ul>
+
+    <p><img src="/assets/img/medecine/ORL_9.png" alt="Anatomie" /></p>
+  </li>
+  <li><strong>Cholestéatome</strong>
+    <ul>
+      <li>Présence de peau (epithélium malpighien kératinisé) dans l’oreille moyenne à la place de la muqueuse</li>
+      <li>Risque de lyse des éléments de la caisse</li>
+      <li>Oreille qui coule et qui sent mauvais (fétide)</li>
+      <li>💢 paralysie faciale périphérique, abcès cérébral, méningite.</li>
+      <li>💊 chirurgicale -&gt; nettoyer le cholestéatome.</li>
+    </ul>
+  </li>
+</ol>
+
+<p><img src="/assets/img/medecine/ORL_12.jpg" alt="Anatomie" />
+  <img src="/assets/img/medecine/ORL_10.png" alt="Anatomie" /></p>
+
+<h3 id="remember"><em>Remember</em></h3>
+
+<blockquote>
+  <p><strong>Paralysie faciale</strong> :<br />
+	- Œil ne peut pas se fermer<br />
+	- <strong>Si paralysie faciale périphérique -&gt; 🩺 regarder les oreilles à l’otoscope !!!!</strong><br />
+	- Si OMA purulente -&gt; paracentèse (on évacue le pus et analyse bactério) + amox + paracétamol<br /></p>
+</blockquote>
+
+<blockquote>
+  <p>Éléments nerveux qui passent dans la caisse du tympan :<br />
+    -	Corde tympan -&gt; sensibilité gustative<br />
+    -	Nerf facial -&gt; si pus au contact peut causer une paralysie faciale</p>
+</blockquote>
+:ET

@@ -15,6 +15,6 @@ tags: [Data Science]
 [R for Data Science - online website](https://r4ds.had.co.nz/index.html)
 [Code sur github](https://github.com/hadley/r4ds)
 
-### Visualisation et interraction
+### Visualisation et interaction
 
 - [Bokeh](https://bokeh.org)
