@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-19T13:48:27+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Fiche de LCA</title><link href="http://localhost:4000/2020/05/17/LCA_fiche.html" rel="alternate" type="text/html" title="Fiche de LCA" /><published>2020-05-17T00:00:00+02:00</published><updated>2020-05-17T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/17/LCA_fiche</id><content type="html" xml:base="http://localhost:4000/2020/05/17/LCA_fiche.html">&lt;h2 id=&quot;les-biais&quot;&gt;Les biais&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-19T14:16:57+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Fiche de LCA</title><link href="http://localhost:4000/2020/05/17/LCA_fiche.html" rel="alternate" type="text/html" title="Fiche de LCA" /><published>2020-05-17T00:00:00+02:00</published><updated>2020-05-17T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/17/LCA_fiche</id><content type="html" xml:base="http://localhost:4000/2020/05/17/LCA_fiche.html">&lt;h2 id=&quot;les-biais&quot;&gt;Les biais&lt;/h2&gt;
 
 &lt;p&gt;Si l’étude est multicentrique ou réalisée par différents investigateurs, le recueil doit être standardisé, par exemple par un questionnaire identique (cf. biais d’information)&lt;/p&gt;
 
@@ -1448,17 +1448,36 @@ Surtout pas ethmoïdale, car vient de CI&lt;/p&gt;
 
 &lt;h5 id=&quot;surdités-de-perception&quot;&gt;Surdités de perception&lt;/h5&gt;
 
-&lt;p&gt;Si tympan normal -&amp;gt; JAPC : tumeur angle ponto-cerebelleux = neurinome de l’acoustique
-    - Si surdité de perception :
-      - brusque : diagnostic d’élimination
-      - tumeur angle ponto-cérebelleux
-        - IRM
-Si tympan anormal -&amp;gt; tableau de complication de IMA ou
-    - IRM pour éliminer labyrinthite&lt;/p&gt;
-&lt;p&gt;Si syndrome vertigineux pas harmonieux :
-    - -&amp;gt; origine centrale : syndrome dysarmonieux et nystagmus ne cède pas à la fixation
-    - AVC jusqu’à preuve du contraire&lt;/p&gt;
-&lt;p&gt;Dissection de l’artère vertébral : Wallenberg&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Si &lt;strong&gt;tympan normal&lt;/strong&gt; -&amp;gt; JAPC : tumeur angle ponto-cerebelleux = neurinome de l’acoustique
+    &lt;ul&gt;
+      &lt;li&gt;Si surdité de perception :
+        &lt;ul&gt;
+          &lt;li&gt;brusque : diagnostic d’élimination&lt;/li&gt;
+          &lt;li&gt;tumeur angle ponto-cérebelleux
+            &lt;ul&gt;
+              &lt;li&gt;IRM&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Si &lt;strong&gt;tympan anormal&lt;/strong&gt; -&amp;gt; tableau de complication de IMA ou ..
+    &lt;ul&gt;
+      &lt;li&gt;IRM pour éliminer labyrinthite&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;Si syndrome vertigineux pas harmonieux :
+    &lt;ul&gt;
+      &lt;li&gt;-&amp;gt; origine centrale : syndrome dysarmonieux et nystagmus ne cède pas à la fixation&lt;/li&gt;
+      &lt;li&gt;AVC jusqu’à preuve du contraire&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dissection de l’artère vertébrale : Wallenberg&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Surdité de perception + vertige = IRM +/- scanner si contexte traumatique&lt;/p&gt;
@@ -1487,39 +1506,39 @@ Si tympan anormal -&amp;gt; tableau de complication de IMA ou
   &lt;li&gt;&lt;strong&gt;Périphérique&lt;/strong&gt; = proportionnelle : aussi importante sur la partie supérieure que inférieure du visage si atteinte avant séparation du nerf. On peut donc avoir une atteinte dissociée (=partielle).
     &lt;ul&gt;
       &lt;li&gt;IRM permet de voir le trajet du nerf facial&lt;/li&gt;
-      &lt;li&gt;Penser à la tumeur de la patoride&lt;/li&gt;
+      &lt;li&gt;Penser à la tumeur de la parotide&lt;/li&gt;
       &lt;li&gt;Faire otoscopie pour rechercher&lt;/li&gt;
       &lt;li&gt;C’est une mononeuropathie -&amp;gt; rechercher la polyneuropathie&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Centrale&lt;/strong&gt; = prédomine sur partie inférieure et plus faible en partie supérieure. Pas de capacité de contraction à la demande mais peut au rire, etc.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Attention : risque +++ ophtalmo. Risque de perdre un oeil (ulcère de cornée, etc.).&lt;/p&gt;
-
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Gros tableaux cliniques&lt;/strong&gt; :
     &lt;ul&gt;
       &lt;li&gt;Aigue :
         &lt;ul&gt;
-          &lt;li&gt;Idiopathique : affrigorée -&amp;gt; recherche de tumeur ou patho neuro&lt;/li&gt;
+          &lt;li&gt;Idiopathique : &lt;em&gt;a frigore&lt;/em&gt; = paralysie de Bell  -&amp;gt; recherche de tumeur ou patho neuro&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;Récidivante :
         &lt;ul&gt;
           &lt;li&gt;Tumeur&lt;/li&gt;
-          &lt;li&gt;Granulomatose&lt;/li&gt;
+          &lt;li&gt;Granulomatose : tuberculose, sarcoïdose&lt;/li&gt;
           &lt;li&gt;SEP&lt;/li&gt;
           &lt;li&gt;Inflammation&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Sujets classiques&lt;/strong&gt; :
     &lt;ul&gt;
-      &lt;li&gt;Zona du GGL géniculé : origine virale certaines.
+      &lt;li&gt;Zona du GGL géniculé : origine virale certaine
         &lt;ul&gt;
-          &lt;li&gt;PF idiopathie&lt;/li&gt;
+          &lt;li&gt;PF idiopathique&lt;/li&gt;
           &lt;li&gt;TTT par corticothérapie (pour formes virales ET bactériennes)&lt;/li&gt;
           &lt;li&gt;Zelitrex 15J&lt;/li&gt;
           &lt;li&gt;Soins ophtalmo : gouttes serum lacrymal, limitation au vent, occlusion palpébrale nocturne&lt;/li&gt;
@@ -1534,7 +1553,7 @@ Si tympan anormal -&amp;gt; tableau de complication de IMA ou
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;IRM examen de référence pour la paralysie faciale
+  &lt;p&gt;IRM examen de référence pour la paralysie faciale&lt;br /&gt;
 Egalement le testing facial analytique : permet d’évaluer le grade et la récupération après la PF&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -1550,6 +1569,8 @@ Egalement le testing facial analytique : permet d’évaluer le grade et la réc
       &lt;li&gt;Devant toute OMA nourisson &amp;lt; 3M&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
   &lt;li&gt;3 sinusites graves :
     &lt;ul&gt;
       &lt;li&gt;frontales : complications neuro-méningées&lt;/li&gt;
@@ -1558,6 +1579,22 @@ Egalement le testing facial analytique : permet d’évaluer le grade et la réc
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    
+    &lt;div style=&quot;flex: 50.0%&quot;&gt;
+        &lt;img src=&quot;/assets/img//medecine/ORL_13.jpg&quot; alt=&quot;ORL_13.jpg&quot; /&gt;
+    &lt;/div&gt;
+    
+    &lt;div style=&quot;flex: 50.0%&quot;&gt;
+        &lt;img src=&quot;/assets/img//medecine/ORL_14.jpg&quot; alt=&quot;ORL_14.jpg&quot; /&gt;
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+      &lt;em&gt;Rappel anatomique sur les sinus&lt;/em&gt;
+  &lt;/p&gt;
 
 &lt;p&gt;AINS et complications infectieuses avec cellulites -&amp;gt; voir CMF.&lt;/p&gt;
 
@@ -1582,7 +1619,7 @@ Egalement le testing facial analytique : permet d’évaluer le grade et la réc
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Rq PEA : dépistage néonatal de surdité chez l’enfant&lt;/p&gt;
+&lt;p&gt;Rq -&amp;gt; PEA : dépistage néonatal de surdité chez l’enfant&lt;/p&gt;
 
 &lt;h4 id=&quot;cancer-vads&quot;&gt;Cancer VADS&lt;/h4&gt;
 
