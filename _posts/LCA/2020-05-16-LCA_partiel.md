@@ -67,7 +67,7 @@ ethics committee or institutional review board at each contributing centre.
   - contrôlé vs "meilleure méthode validée"
   - test bilatéral
     - puissance de test inférieure à l'unilatéral
-  - en intention de traiter (ITT)
+  - en intention de traiter (ITT) initialement mais finalement en per protocol dans l'étude stat
   - randomly assigned 1:1:1
     - random allocation was done by local investigators by using web-based interactive response technology
     - stratified by
@@ -112,5 +112,6 @@ ethics committee or institutional review board at each contributing centre.
 
 - Manière de quantifier l'outcome : opérateur dépendant -> biais de mesure qui est un biais de classement
 - Risque de non uniformité des pratiques dans le traitement dû au profil international des centres -> prise en considération, d'où par la stratification sur la région géographique. Pas tout à fait satisfaisante pour supprimer ce biais
-- On n'a pas les *p-values* pour la comparaison des groupes, juste la phrase : "*Most other baseline characteristics were well balanced between study groups*"
+- On n'a pas les *p-values* pour la comparaison des groupes, juste la phrase : "*Most other baseline characteristics were well balanced between study groups*" -> pas nécessaire dans les études randomisées
 - Biais de changement de traitement (TTT additionnel) au cours de l'étude : "the rules for additional treatments were set at a low threshold to minimise the risk of visual impairment and applied to both laser therapy and ranibizumab groups."
+- Le choix du retraitement était laissé à la discrétion de chaque centre, ce qui a pu induire des biais de classement, l’étude étant réalisée en ouvert.

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://sylhare.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sylhare.github.io/" rel="alternate" type="text/html" /><updated>2020-05-17T16:49:58+02:00</updated><id>https://sylhare.github.io/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Fiche de LCA</title><link href="https://sylhare.github.io/2020/05/17/LCA_fiche.html" rel="alternate" type="text/html" title="Fiche de LCA" /><published>2020-05-17T00:00:00+02:00</published><updated>2020-05-17T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/17/LCA_fiche</id><content type="html" xml:base="https://sylhare.github.io/2020/05/17/LCA_fiche.html">&lt;h2 id=&quot;les-biais&quot;&gt;Les biais&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-19T13:48:27+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Fiche de LCA</title><link href="http://localhost:4000/2020/05/17/LCA_fiche.html" rel="alternate" type="text/html" title="Fiche de LCA" /><published>2020-05-17T00:00:00+02:00</published><updated>2020-05-17T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/17/LCA_fiche</id><content type="html" xml:base="http://localhost:4000/2020/05/17/LCA_fiche.html">&lt;h2 id=&quot;les-biais&quot;&gt;Les biais&lt;/h2&gt;
 
 &lt;p&gt;Si l’étude est multicentrique ou réalisée par différents investigateurs, le recueil doit être standardisé, par exemple par un questionnaire identique (cf. biais d’information)&lt;/p&gt;
 
@@ -74,9 +74,7 @@
   &lt;li&gt;Erreur dans le receuil des informations
     &lt;ul&gt;
       &lt;li&gt;problèmes de mémorisation dans les études cas-témoins&lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;déclaration partiellement faussée par les patients sur les sujets tabous&lt;/p&gt;
-      &lt;/li&gt;
+      &lt;li&gt;déclaration partiellement faussée par les patients sur les sujets tabous&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Pour s’affranchir de ce biais&lt;/strong&gt; :
@@ -149,7 +147,9 @@
       &lt;li&gt;Rechercher les études réalisées publiées ou non&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="LCA" /><category term="Fiche" /><summary type="html">Les biais</summary></entry><entry><title type="html">Best-of d’Ophtalmologie</title><link href="https://sylhare.github.io/2020/05/16/BO_Ophtalmo.html" rel="alternate" type="text/html" title="Best-of d'Ophtalmologie" /><published>2020-05-16T00:00:00+02:00</published><updated>2020-05-16T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/16/BO_Ophtalmo</id><content type="html" xml:base="https://sylhare.github.io/2020/05/16/BO_Ophtalmo.html">&lt;h2 id=&quot;fiches-mémo&quot;&gt;Fiches mémo&lt;/h2&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;un critère de jugement composite est un critère de jugement constitué par l’association de plusieurs critères d’importance clinique équivalente dont la présence d’un seul suffit pour considérer le critère composite comme rempli&lt;/p&gt;</content><author><name></name></author><category term="LCA" /><category term="Fiche" /><summary type="html">Les biais</summary></entry><entry><title type="html">Best-of d’Ophtalmologie</title><link href="http://localhost:4000/2020/05/16/BO_Ophtalmo.html" rel="alternate" type="text/html" title="Best-of d'Ophtalmologie" /><published>2020-05-16T00:00:00+02:00</published><updated>2020-05-16T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/16/BO_Ophtalmo</id><content type="html" xml:base="http://localhost:4000/2020/05/16/BO_Ophtalmo.html">&lt;h2 id=&quot;fiches-mémo&quot;&gt;Fiches mémo&lt;/h2&gt;
 
 &lt;p align=&quot;center&quot;&gt;
  &lt;img src=&quot;/assets/img/medecine/oph_33.png&quot; style=&quot;width:70%&quot; /&gt;
@@ -248,12 +248,12 @@
   &lt;li&gt;Atteinte de vaisseaux + profonds&lt;/li&gt;
   &lt;li&gt;Légèrement plus douloureuse&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Bilan &lt;em&gt;systématique&lt;/em&gt; à la recherche d’une maladie de système -&amp;gt; faire aussi bilan VIH et Syphilis &lt;br /&gt;
+&lt;p&gt;Bilan &lt;em&gt;systématique&lt;/em&gt; à la recherche d’une maladie de système -&amp;gt; faire aussi bilan VIH et Syphilis&lt;br /&gt;
 💊 : AINS per os&lt;/p&gt;
 
 &lt;h4 id=&quot;traumatisme-de-loeil&quot;&gt;Traumatisme de l’oeil&lt;/h4&gt;
 
-&lt;p&gt;Quand hyphéma de moyenne abondance, rechercher une plaie
+&lt;p&gt;Quand hyphéma de moyenne abondance, rechercher une plaie&lt;br /&gt;
 💊 de l’hyphéma : patient doit rester assis, bien s’hydrater + mydriatiques&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
@@ -274,11 +274,14 @@
   &lt;li&gt;L’atteinte du muscle releveur de la paupière&lt;/li&gt;
   &lt;li&gt;L’atteinte des voies lacrymales&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Indications en 🚑 :&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Recherche et/ ou suture d’une plaie du globle&lt;/li&gt;
-  &lt;li&gt;Extraction de CE intra oculaire&lt;/li&gt;
-  &lt;li&gt;Plaie du cristallin (Seidel) -&amp;gt; risque d’inflammation et d’hypertonie oculaire&lt;/li&gt;
+  &lt;li&gt;Indications en 🚑 :
+    &lt;ul&gt;
+      &lt;li&gt;Recherche et/ ou suture d’une plaie du globle&lt;/li&gt;
+      &lt;li&gt;Extraction de CE intra oculaire&lt;/li&gt;
+      &lt;li&gt;Plaie du cristallin (Seidel) -&amp;gt; risque d’inflammation et d’hypertonie oculaire&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;ul&gt;
   &lt;li&gt;Diagnostic de CEIO :
@@ -298,8 +301,7 @@
 
 &lt;h5 id=&quot;keratite&quot;&gt;Keratite&lt;/h5&gt;
 
-&lt;p&gt;Infiltrat blanc -&amp;gt; petit ulcère en regard avec oeil rouge
-On a une keratite d’origine bactérienne vu l’aspect.&lt;/p&gt;
+&lt;p&gt;Infiltrat blanc -&amp;gt; petit ulcère en regard avec oeil rouge&lt;/p&gt;
 &lt;p&gt;Si contexte de lentille -&amp;gt; bactérien +++&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
@@ -390,6 +392,7 @@ On a une keratite d’origine bactérienne vu l’aspect.&lt;/p&gt;
   &lt;li&gt;💊 :
     &lt;ul&gt;
       &lt;li&gt;Mydriatiques (atropine) pour dilater la pupille&lt;/li&gt;
+      &lt;li&gt;Corticoïdes locaux (Dexaméthasone)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -452,6 +455,7 @@ On a une keratite d’origine bactérienne vu l’aspect.&lt;/p&gt;
           &lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
+      &lt;li&gt;⚠️ CI formelle aux mydriatiques!!!&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -476,9 +480,13 @@ On a une keratite d’origine bactérienne vu l’aspect.&lt;/p&gt;
 
 &lt;h5 id=&quot;conjonctivites&quot;&gt;Conjonctivites&lt;/h5&gt;
 
-&lt;p&gt;Oeil rouge sans BAV : virale, bactérienne, allergique&lt;/p&gt;
-
-&lt;p&gt;Dans 90% des cas viral&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Oeil rouge sans BAV : virale, bactérienne, allergique
+    &lt;ul&gt;
+      &lt;li&gt;90% des cas viral&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h5 id=&quot;chalazion-orgelet-ptosis-lagophtalmie&quot;&gt;Chalazion, orgelet, ptosis, lagophtalmie&lt;/h5&gt;
 
@@ -571,7 +579,7 @@ On a une keratite d’origine bactérienne vu l’aspect.&lt;/p&gt;
   &lt;li&gt;Cataracte sous capsulaire postérieure :
     &lt;ul&gt;
       &lt;li&gt;Corticoïdes&lt;/li&gt;
-      &lt;li&gt;Diabètable&lt;/li&gt;
+      &lt;li&gt;Diabète&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -683,7 +691,7 @@ On a une keratite d’origine bactérienne vu l’aspect.&lt;/p&gt;
           &lt;/ul&gt;
         &lt;/li&gt;
         &lt;li&gt;Colyres mydriatiques&lt;/li&gt;
-        &lt;li&gt;Corticoïdes locale et générale à 48h&lt;/li&gt;
+        &lt;li&gt;Corticothérapie locale et générale à 48h&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
@@ -705,7 +713,7 @@ On a une keratite d’origine bactérienne vu l’aspect.&lt;/p&gt;
     &lt;ul&gt;
       &lt;li&gt;Baisse de vision progressive, 60,70A&lt;/li&gt;
       &lt;li&gt;On l’opère de la Cataracte&lt;/li&gt;
-      &lt;li&gt;endophtalmie&lt;/li&gt;
+      &lt;li&gt;Endophtalmie&lt;/li&gt;
       &lt;li&gt;Baisse de vision progressive&lt;/li&gt;
       &lt;li&gt;Cataracte secondaire&lt;/li&gt;
       &lt;li&gt;TTT : capsulotomie au laser YAG (le même qu’on utilise pour les iridotomies sauf que là trou dans la capsule derrière le cristallin)&lt;/li&gt;
@@ -780,7 +788,7 @@ On a une keratite d’origine bactérienne vu l’aspect.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Diabète : 1e cause de cécité &amp;lt;55A
+  &lt;p&gt;Diabète : 1e cause de cécité &amp;lt;55A&lt;br /&gt;
 DMLA : 1e cause de cécité &amp;gt; 55A&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -831,7 +839,7 @@ DMLA : 1e cause de cécité &amp;gt; 55A&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;AVC de l’oeil
     &lt;ul&gt;
-      &lt;li&gt;faire un angioscanner pour vérifier qu’il n’y ai pas de thrombus ou diminution des CI&lt;/li&gt;
+      &lt;li&gt;faire un angioscanner pour vérifier qu’il n’y ait pas de thrombus ou diminution des CI&lt;/li&gt;
       &lt;li&gt;💊 :
         &lt;ul&gt;
           &lt;li&gt;AVK ou AAP&lt;/li&gt;
@@ -1031,7 +1039,7 @@ DMLA : 1e cause de cécité &amp;gt; 55A&lt;/p&gt;
   &lt;li&gt;Esotropie : oeil en dedans&lt;/li&gt;
   &lt;li&gt;Exotropie : oeil en dehors&lt;/li&gt;
   &lt;li&gt;Epicanthus : pas de strabisme, mais impression d’ésotropie&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Ophtalmologie" /><category term="BO" /><category term="Fiche" /><summary type="html">Fiches mémo</summary></entry><entry><title type="html">LCA niveau 2 - S2 2019/2020</title><link href="https://sylhare.github.io/2020/05/16/LCA_partiel.html" rel="alternate" type="text/html" title="LCA niveau 2 - S2 2019/2020" /><published>2020-05-16T00:00:00+02:00</published><updated>2020-05-16T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/16/LCA_partiel</id><content type="html" xml:base="https://sylhare.github.io/2020/05/16/LCA_partiel.html">&lt;p&gt;Etude de l’article &lt;code class=&quot;highlighter-rouge&quot;&gt;Ranibizumab versus laser therapy for the treatment of very low birthweight infants with retinopathy of prematurity (RAINBOW): an open-label randomised controlled trial&lt;/code&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Ophtalmologie" /><category term="BO" /><category term="Fiche" /><summary type="html">Fiches mémo</summary></entry><entry><title type="html">LCA niveau 2 - S2 2019/2020</title><link href="http://localhost:4000/2020/05/16/LCA_partiel.html" rel="alternate" type="text/html" title="LCA niveau 2 - S2 2019/2020" /><published>2020-05-16T00:00:00+02:00</published><updated>2020-05-16T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/16/LCA_partiel</id><content type="html" xml:base="http://localhost:4000/2020/05/16/LCA_partiel.html">&lt;p&gt;Etude de l’article &lt;code class=&quot;highlighter-rouge&quot;&gt;Ranibizumab versus laser therapy for the treatment of very low birthweight infants with retinopathy of prematurity (RAINBOW): an open-label randomised controlled trial&lt;/code&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
@@ -1144,7 +1152,7 @@ ethics committee or institutional review board at each contributing centre.&lt;/
           &lt;li&gt;puissance de test inférieure à l’unilatéral&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;en intention de traiter (ITT)&lt;/li&gt;
+      &lt;li&gt;en intention de traiter (ITT) initialement mais finalement en per protocol dans l’étude stat&lt;/li&gt;
       &lt;li&gt;randomly assigned 1:1:1
         &lt;ul&gt;
           &lt;li&gt;random allocation was done by local investigators by using web-based interactive response technology&lt;/li&gt;
@@ -1228,9 +1236,10 @@ ethics committee or institutional review board at each contributing centre.&lt;/
 &lt;ul&gt;
   &lt;li&gt;Manière de quantifier l’outcome : opérateur dépendant -&amp;gt; biais de mesure qui est un biais de classement&lt;/li&gt;
   &lt;li&gt;Risque de non uniformité des pratiques dans le traitement dû au profil international des centres -&amp;gt; prise en considération, d’où par la stratification sur la région géographique. Pas tout à fait satisfaisante pour supprimer ce biais&lt;/li&gt;
-  &lt;li&gt;On n’a pas les &lt;em&gt;p-values&lt;/em&gt; pour la comparaison des groupes, juste la phrase : “&lt;em&gt;Most other baseline characteristics were well balanced between study groups&lt;/em&gt;”&lt;/li&gt;
+  &lt;li&gt;On n’a pas les &lt;em&gt;p-values&lt;/em&gt; pour la comparaison des groupes, juste la phrase : “&lt;em&gt;Most other baseline characteristics were well balanced between study groups&lt;/em&gt;” -&amp;gt; pas nécessaire dans les études randomisées&lt;/li&gt;
   &lt;li&gt;Biais de changement de traitement (TTT additionnel) au cours de l’étude : “the rules for additional treatments were set at a low threshold to minimise the risk of visual impairment and applied to both laser therapy and ranibizumab groups.”&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="LCA" /><category term="Cas clinique" /><summary type="html">Etude de l’article Ranibizumab versus laser therapy for the treatment of very low birthweight infants with retinopathy of prematurity (RAINBOW): an open-label randomised controlled trial</summary></entry><entry><title type="html">ITEM 93, 94, 95 - Radiculalgies et syndromes canalaires, Neuropathies périphériques, Syndrome Guillain-Barré</title><link href="https://sylhare.github.io/2020/05/14/Item93_94_95.html" rel="alternate" type="text/html" title="ITEM 93, 94, 95 - Radiculalgies et syndromes canalaires, Neuropathies périphériques, Syndrome Guillain-Barré" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/14/Item93_94_95</id><content type="html" xml:base="https://sylhare.github.io/2020/05/14/Item93_94_95.html">&lt;h3 id=&quot;syndromes-radiculaires&quot;&gt;Syndromes radiculaires&lt;/h3&gt;
+  &lt;li&gt;Le choix du retraitement était laissé à la discrétion de chaque centre, ce qui a pu induire des biais de classement, l’étude étant réalisée en ouvert.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="LCA" /><category term="Cas clinique" /><summary type="html">Etude de l’article Ranibizumab versus laser therapy for the treatment of very low birthweight infants with retinopathy of prematurity (RAINBOW): an open-label randomised controlled trial</summary></entry><entry><title type="html">ITEM 93, 94, 95 - Radiculalgies et syndromes canalaires, Neuropathies périphériques, Syndrome Guillain-Barré</title><link href="http://localhost:4000/2020/05/14/Item93_94_95.html" rel="alternate" type="text/html" title="ITEM 93, 94, 95 - Radiculalgies et syndromes canalaires, Neuropathies périphériques, Syndrome Guillain-Barré" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/Item93_94_95</id><content type="html" xml:base="http://localhost:4000/2020/05/14/Item93_94_95.html">&lt;h3 id=&quot;syndromes-radiculaires&quot;&gt;Syndromes radiculaires&lt;/h3&gt;
 
 &lt;p&gt;31 paires spinales&lt;/p&gt;
 &lt;ul&gt;
@@ -1364,7 +1373,7 @@ Le syndrome neurogène périphérique y est par définition bilatéral et symét
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_12.png&quot; alt=&quot;Schéma moelle&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_10.png&quot; alt=&quot;Image nerfs&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Rhumatologie" /><category term="ITEM iECN" /><summary type="html">Syndromes radiculaires</summary></entry><entry><title type="html">ITEM 11 - Soins psychiatriques sans consentement</title><link href="https://sylhare.github.io/2020/05/14/Item11.html" rel="alternate" type="text/html" title="ITEM 11 - Soins psychiatriques sans consentement" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/14/Item11</id><content type="html" xml:base="https://sylhare.github.io/2020/05/14/Item11.html">&lt;h3 id=&quot;mise-à-jour-du-mikbook&quot;&gt;Mise à jour du Mikbook&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_10.png&quot; alt=&quot;Image nerfs&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Rhumatologie" /><category term="ITEM iECN" /><summary type="html">Syndromes radiculaires</summary></entry><entry><title type="html">ITEM 11 - Soins psychiatriques sans consentement</title><link href="http://localhost:4000/2020/05/14/Item11.html" rel="alternate" type="text/html" title="ITEM 11 - Soins psychiatriques sans consentement" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/Item11</id><content type="html" xml:base="http://localhost:4000/2020/05/14/Item11.html">&lt;h3 id=&quot;mise-à-jour-du-mikbook&quot;&gt;Mise à jour du Mikbook&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/medecine/Psy_1.jpeg&quot; alt=&quot;drawing&quot; width=&quot;1000&quot; /&gt;&lt;/p&gt;
 
@@ -1400,7 +1409,7 @@ Le syndrome neurogène périphérique y est par définition bilatéral et symét
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Contrôle systématique d’hospitalisation par un juge à J12.&lt;/p&gt;</content><author><name></name></author><category term="Psychiatrie" /><category term="ITEM iECN" /><summary type="html">Mise à jour du Mikbook</summary></entry><entry><title type="html">Best-of d’ORL</title><link href="https://sylhare.github.io/2020/05/14/BO_ORL.html" rel="alternate" type="text/html" title="Best-of d'ORL" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/14/BO_ORL</id><content type="html" xml:base="https://sylhare.github.io/2020/05/14/BO_ORL.html">&lt;h4 id=&quot;episaxis&quot;&gt;Episaxis&lt;/h4&gt;
+&lt;p&gt;Contrôle systématique d’hospitalisation par un juge à J12.&lt;/p&gt;</content><author><name></name></author><category term="Psychiatrie" /><category term="ITEM iECN" /><summary type="html">Mise à jour du Mikbook</summary></entry><entry><title type="html">Best-of d’ORL</title><link href="http://localhost:4000/2020/05/14/BO_ORL.html" rel="alternate" type="text/html" title="Best-of d'ORL" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/BO_ORL</id><content type="html" xml:base="http://localhost:4000/2020/05/14/BO_ORL.html">&lt;h4 id=&quot;episaxis&quot;&gt;Episaxis&lt;/h4&gt;
 
 &lt;p&gt;Deux grandes parties à intégrer :&lt;/p&gt;
 &lt;ul&gt;
@@ -1411,6 +1420,8 @@ Le syndrome neurogène périphérique y est par définition bilatéral et symét
       &lt;li&gt;HTA? HTA maligne qui favorise?&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
   &lt;li&gt;Sujet jeune, ado, après l’effort, -&amp;gt; ectasie tache vasculaire&lt;/li&gt;
   &lt;li&gt;Même terrain, unilatéral et +++ abondant -&amp;gt; fibrome nasopharyngien (garçon)&lt;/li&gt;
   &lt;li&gt;Si pas de contexte (pas forcément plus âgé):
@@ -1420,7 +1431,6 @@ Le syndrome neurogène périphérique y est par définition bilatéral et symét
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Escalade thérapeutique :&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Patient en position demi-assise, penché en avant&lt;/li&gt;
@@ -1430,11 +1440,8 @@ Le syndrome neurogène périphérique y est par définition bilatéral et symét
   &lt;li&gt;Tamponnement antérieur au Merocel&lt;/li&gt;
   &lt;li&gt;Deuxième tamponnement antérieur ou directement antéro-postérieur&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Si saignement antérieur : embolisation
-postérieur : embolisation sphénopalatine
+&lt;p&gt;Si saignement antérieur : embolisation postérieure, embolisation sphénopalatine&lt;br /&gt;
 Surtout pas ethmoïdale, car vient de CI&lt;/p&gt;
-
 &lt;p&gt;Si méchage &amp;lt; 48h : pas d’ATBthérapie&lt;/p&gt;
 
 &lt;h4 id=&quot;surdité-et-vertiges&quot;&gt;Surdité et vertiges&lt;/h4&gt;
@@ -1448,11 +1455,9 @@ Surtout pas ethmoïdale, car vient de CI&lt;/p&gt;
         - IRM
 Si tympan anormal -&amp;gt; tableau de complication de IMA ou
     - IRM pour éliminer labyrinthite&lt;/p&gt;
-
 &lt;p&gt;Si syndrome vertigineux pas harmonieux :
     - -&amp;gt; origine centrale : syndrome dysarmonieux et nystagmus ne cède pas à la fixation
     - AVC jusqu’à preuve du contraire&lt;/p&gt;
-
 &lt;p&gt;Dissection de l’artère vertébral : Wallenberg&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1467,6 +1472,8 @@ Si tympan anormal -&amp;gt; tableau de complication de IMA ou
       &lt;li&gt;95% de chance d’avoir un dossier d’otospongiose&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
   &lt;li&gt;Otite séro-muqueuse :
     &lt;ul&gt;
       &lt;li&gt;chez l’adulte : on veut nous emmener à cause locale = tumeur du cavum JAPC&lt;/li&gt;
@@ -1646,7 +1653,7 @@ Soit on fait cytoponction soit on enlève le ganglion en entier&lt;/p&gt;
       &lt;li&gt;Attention aux piles bouton et aux trucs piquants -&amp;gt; médiastinite&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="ORL" /><category term="BO" /><category term="Fiche" /><summary type="html">Episaxis</summary></entry><entry><title type="html">ITEM 147 - Otites infectieuses adulte et enfant</title><link href="https://sylhare.github.io/2020/05/13/Item147.html" rel="alternate" type="text/html" title="ITEM 147 - Otites infectieuses adulte et enfant" /><published>2020-05-13T00:00:00+02:00</published><updated>2020-05-13T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/13/Item147</id><content type="html" xml:base="https://sylhare.github.io/2020/05/13/Item147.html">&lt;h3 id=&quot;objectifs&quot;&gt;Objectifs&lt;/h3&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="ORL" /><category term="BO" /><category term="Fiche" /><summary type="html">Episaxis</summary></entry><entry><title type="html">ITEM 147 - Otites infectieuses adulte et enfant</title><link href="http://localhost:4000/2020/05/13/Item147.html" rel="alternate" type="text/html" title="ITEM 147 - Otites infectieuses adulte et enfant" /><published>2020-05-13T00:00:00+02:00</published><updated>2020-05-13T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/13/Item147</id><content type="html" xml:base="http://localhost:4000/2020/05/13/Item147.html">&lt;h3 id=&quot;objectifs&quot;&gt;Objectifs&lt;/h3&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Connaître les agents infectieux responsables des OMA.&lt;br /&gt;
@@ -1768,7 +1775,7 @@ Diagnostiquer otite moyenne chronique dangereuse ou cholestéateuse.&lt;/p&gt;
   &lt;p&gt;Éléments nerveux qui passent dans la caisse du tympan :&lt;br /&gt;
     -	Corde tympan -&amp;gt; sensibilité gustative&lt;br /&gt;
     -	Nerf facial -&amp;gt; si pus au contact peut causer une paralysie faciale&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="ORL" /><category term="ITEM iECN" /><summary type="html">Objectifs</summary></entry><entry><title type="html">Séquences IRM</title><link href="https://sylhare.github.io/2020/05/11/FicheIRMNeuro.html" rel="alternate" type="text/html" title="Séquences IRM" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/11/FicheIRMNeuro</id><content type="html" xml:base="https://sylhare.github.io/2020/05/11/FicheIRMNeuro.html">&lt;h3 id=&quot;différentes-séquences-utiles-en-irm-pour-la-neurologie&quot;&gt;Différentes séquences utiles en IRM pour la neurologie&lt;/h3&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><category term="ORL" /><category term="ITEM iECN" /><summary type="html">Objectifs</summary></entry><entry><title type="html">Séquences IRM</title><link href="http://localhost:4000/2020/05/11/FicheIRMNeuro.html" rel="alternate" type="text/html" title="Séquences IRM" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FicheIRMNeuro</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FicheIRMNeuro.html">&lt;h3 id=&quot;différentes-séquences-utiles-en-irm-pour-la-neurologie&quot;&gt;Différentes séquences utiles en IRM pour la neurologie&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1827,7 +1834,7 @@ Diagnostiquer otite moyenne chronique dangereuse ou cholestéateuse.&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.info-radiologie.ch/sequence_irm.php&quot;&gt;Lien pour compléter ou revoir les applications de chaque séquence&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Imagerie" /><category term="Neurologie" /><category term="Fiche" /><summary type="html">Différentes séquences utiles en IRM pour la neurologie</summary></entry><entry><title type="html">Physiologie neurologie - système nerveux périphérique</title><link href="https://sylhare.github.io/2020/05/11/FicheNeuroPhysioSNP.html" rel="alternate" type="text/html" title="Physiologie neurologie - système nerveux périphérique" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/11/FicheNeuroPhysioSNP</id><content type="html" xml:base="https://sylhare.github.io/2020/05/11/FicheNeuroPhysioSNP.html">&lt;h3 id=&quot;voies-efférentes&quot;&gt;Voies efférentes&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.info-radiologie.ch/sequence_irm.php&quot;&gt;Lien pour compléter ou revoir les applications de chaque séquence&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Imagerie" /><category term="Neurologie" /><category term="Fiche" /><summary type="html">Différentes séquences utiles en IRM pour la neurologie</summary></entry><entry><title type="html">Physiologie neurologie - système nerveux périphérique</title><link href="http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP.html" rel="alternate" type="text/html" title="Physiologie neurologie - système nerveux périphérique" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP.html">&lt;h3 id=&quot;voies-efférentes&quot;&gt;Voies efférentes&lt;/h3&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1950,7 +1957,7 @@ Affinité exclusive à l’adrénaline.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Voies efférentes</summary></entry><entry><title type="html">Physiologie ORL</title><link href="https://sylhare.github.io/2020/05/11/FichePhysioORL.html" rel="alternate" type="text/html" title="Physiologie ORL" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>https://sylhare.github.io/2020/05/11/FichePhysioORL</id><content type="html" xml:base="https://sylhare.github.io/2020/05/11/FichePhysioORL.html">&lt;h3 id=&quot;généralités-anatomiques-et-physiologiques&quot;&gt;Généralités anatomiques et physiologiques&lt;/h3&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Voies efférentes</summary></entry><entry><title type="html">Physiologie ORL</title><link href="http://localhost:4000/2020/05/11/FichePhysioORL.html" rel="alternate" type="text/html" title="Physiologie ORL" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FichePhysioORL</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FichePhysioORL.html">&lt;h3 id=&quot;généralités-anatomiques-et-physiologiques&quot;&gt;Généralités anatomiques et physiologiques&lt;/h3&gt;
 
 &lt;p&gt;Chaque oreille comporte 3 parties :&lt;/p&gt;
 &lt;ul&gt;

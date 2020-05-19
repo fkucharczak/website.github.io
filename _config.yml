@@ -9,7 +9,7 @@ avatar: assets/img/img_design_site/brain.png                         # Empty for
 favicon: assets/brain.ico                              # Icon displayed in the tab
 
 # Header and footer text
-header_text: Mon blog - 👨‍💻 et 👨‍⚕️
+header_text: Mon blog - 👨‍💻/👨‍⚕️
 
 
 header_feature_image: assets/img/img_design_site/bg.jpeg

@@ -1,0 +1,892 @@
+I"j_<h2 id="fiches-mémo">Fiches mémo</h2>
+
+<p align="center">
+ <img src="/assets/img/medecine/oph_33.png" style="width:70%" />
+ <img src="/assets/img/medecine/oph_34.png" style="width:70%" />
+ <img src="/assets/img/medecine/oph_35.png" style="width:70%" />
+</p>
+
+<h2 id="pathologies">Pathologies</h2>
+
+<h3 id="cause-de-consultation-aux-urgences">Cause de consultation aux urgences</h3>
+
+<ul>
+  <li><strong>Oeil rouge</strong>
+    <ul>
+      <li><strong>Douloureux</strong>
+        <ul>
+          <li><strong>Pas de BAV</strong> :
+            <ul>
+              <li>Sclérite</li>
+              <li>Episclérite</li>
+            </ul>
+          </li>
+          <li><strong>Avec BAV</strong> 🚑 :
+            <ul>
+              <li>Glaucome aigu par fermeture de l’angle</li>
+              <li>Uvéite antérieure aigue</li>
+              <li>Kératite aiguë = abcès de cornée
+                <ul>
+                  <li>Traumatique</li>
+                  <li>Infectieux
+                    <ul>
+                      <li>HSV</li>
+                      <li>Bactérienne ++ (= abcès de cornée sous lentille)</li>
+                      <li>Mycotique</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>Indolore et sans BAV</strong> :
+        <ul>
+          <li>Conjonctivite bactérienne, virale ou allergique</li>
+          <li>Hémorragie sous conjonctivale : nappe rouge sur l’oeil (=bénin)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><strong>Oeil blanc</strong>
+    <ul>
+      <li><strong>Douloureux</strong>
+        <ul>
+          <li>Neuropathie optique rétrobulbaire (NORB) -&gt; SEP</li>
+          <li>Trouble de la réfraction -&gt; hypermétropes (rare aux urgences)</li>
+        </ul>
+      </li>
+      <li><strong>Non douloureux avec BAV</strong> :
+        <ul>
+          <li>OACR</li>
+          <li>OVCR</li>
+          <li>Décollement de la rétine</li>
+          <li>NOIAA</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="examen-de-loeil-de-la-partie-la-plus-superficielle-à-la-partie-la-plus-profonde">Examen de l’oeil de la partie la plus superficielle à la partie la plus profonde</h3>
+
+<h4 id="biomicroscopie--examen-à-la-laf">Biomicroscopie = examen à la LAF</h4>
+
+<h5 id="episclérite">Episclérite</h5>
+<p>A suspecter si tache de sang dans le blanc</p>
+<ul>
+  <li>Réflexe : <em>test à la néosynephrine (vasoconstricteur)</em> -&gt; vasoconstriction des vaisseaux de la sclère et disparition des vaisseaux</li>
+</ul>
+
+<p align="center">
+ <img src="/assets/img/medecine/oph_5.png" alt="train_perf_fig" style="width:70%" />
+    <br />
+    <em>Episclérite</em>
+</p>
+
+<p>💊 : corticoïdes locaux <br />
+<em>Si récidive</em> : bilan à la recherche d’une maladie de système -&gt; faire aussi bilan VIH et Syphilis</p>
+
+<h5 id="sclérite">Sclérite</h5>
+
+<p>Si pas de disparition de la tache au <em>test à la néosynephrine</em></p>
+<ul>
+  <li>Atteinte de vaisseaux + profonds</li>
+  <li>Légèrement plus douloureuse</li>
+</ul>
+<p>Bilan <em>systématique</em> à la recherche d’une maladie de système -&gt; faire aussi bilan VIH et Syphilis<br />
+💊 : AINS per os</p>
+
+<h4 id="traumatisme-de-loeil">Traumatisme de l’oeil</h4>
+
+<p>Quand hyphéma de moyenne abondance, rechercher une plaie<br />
+💊 de l’hyphéma : patient doit rester assis, bien s’hydrater + mydriatiques</p>
+
+<p align="center">
+ <img src="/assets/img/medecine/oph_6.png" alt="Seidel" style="width:70%" />
+    <br />
+    <em>Signe de Seidel = plaie de cornée -&gt; lésion visible seulement au test à fluoresceine</em>
+</p>
+
+<p align="center">
+ <img src="/assets/img/medecine/oph_7.png" alt="Luxation cristallin" style="width:70%" />
+    <br />
+    <em>Cristallin luxé + cataracte</em>
+</p>
+
+<p><strong>Devant tout traumatisme</strong> :</p>
+<ul>
+  <li>Vérifier l’intégrité du globe oculaire</li>
+  <li>L’atteinte du muscle releveur de la paupière</li>
+  <li>L’atteinte des voies lacrymales</li>
+</ul>
+<ul>
+  <li>Indications en 🚑 :
+    <ul>
+      <li>Recherche et/ ou suture d’une plaie du globle</li>
+      <li>Extraction de CE intra oculaire</li>
+      <li>Plaie du cristallin (Seidel) -&gt; risque d’inflammation et d’hypertonie oculaire</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Diagnostic de CEIO :
+    <ul>
+      <li>TDM pour objectiver et localiser</li>
+    </ul>
+  </li>
+  <li>⚠️ Surtout pas :
+    <ul>
+      <li>Echo B si plaie transfixiante</li>
+      <li>IRM pour risque de mobilisation</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="oeil-rouge-et-douloureux">Oeil rouge et Douloureux</h4>
+
+<h5 id="keratite">Keratite</h5>
+
+<p>Infiltrat blanc -&gt; petit ulcère en regard avec oeil rouge</p>
+<p>Si contexte de lentille -&gt; bactérien +++</p>
+
+<p align="center">
+ <img src="/assets/img/medecine/oph_8.png" alt="Keratite" style="width:70%" />
+    <br />
+    <em>Kératite = abcès de cornée</em>
+</p>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/medecine/oph_9.png" alt="Keratite" style="width:100%" />
+  </div>
+  <div class="column">
+    <img src="/assets/img/medecine/oph_10.png" alt="Keratite herpétique" style="width:100%" />
+  </div>
+</div>
+<p align="center">
+    <br />
+    <em>Kératite herpétique -&gt; lésions dendritiques (ulcère en profondeur)</em>
+</p>
+
+<ul>
+  <li>⚠️ CI aux corticoïdes locaux ou PO</li>
+  <li>💊 :
+    <ul>
+      <li>Zelitrex (Valaciclovir ou Aciclovir) PO +</li>
+      <li>Collyre ATB pour éviter surinfection</li>
+    </ul>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_11.png" alt="Keratite" style="width:70%" />
+    <br />
+    <em>Kératite ponctuée superficielle -&gt; etiologies : Kératite traumatique, soudeur à l'arc, skieur sans lunettes</em>
+</p>
+<p>BAV et douleur ++.</p>
+<ul>
+  <li>💊 :
+    <ul>
+      <li>Cicatrisant</li>
+      <li>+/- ATB local</li>
+      <li>Anti-inflammatoire (local) si soudeur ou brulure soleil</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Bonne récupération habituellement.</p>
+
+<h5 id="uvéite-antérieur-aigüe">Uvéite antérieur aigüe</h5>
+
+<ul>
+  <li>Signes cliniques :
+    <ul>
+      <li>+++ Synéchies irido-cristalliniennes : pupille pas ronde</li>
+      <li>Hyperhémie conjonctivales : cercle périkératique</li>
+      <li>+++ Précipités rétrodesmétiques</li>
+      <li>+++ Effet Tyndall -&gt; “poussière avec le petit rayon de soleil”</li>
+      <li>Inflammation de l’iris et des corps cilliaires</li>
+      <li>Douleurs profondes</li>
+    </ul>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_12.png" alt="train_perf_fig" style="width:70%" />
+  <br />
+    <em>Uvéite antérieure aigüe</em>
+</p>
+
+<ul>
+  <li>A faire :
+    <ul>
+      <li>Vérifier le tonus</li>
+      <li><strong>Examen du FO</strong> pour rechercher une uvéite postérieure -&gt; panuvéite</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Bilan étiologique :
+    <ul>
+      <li>Recherche par sérologie virale VIH, Syphilis</li>
+      <li>En fonction des symptomes organiques faire un bilan tuberculose, SPA …</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>💊 :
+    <ul>
+      <li>Mydriatiques (atropine) pour dilater la pupille</li>
+      <li>Corticoïdes locaux (Dexaméthasone)</li>
+    </ul>
+  </li>
+</ul>
+
+<h5 id="gafa">GAFA</h5>
+
+<p>Fermeture de l’angle entre l’iris et la cornée. Comme l’oeil est plus petit que la normale, cet angle se ferme plus facilement</p>
+<ul>
+  <li>Rechercher les facteurs prédisposants :
+    <ul>
+      <li>Forte hypermétropie</li>
+      <li>Grosse cataracte</li>
+      <li>Contexte entrainant mydriase
+        <ul>
+          <li>FO avec dilatation pupille</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Symptomes :
+    <ul>
+      <li>Douleur très intense et profonde</li>
+      <li>Cécité unilatérale</li>
+      <li>Douleur irradiant sur le trijumeau -&gt; céphalées</li>
+      <li>Symptomes dig associés</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Examen :
+    <ul>
+      <li>Chambre antérieure très étroite à la gonioscopie</li>
+      <li>Cornée très oedématiée : on ne voit plus à travers</li>
+      <li>Semi-mydriase aréactive</li>
+      <li>Hypertonie = bille de bois &gt; 50</li>
+      <li>Cercle périkératique</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>💊 : à connaitre +++ car pathologie cécitante potentiellement
+    <ul>
+      <li>Inhibition humeur acqueuse par Acetalozamide = <strong>Diamox IV</strong> -&gt; c’est un diurétique
+        <ul>
+          <li>Supplémentation <script type="math/tex">K^+</script></li>
+          <li>Attention à l’allergie, l’IR, l’insuffisance hépatique -&gt; <em>pustulose exhantématique au Diamox</em></li>
+        </ul>
+      </li>
+      <li><strong>Mannitol 20% IV</strong> : soluté hyperosmolaire pour déshydrater le vitré</li>
+      <li><strong>Collyre hypotonisant local</strong>
+        <ul>
+          <li>Inhibiteurs de l’anydrase carbonique même si déjà en IV</li>
+          <li>Prostaglandines</li>
+          <li>Beta -
+            <ul>
+              <li>⚠️ Attention, CI formelle si Asthme, Myasthénie, etc.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>⚠️ CI formelle aux mydriatiques!!!</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Reprendre la tension à 2h
+    <ul>
+      <li>Si tension oculaire redevenue normale
+        <ul>
+          <li><strong>Collyre myotique : Pilocarpine</strong> dans 2 yeux</li>
+        </ul>
+      </li>
+      <li>Permet de faire <strong>l’iridotomie au laser YAG</strong> sur les deux yeux -&gt; petit trou en périphérie de l’iris pour l’humeur acqueuse</li>
+    </ul>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_13.png" alt="train_perf_fig" style="width:70%" />
+  <br />
+    <em>Iridotomie périphérique à midi</em>
+</p>
+
+<h5 id="conjonctivites">Conjonctivites</h5>
+
+<ul>
+  <li>Oeil rouge sans BAV : virale, bactérienne, allergique
+    <ul>
+      <li>90% des cas viral</li>
+    </ul>
+  </li>
+</ul>
+
+<h5 id="chalazion-orgelet-ptosis-lagophtalmie">Chalazion, orgelet, ptosis, lagophtalmie</h5>
+
+<ul>
+  <li><strong>Chalazion</strong>
+    <ul>
+      <li>Granulome inflammatoire au niveau d’une glande</li>
+      <li>💊 :
+        <ul>
+          <li>Anti-inflammatoire</li>
+          <li>On appuie sur la glande pour la vider</li>
+          <li>Chirurgical, incision au niveau de la conjonctive</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_14.png" alt="Chalazion" style="width:70%" />
+  <br />
+    <em>Chalazion</em>
+</p>
+
+<ul>
+  <li><strong>Orgelet</strong>
+    <ul>
+      <li>Infecitieux : staph ++</li>
+      <li>💊 ATB</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><strong>Ptosis</strong>
+    <ul>
+      <li>Etiologies :
+        <ul>
+          <li>Congénital : le - grave. 💊 chirurgical</li>
+          <li>A l’age adulte :
+            <ul>
+              <li>Paralysie du III -&gt; suspicion de rupture d’anévrisme</li>
+              <li>CBH : lésion du sympatique cervial -&gt; dissection carotidienne</li>
+              <li>Myasthénie</li>
+              <li>Sénile : relachement de l’aponévrose du releveur</li>
+              <li><strong>Imagerie injectée pour vérifier les carotides</strong></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><strong>Lagophtalmie</strong>
+    <ul>
+      <li>Paralysie faciale</li>
+      <li>Risque d’exposition de la cornée, pas hydratée</li>
+      <li>⚠️ à la kératite ou à l’ulcère de cornée
+        <ul>
+          <li>pommade vitamine A</li>
+          <li>occlusion nocturne des paupières</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="oeil-blanc-avec-bav">Oeil blanc avec BAV</h3>
+
+<h4 id="cataracte">Cataracte</h4>
+
+<ul>
+  <li>Si progressif : penser à la cataracte</li>
+</ul>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/medecine/oph_15.png" alt="Cataracte nucléaire" style="width:100%" />
+  </div>
+  <div class="column">
+    <img src="/assets/img/medecine/oph_16.png" alt="Cataracte corticale" style="width:100%" />
+  </div>
+</div>
+<p align="center">
+    <br />
+    <em>Image typique de cataracte nucléaire (à G) et corticale (à D) à la LAF</em>
+</p>
+
+<ul>
+  <li>Cataracte sous capsulaire postérieure :
+    <ul>
+      <li>Corticoïdes</li>
+      <li>Diabète</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/medecine/oph_17.png" alt="Cataracte nucléaire" style="width:100%" />
+  </div>
+  <div class="column">
+    <img src="/assets/img/medecine/oph_18.png" alt="Cataracte corticale" style="width:100%" />
+  </div>
+</div>
+<p align="center">
+    <br />
+    <em>Cataractes sous capsulaire postérieure</em>
+</p>
+
+<ul>
+  <li><strong>Diagnostic</strong> :
+    <ul>
+      <li>Clinique : BAV progressive, typique à LAF</li>
+      <li>Pas d’examen complémentaire sauf si blanche totale
+        <ul>
+          <li>FO : avec <em>écho mode B</em>
+            <ul>
+              <li>recherche tumeur ou décollement de rétine</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Etiologies :
+    <ul>
+      <li>Séniles la majeure partie du temps</li>
+      <li>Cortico ou diabète</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Bilan pré-chirurgie :
+    <ul>
+      <li>Biométrie : permet de mesure la taille de l’implant à mettre
+        <ul>
+          <li><em>Kératométrie</em> : courbure de la cornée</li>
+          <li>ET <em>Echo mode A</em> : longueur axiale de l’oeil afin de calculer la puissance de l’implant</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>💊 : retrait chirurgical du cristallin
+    <ul>
+      <li><em>Différentes étapes de la chirurgie</em> :
+        <ol>
+          <li>dilatation pupille</li>
+          <li>désinfection</li>
+          <li>incision</li>
+          <li>ouverture de la capsule interne du cristallin</li>
+          <li>phacoémulsification du cristallin</li>
+          <li>mise en place de l’implant</li>
+          <li>ATB prophylaxie : cefuroxime en chambre antérieure
+            <ul>
+              <li>pour éviter endophtalmie entre J2 et J5</li>
+            </ul>
+          </li>
+        </ol>
+      </li>
+      <li>Un oeil puis l’autre à 1M d’intervalle</li>
+      <li>Ambulatoire avec anesthésie locale</li>
+      <li>1e chirurgie en France</li>
+      <li><em>Complications</em> :
+        <ul>
+          <li>Endophtalmie : oeil rouge et douloureux</li>
+          <li>Caratacte secondaire (=opacification capsulaire postérieure), TTT par laser YAG</li>
+          <li>Décollement de rétine</li>
+          <li>Oedème maculaire (Irving Gass)</li>
+          <li>Oedème de cornée</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p><strong>Focus sur l’endophtalmie</strong> = infection généralisée de l’Oeil</p>
+  <ul>
+    <li>Clinique
+      <ul>
+        <li>Hypopion qui cause HTO</li>
+        <li>Effet Tyndall</li>
+        <li>Hyalite au FO</li>
+      </ul>
+    </li>
+    <li>Diagnostic :
+      <ul>
+        <li>Prélèvement et analyse bactério en urgence</li>
+      </ul>
+    </li>
+    <li>💊 :
+      <ul>
+        <li>ATB
+          <ul>
+            <li>Injections intra-vitréennes : Vancomycine + Ceftazidine en urgence</li>
+            <li>Générales : FLQ IV le 1e jour puis PO</li>
+          </ul>
+        </li>
+        <li>Colyres mydriatiques</li>
+        <li>Corticothérapie locale et générale à 48h</li>
+      </ul>
+    </li>
+  </ul>
+</blockquote>
+
+<h5 id="correction-de-laphakie--absence-de-cristallin">Correction de l’aphakie = absence de cristallin</h5>
+
+<ul>
+  <li>Plusieurs types d’implants existent pour aider :
+    <ul>
+      <li><em>Sphériques monofocaux</em> (corrigent la myopie/ hypermétropie)</li>
+      <li><em>Toriques</em> corrigent l’astigmatisme en +</li>
+      <li><em>Multifocaux</em> corrigent la vision de près également (progressif-like)</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Dossier possible :
+    <ul>
+      <li>Baisse de vision progressive, 60,70A</li>
+      <li>On l’opère de la Cataracte</li>
+      <li>Endophtalmie</li>
+      <li>Baisse de vision progressive</li>
+      <li>Cataracte secondaire</li>
+      <li>TTT : capsulotomie au laser YAG (le même qu’on utilise pour les iridotomies sauf que là trou dans la capsule derrière le cristallin)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="un-peu-de-rétine">Un peu de rétine</h3>
+<p>Retenir les images typiques</p>
+
+<h4 id="images-caractéristiques">Images caractéristiques</h4>
+
+<ul>
+  <li>Papille normale</li>
+  <li>Macula normal</li>
+  <li>Vaisseaux irréguliers</li>
+  <li>Hémorragies punctiformes</li>
+  <li>Micro-anévrismes</li>
+</ul>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_19.png" alt="Rétinopathie diabétique" style="width:70%" />
+  <br />
+    <em>Rétinopathie diabétique minime</em>
+</p>
+
+<hr />
+
+<ul>
+  <li>Nodules cotonneux</li>
+  <li>Exsudats maculaires</li>
+  <li>Hémorragies 4 cadrans</li>
+</ul>
+
+<p><strong>Indication angiographie</strong> pour voir si néovaisseaux</p>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_20.png" style="width:70%" />
+  <br />
+    <em>Rétinopathie diabétique non prolifératrice sévère</em>
+</p>
+<hr />
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_21.png" style="width:70%" />
+  <br />
+    <em>OCT normal</em>
+</p>
+
+<ul>
+  <li>Nombreuses logettes</li>
+  <li>Perte de profil fovéolaire</li>
+</ul>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_22.png" alt="Rétinopathie diabétique" style="width:70%" />
+  <br />
+    <em>Maculopathie diabétique - oedème</em>
+</p>
+
+<blockquote>
+  <p>En opthtalmologie, quand il y a un oedème -&gt; 💊 injection anti-VEGF</p>
+</blockquote>
+
+<ul>
+  <li>Autres 💊 :
+    <ul>
+      <li>injection de corticoïdes intra-vitréennes</li>
+      <li>laser seulement en périphérie</li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p>Diabète : 1e cause de cécité &lt;55A<br />
+DMLA : 1e cause de cécité &gt; 55A</p>
+</blockquote>
+
+<ul>
+  <li>Facteurs de risque d’évolution de rétinopathie diabétique :
+    <ul>
+      <li>Puberté</li>
+      <li>Equilibration rapide de la glycémie (pompe ou greffe ilot ou insuline chez DT2, chir bariatrique)</li>
+      <li>Chirurgie de la cataracte</li>
+      <li>Corticoïdes</li>
+    </ul>
+  </li>
+  <li>Complications de rétinopathie diabétique (DOGME HIV)
+    <ul>
+      <li>Décollement de rétine</li>
+      <li>Oedème maculaire (1e cause)</li>
+      <li>GNV</li>
+      <li>Maculopathie ischémique</li>
+      <li>Exsudats fovéolaires profonds</li>
+      <li>HIV</li>
+    </ul>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_23.png" style="width:70%" />
+  <br />
+    <em>Evolution de rétinopathie diabétique -&gt; néovaisseaux inicient un décollement de rétine</em>
+</p>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_24.png" style="width:70%" />
+  <br />
+    <em>Image d'OVCR typique avec oedème maculaire</em>
+</p>
+
+<ul>
+  <li>Complications de l’OVCR :
+    <ul>
+      <li>Glaucome néo-vasculaire</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+<h4 id="oacr">OACR</h4>
+
+<ul>
+  <li>AVC de l’oeil
+    <ul>
+      <li>faire un angioscanner pour vérifier qu’il n’y ait pas de thrombus ou diminution des CI</li>
+      <li>💊 :
+        <ul>
+          <li>AVK ou AAP</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Etiologies :
+    <ul>
+      <li>Emboligène +++</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/medecine/oph_25.png" style="width:100%" />
+  </div>
+  <div class="column">
+    <img src="/assets/img/medecine/oph_26.png" style="width:100%" />
+  </div>
+</div>
+<p align="center">
+    <br />
+    <em>Images typiques d'hémi-OACR (à G) et d'OACR (à D)</em>
+</p>
+
+<blockquote>
+  <p>Macula très visible car irriguée par choroïde et non pas ACR : on parle de macula “rouge cerise”</p>
+</blockquote>
+
+<h4 id="dmla">DMLA</h4>
+
+<ul>
+  <li>
+    <p>FdR : age++, tabac, hérédité</p>
+  </li>
+  <li>MLA :
+    <ul>
+      <li>Drusens + AEP</li>
+    </ul>
+  </li>
+  <li>DMLA :
+    <ul>
+      <li>1e cause de malvoyance en France</li>
+      <li>Deux types :
+        <ul>
+          <li><strong>DMLA Exsudative</strong> : néo-vaisseaux choroïdiens, hémorragies, excudats lipidiques, oedème maculaire
+            <ul>
+              <li>BAV + métamorphose + scotome</li>
+            </ul>
+          </li>
+          <li><strong>DMLA Atrophique (la + fréquente)</strong> : pas de 💊. Importance de la réeducation orthoptique basse vision</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_27.png" style="width:70%" />
+  <br />
+    <em>DMLA avec Drusens -&gt; DMLA exsudative</em>
+</p>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_28.png" style="width:70%" />
+  <br />
+    <em>Drusens en OCT</em>
+</p>
+
+<h3 id="glaucome-chronique">Glaucome chronique</h3>
+
+<p>Glaucome : tension dans l’oeil va créer une excavation et endommager le nerf optique</p>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_29.png" style="width:70%" />
+  <br />
+    <em>Image de glaucome</em>
+</p>
+
+<h3 id="noiaa">NOIAA</h3>
+
+<p>Ischémie aigue de la tête du NO par occlusion des artères ciliaires postérieures.</p>
+
+<ul>
+  <li>Etiologies :
+    <ul>
+      <li>Artéritique -&gt; <strong>Horton</strong></li>
+      <li>Non artéritique -&gt; Artériosclérose ++</li>
+    </ul>
+  </li>
+  <li>Symptomes :
+    <ul>
+      <li>BAV unilatérale brutale</li>
+      <li>Diminution RPM direct</li>
+    </ul>
+  </li>
+  <li>
+    <p>Angio-fluo à faire</p>
+  </li>
+  <li>FO :
+    <ul>
+      <li><strong>Oedème papillaire + papille pale + hémorragie péri-pap en flammèches</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_30.png" style="width:70%" />
+  <br />
+    <em>NOIAA typique</em>
+</p>
+
+<blockquote>
+  <p>NOIAA = Maladie de Horton (CRP, Corticoïdes, Bilan général avec angioscan)</p>
+</blockquote>
+
+<h3 id="atteintes-ophtalmo-de-la-sep">Atteintes ophtalmo de la SEP</h3>
+
+<h4 id="norb">NORB</h4>
+<ul>
+  <li>Inaugurale dans 20% des cas</li>
+  <li>
+    <p>Femme jeune 20-40A</p>
+  </li>
+  <li>Clinique :
+    <ul>
+      <li>BAV unilatérale rapidmeent progressive</li>
+      <li>Douleurs à mobilisation du globe</li>
+      <li>Marcus-Gunn : dilatation paradoxale de la pupille</li>
+      <li>EXAMEN NORMAL = “patient et médecin ne voient rien”</li>
+    </ul>
+  </li>
+  <li>💊 :
+    <ul>
+      <li>Bolus Cortico 3J 1g/J IV puis relai PO</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="pénomène-duthoff">Pénomène d’Uthoff</h4>
+<p>Thermolabilité des axones démyélinisés lors de l’élévation de la température corporelle</p>
+
+<h4 id="neuromyélite-de-devic">Neuromyélite de DEVIC</h4>
+<ul>
+  <li>Atteinte centrale</li>
+  <li>Myélite + névrite</li>
+  <li>BAV profonde rapide bilatérale</li>
+  <li>IRM
+    <ul>
+      <li>Cérébrale : normale</li>
+      <li>Médullaire : myélite étendue</li>
+      <li>Anticorps anti-NMO+</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="paralysie-du-vi">Paralysie du VI</h4>
+<ul>
+  <li>Diplopie</li>
+  <li>Oeil convergent</li>
+  <li>Paralysie abduction</li>
+</ul>
+
+<h4 id="paralysie-internucléaire">Paralysie internucléaire</h4>
+<ul>
+  <li>Atteinte du faisceau longitudinal médian qui relie le noyau du III et du IV</li>
+</ul>
+
+<h4 id="périphlébite-rétinienne">Périphlébite rétinienne</h4>
+<ul>
+  <li>Engainement blanchâtre des veines rétiniennes périphériques</li>
+</ul>
+
+<h3 id="maladie-de-basedow-et-exophtalmie">Maladie de Basedow et exophtalmie</h3>
+
+<h3 id="diplopie">Diplopie</h3>
+
+<p>Connaitre les champs d’action et l’inervation de chaque muscle</p>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_31.png" style="width:70%" />
+  <br />
+    <em>Diplopie et innervation</em>
+</p>
+
+<p align="center">
+  <img src="/assets/img/medecine/oph_32.png" style="width:90%" />
+  <br />
+    <em>Impacts et positions compensatrices</em>
+</p>
+
+<h3 id="strabisme">Strabisme</h3>
+
+<ul>
+  <li>Esotropie : oeil en dedans</li>
+  <li>Exotropie : oeil en dehors</li>
+  <li>Epicanthus : pas de strabisme, mais impression d’ésotropie</li>
+</ul>
+:ET

@@ -68,12 +68,12 @@ Si pas de disparition de la tache au *test à la néosynephrine*
 - Atteinte de vaisseaux + profonds
 - Légèrement plus douloureuse
 ^
-Bilan *systématique* à la recherche d'une maladie de système -> faire aussi bilan VIH et Syphilis <br>
+Bilan *systématique* à la recherche d'une maladie de système -> faire aussi bilan VIH et Syphilis<br/>
 💊 : AINS per os
 
 #### Traumatisme de l'oeil
 
-Quand hyphéma de moyenne abondance, rechercher une plaie
+Quand hyphéma de moyenne abondance, rechercher une plaie<br/>
 💊 de l'hyphéma : patient doit rester assis, bien s'hydrater + mydriatiques
 
 <p align="center">
@@ -93,7 +93,7 @@ Quand hyphéma de moyenne abondance, rechercher une plaie
    - L'atteinte du muscle releveur de la paupière
    - L'atteinte des voies lacrymales
 ^
-Indications en 🚑 :
+- Indications en 🚑 :
   - Recherche et/ ou suture d'une plaie du globle
   - Extraction de CE intra oculaire
   - Plaie du cristallin (Seidel) -> risque d'inflammation et d'hypertonie oculaire
@@ -109,7 +109,6 @@ Indications en 🚑 :
 ##### Keratite
 
 Infiltrat blanc -> petit ulcère en regard avec oeil rouge
-On a une keratite d'origine bactérienne vu l'aspect.
 ^
 Si contexte de lentille -> bactérien +++
 
@@ -177,6 +176,7 @@ Bonne récupération habituellement.
 ^
 - 💊 :
   - Mydriatiques (atropine) pour dilater la pupille
+  - Corticoïdes locaux (Dexaméthasone)
 
 ##### GAFA
 
@@ -211,6 +211,8 @@ Fermeture de l'angle entre l'iris et la cornée. Comme l'oeil est plus petit que
     - Prostaglandines
     - Beta -
       - ⚠️ Attention, CI formelle si Asthme, Myasthénie, etc.
+  - ⚠️ CI formelle aux mydriatiques!!!
+
 ^
 - Reprendre la tension à 2h
   - Si tension oculaire redevenue normale
@@ -223,11 +225,10 @@ Fermeture de l'angle entre l'iris et la cornée. Comme l'oeil est plus petit que
     <em>Iridotomie périphérique à midi</em>
 </p>
 
-##### Conjonctivites
+##### Conjonctivites  
 
-Oeil rouge sans BAV : virale, bactérienne, allergique
-
-Dans 90% des cas viral
+- Oeil rouge sans BAV : virale, bactérienne, allergique
+  - 90% des cas viral
 
 ##### Chalazion, orgelet, ptosis, lagophtalmie
 
@@ -286,7 +287,7 @@ Dans 90% des cas viral
 
 - Cataracte sous capsulaire postérieure :
   - Corticoïdes
-  - Diabètable
+  - Diabète
 
 <div class="row">
   <div class="column">
@@ -348,7 +349,7 @@ Dans 90% des cas viral
       - Injections intra-vitréennes : Vancomycine + Ceftazidine en urgence
       - Générales : FLQ IV le 1e jour puis PO
     - Colyres mydriatiques
-    - Corticoïdes locale et générale à 48h
+    - Corticothérapie locale et générale à 48h
 
 ##### Correction de l'aphakie = absence de cristallin
 
@@ -360,7 +361,7 @@ Dans 90% des cas viral
 - Dossier possible :
   - Baisse de vision progressive, 60,70A
   - On l'opère de la Cataracte
-  - endophtalmie
+  - Endophtalmie
   - Baisse de vision progressive
   - Cataracte secondaire
   - TTT : capsulotomie au laser YAG (le même qu'on utilise pour les iridotomies sauf que là trou dans la capsule derrière le cristallin)
@@ -418,7 +419,7 @@ Retenir les images typiques
   - injection de corticoïdes intra-vitréennes
   - laser seulement en périphérie
 
-> Diabète : 1e cause de cécité <55A
+> Diabète : 1e cause de cécité <55A<br>
 > DMLA : 1e cause de cécité > 55A
 
 - Facteurs de risque d'évolution de rétinopathie diabétique :
@@ -454,7 +455,7 @@ Retenir les images typiques
 #### OACR
 
 - AVC de l'oeil
-  - faire un angioscanner pour vérifier qu'il n'y ai pas de thrombus ou diminution des CI
+  - faire un angioscanner pour vérifier qu'il n'y ait pas de thrombus ou diminution des CI
   - 💊 :
     - AVK ou AAP
 
