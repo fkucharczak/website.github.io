@@ -5,8 +5,8 @@ url: "https://sylhare.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: F. Kucharczak                                    # site's title
 description: "Ma page personnelle"      # used by search engines
-avatar: assets/img/img_design_site/icon.png                         # Empty for no avatar in navbar
-favicon: assets/brain.ico                              # Icon displayed in the tab
+avatar: assets/img/img_design_site/brain.png                         # Empty for no avatar in navbar
+favicon: assets/brain1.ico                              # Icon displayed in the tab
 
 # Header and footer text
 header_text: Mon blog - 👨‍💻/👨‍⚕️
