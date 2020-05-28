@@ -6,6 +6,8 @@ tags: [LCA, Cas clinique]
 
 Etude de l'article `Ranibizumab versus laser therapy for the treatment of very low birthweight infants with retinopathy of prematurity (RAINBOW): an open-label randomised controlled trial`
 
+[Lien sur l'article annoté](/assets/docs/articles/LCA/LCA_D2.pdf)
+
 ## Introduction
 
 ### Objectif de l'article

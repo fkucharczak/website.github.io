@@ -6,6 +6,9 @@ feature-img: "assets/img/img_design_site/bg.jpeg"
 tags: [Publications, Articles, Recherche]
 ---
 
+### Prix
+Premier place au prix de thèse de l'innovation de la [Société Française de Génie Biologique et Médical](https://sfgbm.fr/archives/11044) 2019. ([Présentation](/assets/docs/these/PresentationGBM.pdf))
+
 ### Journaux internationaux
 **F. Kucharczak**, F. B. Bouallegue, O. Strauss, and D. Mariano-Goulart, [Confidence interval constraint based regularization framework for PET quantization](/assets/docs/articles_perso/TMI2019.pdf), IEEE Transactions in Medical Imaging, vol. 38, no. 6, pp. 1513–1523, **2019**.
 

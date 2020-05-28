@@ -1,0 +1,224 @@
+I"�"<h2 id="critères-dévaluation">Critères d’évaluation</h2>
+
+<h3 id="critère-principal">Critère principal</h3>
+
+<ul>
+  <li>Il doit être idéalement :
+    <ul>
+      <li>Unique</li>
+      <li>En accord avec l’objectif annoncé dans l’article</li>
+      <li>Bien défini et quantifiable</li>
+      <li>Idéalement être clinique (morbimortalité+++)</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Attention aux autres types de critères :
+    <ul>
+      <li><em>Intermédiaires</em> : données biologiques, imageries</li>
+      <li><em>Combinés</em> : Allient variable clinique à donnée biologique</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="critères-secondaires">Critères secondaires</h3>
+
+<ul>
+  <li>Peuvent être multiples</li>
+  <li>Explorent des pistes</li>
+  <li>Leurs résultats ne donnent lieu qu’à des hypothèses de recherche pour d’autres articles</li>
+  <li>⚠️ : <strong>Jamais de conclusions sur des critères secondaires</strong></li>
+</ul>
+
+<h3 id="critères-de-jugement">Critères de jugement</h3>
+
+<ul>
+  <li>Un critère de jugement idéal : la mortalité</li>
+  <li>Cependant, toujours se demander si il existe un meilleur critère de jugement. Sinon -&gt; on l’accepte</li>
+</ul>
+<ul>
+  <li>Un <strong>critère de jugement composite</strong> est un critère de jugement constitué par l’association de plusieurs critères (mortalité coronarienne et nombre d’AVC) d’importance clinique équivalente dont la présence d’un seul suffit pour considérer le critère composite comme rempli
+    <ul>
+      <li>Type de critère à risque -&gt; résultats obtenus sont la combinaison de deux paramètres mais on n’a aucun moyen de savoir si les deux sont améliorés ou seulement un</li>
+      <li>Ils doivent être parfaitement cohérents (mortalité et morbidité pour un TTT antidiabétique par exemple)</li>
+      <li>Douteux si par exemple : mortalité et diminution du poids dans un TTT antidiabétique</li>
+    </ul>
+  </li>
+  <li>⚠️ : <strong>Refusez systématiquement un critère qui allie un critère clinique et un critère intermédiaire</strong> (mortalité + taille d’une tumeur, taux de marqueur bio).</li>
+</ul>
+
+<h2 id="les-biais">Les biais</h2>
+
+<p>Si l’étude est multicentrique ou réalisée par différents investigateurs, le recueil doit être standardisé, par exemple par un questionnaire identique (cf. biais d’information)</p>
+
+<h3 id="biais-de-confusion">Biais de confusion</h3>
+
+<blockquote>
+  <p>Le plus difficile à éviter</p>
+</blockquote>
+
+<ul>
+  <li>Introduit par la présence d’un facteur de confusion</li>
+  <li>Lié à la fois à l’exposition et à la maladie</li>
+</ul>
+<ul>
+  <li><strong>Pour s’affranchir de ce biais</strong> :
+    <ul>
+      <li><em>Dans le choix du type d’étude</em>
+        <ol>
+          <li><em style="color: orange">La randomisation</em>
+    - Pas de raison qu’on retrouve une différence d’exposition sur un facteur de confusion (ex : biais de confusion de l’âge pour une étude sur l’HTA évité par la randomisation)
+    - Fonctionne même sur les facteurs de confusion inconnus</li>
+          <li><em style="color: orange">L’appariement</em>
+    - A chaque personne incluse on cherche un candidat comparable pour l’autre groupe
+            <ul>
+              <li>Ainsi, même exposition au facteur de confusion</li>
+            </ul>
+          </li>
+        </ol>
+      </li>
+      <li><em>Lors du traitement des résultats</em>
+        <ol>
+          <li><em style="color: orange">La stratification</em>
+    - Segmentation des deux groupes en <script type="math/tex">n</script> sous-groupes puis analyse de chaque sous-groupes
+            <ul>
+              <li><script type="math/tex">n</script> RR pour différents types d’expositions à un facteur de confusion</li>
+            </ul>
+          </li>
+          <li><em style="color: orange">Ajustement de l’analyse multivariée</em>
+    - Intervient lors du traitement statistique
+    - Il va permettre de tenir compte d’un facteur de confusion et donnera des résultats en RRajusté ou ORajusté</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="biais-de-sélection">Biais de sélection</h3>
+
+<ul>
+  <li>Erreur dans la sélection des patients = échantillon étudié n’est pas représentatif :
+    <ul>
+      <li><strong>Non conforme à la maladie étudiée</strong> -&gt; Femme incluse dans une étude sur la prostate</li>
+      <li><strong>Non conforme à l’objectif</strong> -&gt; Efficacité d’un traitement sur l’évolution de la maladie sur des malades en phase terminale</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Un médecin, dans une étude en ouvert, peut choisir de donner un traitement plutot qu’un autre à un cas sévère si la randomisation n’est pas automatisée.</li>
+</ul>
+<ul>
+  <li><strong>Pour s’affranchir de ce biais</strong> :
+    <ul>
+      <li>Pas de solution miracle. Bien choisir sa population.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="biais-de-classement">Biais de classement</h3>
+
+<h4 id="biais-de-mémorisation-de-déclaration-ou-dinformation">Biais de mémorisation/ de déclaration (ou d’information)</h4>
+
+<ul>
+  <li>Erreur dans le receuil des informations
+    <ul>
+      <li>problèmes de mémorisation dans les études cas-témoins</li>
+      <li>déclaration partiellement faussée par les patients sur les sujets tabous</li>
+    </ul>
+  </li>
+  <li><strong>Pour s’affranchir de ce biais</strong> :
+    <ul>
+      <li>Pas de solution miracle : confidentialité, anonymisation, double vérification</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="biais-de-mesure">Biais de mesure</h4>
+
+<ul>
+  <li>Erreur dans les mesures des caractéristiques des patients étudiés
+    <ul>
+      <li>Erreurs diagnostiques qui peuvent faire considérer un patient malade alors qu’il est sain</li>
+      <li>Erreurs de mesure d’un paramètre : par exemple interrogatoires par praticiens différents, pas de procédure d’évaluation bien définie…</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><strong>Pour s’affranchir de ce biais</strong> :
+    <ul>
+      <li>évitable si on utilise des définitions précises de pathologies et des procédures standardisés pour tous les investigateurs.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="perdus-de-vue---biais-dattrition">Perdus de vue - biais d’attrition</h4>
+
+<ul>
+  <li>Biais fréquent, talon d’Achille des études prospectives : le fait que des patients randomisés aient été écartés de l’analyse
+    <ul>
+      <li>Déménagement, changement de médecin, etc.</li>
+    </ul>
+  </li>
+  <li><strong>Pour s’affranchir de ce biais</strong> :
+    <ul>
+      <li>Pas de moyen de l’éviter, mais moyens d’en tenir compte dans l’analyse statistique</li>
+      <li><em style="color: orange">Analyse en intention de traiter (ITT)</em>
+        <ul>
+          <li>Tous les patients inclus sont analysés dans les résultats
+            <ul>
+              <li>Ceux pour lesquels les données ne sont plus disponibles traités de manière arbitraire</li>
+            </ul>
+          </li>
+          <li>Généralement hypothèse de biais maximum = on considère une évolution défavorable (pire option possible)</li>
+          <li><em>Méthode de référence pour un essai de supériorité</em></li>
+        </ul>
+      </li>
+      <li><em style="color: orange">Analyse Per Protocole</em>
+        <ul>
+          <li>Analyse statistique seulement sur les patients arrivés au bout de l’étude</li>
+          <li><em>Mauvaise dans un essai de supériorité mais meilleure dans les études de non infériorité</em></li>
+          <li>Au plus proche de l’efficacité intrinsèque du médicament</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="biais-de-publication">Biais de publication</h4>
+
+<ul>
+  <li>
+    <p>Spécifique des méta-analyses -&gt; études qui montrent une différence significative ont plus de chance d’être publiés que les études qui n’en montrent pas.</p>
+  </li>
+  <li>
+    <p><strong>Pour s’affranchir de ce biais</strong> :</p>
+    <ul>
+      <li>Rechercher les études réalisées publiées ou non</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="validité-des-études">Validité des études</h2>
+
+<ul>
+  <li><strong>Validité interne</strong> : affectée par les biais de sélection
+    <ul>
+      <li>Validité interne = validité de la méthodologie
+        <ul>
+          <li>Bonne puissance</li>
+          <li>Absence de biais</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><strong>Validité externe (sa généralisabilité)</strong> :
+    <ul>
+      <li>Comparaison des résultats d’une étude aux études similaires déjà réalisées</li>
+      <li>Si les résultats sont concordants avec d’autres études, c’est un argument de poids</li>
+      <li>Si les résults sont discordants, attention : biais? ou alors meilleure façon d’aborder le problème?</li>
+    </ul>
+  </li>
+</ul>
+:ET

@@ -1,4 +1,407 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-20T10:03:59+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Fiche de LCA</title><link href="http://localhost:4000/2020/05/17/LCA_fiche.html" rel="alternate" type="text/html" title="Fiche de LCA" /><published>2020-05-17T00:00:00+02:00</published><updated>2020-05-17T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/17/LCA_fiche</id><content type="html" xml:base="http://localhost:4000/2020/05/17/LCA_fiche.html">&lt;h2 id=&quot;les-biais&quot;&gt;Les biais&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-28T12:04:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">LCA niveau 2 - S2 2019/2020 - Examen 2</title><link href="http://localhost:4000/2020/05/23/LCA_partiel_2.html" rel="alternate" type="text/html" title="LCA niveau 2 - S2 2019/2020 - Examen 2" /><published>2020-05-23T00:00:00+02:00</published><updated>2020-05-23T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/23/LCA_partiel_2</id><content type="html" xml:base="http://localhost:4000/2020/05/23/LCA_partiel_2.html">&lt;p&gt;Etude de l’article &lt;code class=&quot;highlighter-rouge&quot;&gt;Tenecteplase versus alteplase for management of acute
+ischaemic stroke (NOR-TEST): a phase 3, randomised,
+open-label, blinded endpoint trial&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/docs/articles/LCA/LCA_D2_2.pdf&quot;&gt;Lien sur l’article annoté&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Evaluation du Tenecteplase comme nouvel agent thrombolytique&lt;/li&gt;
+  &lt;li&gt;De précédentes études de phase 2 ont montré des résultats prometteurs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;base-de-létude&quot;&gt;Base de l’étude&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Alteplase est actuellement le seul agent agréé à cet effet mais a des défauts&lt;/li&gt;
+  &lt;li&gt;Tenecteplase est un variant muté de l’Alteplase censé combler ces problèmes
+    &lt;ul&gt;
+      &lt;li&gt;Meilleurs profils et puissance thrombolytique &lt;em&gt;in vitro&lt;/em&gt; et sur modèles animaux&lt;/li&gt;
+      &lt;li&gt;A déjà fait les preuves de sa supériorité dans le TTT de l’IDM&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;Un essai de phase 2b avec des patients très bien sélectionnés a montré un meilleur outcome clinique et un meilleur ratio de reperfusion que l’Alteplase&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;Premier essai randomisé, contrôlé de phase 3 portant sur l’innocuité et l’efficacité de
+ténectéplase chez les patients éligibles à une thrombolyse intraveineuse&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;objectif-de-larticle&quot;&gt;Objectif de l’article&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Primary study endpoint&lt;/strong&gt; : excellent (0–1 points) functional outcome at 3 months measured with mRS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Secondary study endpoint&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;quelconque hémorragie intracranienne dans les 24-48h&lt;/li&gt;
+      &lt;li&gt;hémorragie intracranienne se déroulant dans les 24-48h&lt;/li&gt;
+      &lt;li&gt;amélioration neurologique majeure dans les 24h au NIHSS&lt;/li&gt;
+      &lt;li&gt;Changement du mRS à 3 mois (ordinal shift analysis of mRS)&lt;/li&gt;
+      &lt;li&gt;Mort dans les 3 mois après inclusion&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;matériel-et-méthodes&quot;&gt;Matériel et méthodes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Approbation des comités d’éthique&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;Signature d’un consentement éclaire ou d’un proche si patient pas capable de le faire&lt;/li&gt;
+      &lt;li&gt;Etude menée en accord avec les guides de bonnes pratiques de la déclaration d’Helsinki&lt;/li&gt;
+      &lt;li&gt;Contrôlée par des membres externes de la Western Norway Health Trust Research&lt;/li&gt;
+      &lt;li&gt;Etyde approuvée par Regional Committee for Medical and Health Research Ethics and the Norwegian Medicines Agency.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Critères d’inclusion&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;Adultes supectés d’avoir un AVC ischémique aigu :
+        &lt;ul&gt;
+          &lt;li&gt;Eligibles à la thrombolyse&lt;/li&gt;
+          &lt;li&gt;ET :
+            &lt;ul&gt;
+              &lt;li&gt;admis dans les 4,5h du début des symptomes&lt;/li&gt;
+              &lt;li&gt;OU dans dans les 4,5h suivant le réveil avec symptômes -&amp;gt; si missmatch FLAIR/ Diffusion&lt;/li&gt;
+              &lt;li&gt;OU qui ont été éligibles pour la “bridging therapy” (= prétraitement par thrombolyse IV avant thrombectomie)&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Inclusion of patients older than 80 years and patients with minor neurological deficits at presentation, previous history of stroke, and concomitant diabetes mellitus was allowed.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;1107 patients ont remplis les critères d’inclusion
+        &lt;ul&gt;
+          &lt;li&gt;7 patients exclus pour retrait du consentement ou éligibilité reconsidérée&lt;/li&gt;
+          &lt;li&gt;1100 patients randomisés
+            &lt;ul&gt;
+              &lt;li&gt;549 tenecteplase dont 99(18%) des patients pour lesquels un autre diagnostic a été retenu&lt;/li&gt;
+              &lt;li&gt;551 alteplase dont 91(17%) des patients pour lesquels un autre diagnostic a été retenu&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Critères d’exclusion&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;Liste entière dans la ref [12]&lt;/li&gt;
+      &lt;li&gt;En gros : CI à la thrombolyse&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;lieux-dinclusion-modalités-et-durée-du-suivi&quot;&gt;Lieux d’inclusion, modalités et durée du suivi&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dates d’inclusion&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Entre le 1er Sept 2012 et le 30 Sept 2016&lt;/li&gt;
+      &lt;li&gt;Patients’ follow-up was completed on Dec 31, 2016.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lieux d’inclusion&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;13 stroke units en Norvège -&amp;gt; multicentrique, nationale&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Durée du suivi&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;3 mois après inclusion&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;schéma-expérimental-et-type-détude&quot;&gt;Schéma expérimental et type d’étude&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Type d’étude&lt;/strong&gt; : Essai randomisé de phase 3
+    &lt;ul&gt;
+      &lt;li&gt;randomisation (1:1) par blocs
+        &lt;ul&gt;
+          &lt;li&gt;A biostatistician (JA) created the randomisation sequence using computer-generated random numbers.&lt;/li&gt;
+          &lt;li&gt;Utilisation d’enveloppes&lt;/li&gt;
+          &lt;li&gt;Taille des blocs non indiquéés pour empécher la prédiction&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;prospective&lt;/li&gt;
+      &lt;li&gt;De supériorité = unilatéral
+        &lt;ul&gt;
+          &lt;li&gt;On ne peut pas dire que le traitement est inférieur, équivalent ou d’une supériorité inférieur à 9%&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;En ouvert
+        &lt;ul&gt;
+          &lt;li&gt;Patients en aveugle&lt;/li&gt;
+          &lt;li&gt;Médecins qui traitaient en ouvert (aux urgences)&lt;/li&gt;
+          &lt;li&gt;Ceux qui évaluent les premiers et seconds endpoints sont en aveugle (dans l’unité de soin post-urgences)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Evaluation finale en aveugle&lt;/li&gt;
+      &lt;li&gt;Multicentrique
+        &lt;ul&gt;
+          &lt;li&gt;stratifié par centre d’inclusion&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;National&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Procédures (inclusion et suivi)&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;Déficit neuro évalué avec le NIHSS au départ, à 2h, à 24-48h et 7J après traitement
+        &lt;ul&gt;
+          &lt;li&gt;Celui à baseline fait avant la randomisation&lt;/li&gt;
+          &lt;li&gt;Attention au risque de biais
+            &lt;ul&gt;
+              &lt;li&gt;were obtained by ward nurses, or in some cases the treating physicians, who were instructed not to access the case report form before the patient’s assessment&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Functional outcomes were measured with the modified Rankin Scale (mRS) at 7 days and 3M via telephone or consultation&lt;/li&gt;
+      &lt;li&gt;Entrainement des instructeurs pour le NIHSS et le mRS scores. Bon point!&lt;/li&gt;
+      &lt;li&gt;Brain CT, CT angiography, and brain MRI à l’admission&lt;/li&gt;
+      &lt;li&gt;Follow-up :
+        &lt;ul&gt;
+          &lt;li&gt;brain MRI, or brain CT, at 24–48 h after treatment&lt;/li&gt;
+          &lt;li&gt;CT and MRI were done as routine work-up and images were analysed by radiologists blinded of the patient’s report&lt;/li&gt;
+          &lt;li&gt;Hemorragie décrite selon ECASS definition et critères&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Analyse&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;L’analyse primaire a été non ajustée et non stratifiée&lt;/li&gt;
+      &lt;li&gt;Analyse en ITT avec les dernières observations menées&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Détails de l’inclusion&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;1107 patients répondant au critère d’inclusion&lt;/li&gt;
+      &lt;li&gt;2 groupes (après 7 exlusions)
+        &lt;ul&gt;
+          &lt;li&gt;1 groupe intravenous tenecteplase 0·4 mg/kg (to a maximum of 40 mg) -&amp;gt; n = 549 inclus en ITT
+            &lt;ul&gt;
+              &lt;li&gt;167 exclus (voir Fig.1)&lt;/li&gt;
+              &lt;li&gt;382 inclus en analyse per protocol du primary outcome (⚠️ biais d’attrition important dans essai de supériorité)&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;1 groupe alteplase 0·9 mg/kg (to a maximum of 90 mg) -&amp;gt; n =  551 inclus en ITT
+            &lt;ul&gt;
+              &lt;li&gt;160 exclus (voir Fig.1)&lt;/li&gt;
+              &lt;li&gt;391 inclus en analyse per protocol du primary outcome (⚠️ biais d’attrition important dans essai de supériorité)&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;statistiques&quot;&gt;Statistiques&lt;/h3&gt;
+
+&lt;h4 id=&quot;nsn&quot;&gt;NSN&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Calcul du NSN effectué avant le début de l’étude basé sur l’hypothèse :
+    &lt;ul&gt;
+      &lt;li&gt;tenecteplase would result in a 9% absolute increase in the proportion of patients achieving excellent functional outcome at 3 months (mRS score 0–1) compared with alteplase&lt;/li&gt;
+      &lt;li&gt;Calculé à partir d’études précédentes&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;Puissance de 90%
+-&lt;script type=&quot;math/tex&quot;&gt;\alpha=0.05&lt;/script&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;NSN estimé à 954 patients (ie, 477 dans chaque groupe)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;⚠️ biais :
+    &lt;ul&gt;
+      &lt;li&gt;remplacement d’un secondary outcome par un autre “One of the prespecified secondary outcomes, rate of revascularisation at 24–36 h, was replaced by the shift analysis of mRS at 3 months because the rate of vessel occlusion at baseline was found to be fairly low in our study.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;résultats&quot;&gt;Résultats&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tous les critères comparables entre les deux groupes sauf la proportion d’antécédant de maladie ischémique du coeur dans le groupe tenecteplase qui est plus petite que dans l’autre groupe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;Les auteurs ont montré que, contrairement à ce que de nombreux chercheurs ont écrit, que la dose de 0.4mg/kg est aussi sage que de l’Alteplase 0.9mg/kg.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Primary efficacity outcome&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;The primary outcome was achieved by 354 (64%) patients in the tenecteplase group and 345 (63%) patients in the alteplase group (odds ratio 1·08, 95% CI 0·84–1·38; p=0·52).&lt;/li&gt;
+      &lt;li&gt;By 3 months, 29 (5%) patients had died in the tenecteplase group compared with 26 (5%) in the alteplase group.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Secondary outcomes&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;There were no differences in any of the secondary outcomes between the two treatment groups in the per-protocol analysis&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;⚠️ NSN plus respecté dans l’analyse per-protocol&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;La ténectéplase n’est pas supérieure à l’alteplase et présente un profil d’innocuité similaire. Cependant, l’étude n’est pas généralisable aux patients avec des AVC sévères. D’autres études de phase 3 sont nécessaires pour cela.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A large number of patients were recruited within the planned inclusion period, and the results of the study are likely to be generalisable to a substantial proportion of patients treated in a modern stroke unit, albeit mostly those with mild symptoms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;The stroke severity of patients included in the present study was lower than expected.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Biais identifiés&lt;/strong&gt; ⚠️ :
+    &lt;ul&gt;
+      &lt;li&gt;Selection bias in favour of minor stroke&lt;/li&gt;
+      &lt;li&gt;Assessment of NIHSS at baseline was done by the emergency room physician before randomisation&lt;/li&gt;
+      &lt;li&gt;The open-label design of the study might therefore have led to potential bias in measurement of clinical outcomes&lt;/li&gt;
+      &lt;li&gt;Absence of systematic training for some of the observers might have affected the quality of the clinical outcomes&lt;/li&gt;
+      &lt;li&gt;10% of the included patients had a premorbid mRS score of 2 or more points and could therefore not have achieved 0 or 1 point at 3-month mRS assessment as required by the primary outcome&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;In conclusion, tenecteplase was not superior to alteplase for treatment of acute ischaemic stroke and had a similar safety profile.&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><category term="LCA" /><category term="Cas clinique" /><summary type="html">Etude de l’article Tenecteplase versus alteplase for management of acute ischaemic stroke (NOR-TEST): a phase 3, randomised, open-label, blinded endpoint trial</summary></entry><entry><title type="html">Prix de thèse GMB</title><link href="http://localhost:4000/2020/05/19/PrixTheseGMB.html" rel="alternate" type="text/html" title="Prix de thèse GMB" /><published>2020-05-19T00:00:00+02:00</published><updated>2020-05-19T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/19/PrixTheseGMB</id><content type="html" xml:base="http://localhost:4000/2020/05/19/PrixTheseGMB.html">&lt;!---
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/img/medecine/oph_32.png&quot; style=&quot;width:90%&quot;/&gt;
+  &lt;br&gt;
+    &lt;em&gt;Impacts et positions compensatrices&lt;/em&gt;
+&lt;/p&gt;
+---&gt;
+
+&lt;h2 id=&quot;plan-de-présentation&quot;&gt;Plan de présentation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Introduction prix&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Contexte thèse
+        &lt;ul&gt;
+          &lt;li&gt;CIFRE&lt;/li&gt;
+          &lt;li&gt;Contexte innovant : entreprise, recherche fondamentale&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Contexte de la thèse&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;TEP&lt;/li&gt;
+      &lt;li&gt;Positionnement des travaux dans l’état de l’art&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Innovations&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Des sciences fondamentales à la validation clinique
+        &lt;ul&gt;
+          &lt;li&gt;Théoriques&lt;/li&gt;
+          &lt;li&gt;Applications médicales&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Des méthodes innovantes au service d’autres applications
+        &lt;ul&gt;
+          &lt;li&gt;Recalage&lt;/li&gt;
+          &lt;li&gt;SR&lt;/li&gt;
+          &lt;li&gt;Compression d’images jpeg&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Suite&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Médecine&lt;/li&gt;
+      &lt;li&gt;Stage “bootstrap”&lt;/li&gt;
+      &lt;li&gt;AAP avec ouverture à la cancérologie&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;remarques&quot;&gt;Remarques&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ne pas garder les slices sur AD
+    &lt;ul&gt;
+      &lt;li&gt;Faire une slide d’introduction, thématique avec les mots clés.&lt;/li&gt;
+      &lt;li&gt;“Comme il est impossible en 12 minutes sur mes travaux de thèse de tout détailler, voici quelques mots clés pour le contexte”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Thèse" /><summary type="html"></summary></entry><entry><title type="html">Fiche de LCA</title><link href="http://localhost:4000/2020/05/17/LCA_fiche.html" rel="alternate" type="text/html" title="Fiche de LCA" /><published>2020-05-17T00:00:00+02:00</published><updated>2020-05-17T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/17/LCA_fiche</id><content type="html" xml:base="http://localhost:4000/2020/05/17/LCA_fiche.html">&lt;h2 id=&quot;critères-dévaluation&quot;&gt;Critères d’évaluation&lt;/h2&gt;
+
+&lt;h3 id=&quot;critère-principal&quot;&gt;Critère principal&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Il doit être idéalement :
+    &lt;ul&gt;
+      &lt;li&gt;Unique&lt;/li&gt;
+      &lt;li&gt;En accord avec l’objectif annoncé dans l’article&lt;/li&gt;
+      &lt;li&gt;Bien défini et quantifiable&lt;/li&gt;
+      &lt;li&gt;Idéalement être clinique (morbimortalité+++)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;Attention aux autres types de critères :
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Intermédiaires&lt;/em&gt; : données biologiques, imageries&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Combinés&lt;/em&gt; : Allient variable clinique à donnée biologique&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;critères-secondaires&quot;&gt;Critères secondaires&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Peuvent être multiples&lt;/li&gt;
+  &lt;li&gt;Explorent des pistes&lt;/li&gt;
+  &lt;li&gt;Leurs résultats ne donnent lieu qu’à des hypothèses de recherche pour d’autres articles&lt;/li&gt;
+  &lt;li&gt;⚠️ : &lt;strong&gt;Jamais de conclusions sur des critères secondaires&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;critères-de-jugement&quot;&gt;Critères de jugement&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Un critère de jugement idéal : la mortalité&lt;/li&gt;
+  &lt;li&gt;Cependant, toujours se demander si il existe un meilleur critère de jugement. Sinon -&amp;gt; on l’accepte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;Un &lt;strong&gt;critère de jugement composite&lt;/strong&gt; est un critère de jugement constitué par l’association de plusieurs critères (mortalité coronarienne et nombre d’AVC) d’importance clinique équivalente dont la présence d’un seul suffit pour considérer le critère composite comme rempli
+    &lt;ul&gt;
+      &lt;li&gt;Type de critère à risque -&amp;gt; résultats obtenus sont la combinaison de deux paramètres mais on n’a aucun moyen de savoir si les deux sont améliorés ou seulement un&lt;/li&gt;
+      &lt;li&gt;Ils doivent être parfaitement cohérents (mortalité et morbidité pour un TTT antidiabétique par exemple)&lt;/li&gt;
+      &lt;li&gt;Douteux si par exemple : mortalité et diminution du poids dans un TTT antidiabétique&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;⚠️ : &lt;strong&gt;Refusez systématiquement un critère qui allie un critère clinique et un critère intermédiaire&lt;/strong&gt; (mortalité + taille d’une tumeur, taux de marqueur bio).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;les-biais&quot;&gt;Les biais&lt;/h2&gt;
 
 &lt;p&gt;Si l’étude est multicentrique ou réalisée par différents investigateurs, le recueil doit être standardisé, par exemple par un questionnaire identique (cf. biais d’information)&lt;/p&gt;
 
@@ -149,7 +552,29 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;un critère de jugement composite est un critère de jugement constitué par l’association de plusieurs critères d’importance clinique équivalente dont la présence d’un seul suffit pour considérer le critère composite comme rempli&lt;/p&gt;</content><author><name></name></author><category term="LCA" /><category term="Fiche" /><summary type="html">Les biais</summary></entry><entry><title type="html">Best-of d’Ophtalmologie</title><link href="http://localhost:4000/2020/05/16/BO_Ophtalmo.html" rel="alternate" type="text/html" title="Best-of d'Ophtalmologie" /><published>2020-05-16T00:00:00+02:00</published><updated>2020-05-16T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/16/BO_Ophtalmo</id><content type="html" xml:base="http://localhost:4000/2020/05/16/BO_Ophtalmo.html">&lt;h2 id=&quot;fiches-mémo&quot;&gt;Fiches mémo&lt;/h2&gt;
+&lt;h2 id=&quot;validité-des-études&quot;&gt;Validité des études&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Validité interne&lt;/strong&gt; : affectée par les biais de sélection
+    &lt;ul&gt;
+      &lt;li&gt;Validité interne = validité de la méthodologie
+        &lt;ul&gt;
+          &lt;li&gt;Bonne puissance&lt;/li&gt;
+          &lt;li&gt;Absence de biais&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Validité externe (sa généralisabilité)&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;Comparaison des résultats d’une étude aux études similaires déjà réalisées&lt;/li&gt;
+      &lt;li&gt;Si les résultats sont concordants avec d’autres études, c’est un argument de poids&lt;/li&gt;
+      &lt;li&gt;Si les résults sont discordants, attention : biais? ou alors meilleure façon d’aborder le problème?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="LCA" /><category term="Fiche" /><summary type="html">Critères d’évaluation</summary></entry><entry><title type="html">Best-of d’Ophtalmologie</title><link href="http://localhost:4000/2020/05/16/BO_Ophtalmo.html" rel="alternate" type="text/html" title="Best-of d'Ophtalmologie" /><published>2020-05-16T00:00:00+02:00</published><updated>2020-05-16T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/16/BO_Ophtalmo</id><content type="html" xml:base="http://localhost:4000/2020/05/16/BO_Ophtalmo.html">&lt;h2 id=&quot;fiches-mémo&quot;&gt;Fiches mémo&lt;/h2&gt;
 
 &lt;p align=&quot;center&quot;&gt;
  &lt;img src=&quot;/assets/img/medecine/oph_33.png&quot; style=&quot;width:70%&quot; /&gt;
@@ -1041,6 +1466,8 @@ DMLA : 1e cause de cécité &amp;gt; 55A&lt;/p&gt;
   &lt;li&gt;Epicanthus : pas de strabisme, mais impression d’ésotropie&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><category term="Ophtalmologie" /><category term="BO" /><category term="Fiche" /><summary type="html">Fiches mémo</summary></entry><entry><title type="html">LCA niveau 2 - S2 2019/2020</title><link href="http://localhost:4000/2020/05/16/LCA_partiel.html" rel="alternate" type="text/html" title="LCA niveau 2 - S2 2019/2020" /><published>2020-05-16T00:00:00+02:00</published><updated>2020-05-16T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/16/LCA_partiel</id><content type="html" xml:base="http://localhost:4000/2020/05/16/LCA_partiel.html">&lt;p&gt;Etude de l’article &lt;code class=&quot;highlighter-rouge&quot;&gt;Ranibizumab versus laser therapy for the treatment of very low birthweight infants with retinopathy of prematurity (RAINBOW): an open-label randomised controlled trial&lt;/code&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;/assets/docs/articles/LCA/LCA_D2.pdf&quot;&gt;Lien sur l’article annoté&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;h3 id=&quot;objectif-de-larticle&quot;&gt;Objectif de l’article&lt;/h3&gt;
@@ -1373,43 +1800,7 @@ Le syndrome neurogène périphérique y est par définition bilatéral et symét
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_12.png&quot; alt=&quot;Schéma moelle&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_10.png&quot; alt=&quot;Image nerfs&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Rhumatologie" /><category term="ITEM iECN" /><summary type="html">Syndromes radiculaires</summary></entry><entry><title type="html">ITEM 11 - Soins psychiatriques sans consentement</title><link href="http://localhost:4000/2020/05/14/Item11.html" rel="alternate" type="text/html" title="ITEM 11 - Soins psychiatriques sans consentement" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/Item11</id><content type="html" xml:base="http://localhost:4000/2020/05/14/Item11.html">&lt;h3 id=&quot;mise-à-jour-du-mikbook&quot;&gt;Mise à jour du Mikbook&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/Psy_1.jpeg&quot; alt=&quot;drawing&quot; width=&quot;1000&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;notes-extraites-du-bo&quot;&gt;Notes extraites du BO&lt;/h4&gt;
-
-&lt;p&gt;A la demande d’un tiers = toute personne connaissant le patient avant d’être aux urgences&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt; :
-    &lt;ul&gt;
-      &lt;li&gt;Demande d’un tiers&lt;/li&gt;
-      &lt;li&gt;2 certificats dont au – 1 rédigé par médecin extérieur thésé&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Péril imminent&lt;/strong&gt; :
-    &lt;ul&gt;
-      &lt;li&gt;Pas possible s’il est aux urgences&lt;/li&gt;
-      &lt;li&gt;Pas demande de tiers&lt;/li&gt;
-      &lt;li&gt;Fait par 1 extérieur thésé en urgence&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Demande d’un tiers en urgence&lt;/strong&gt; : Tellement d’urgence qu’on ne peut pas trouver un tiers.
-    &lt;ul&gt;
-      &lt;li&gt;Demande d’un tiers&lt;/li&gt;
-      &lt;li&gt;1 certificat de médecin thésé extérieur à l’établissement&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sur décision d’un représentant de l’état&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;1 seul certificat médical par psychiatre extérieur&lt;/li&gt;
-      &lt;li&gt;Contrôle par le préfet de l’hospitalisation (=arrêté préfectoral) &amp;lt; 48h&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Contrôle systématique d’hospitalisation par un juge à J12.&lt;/p&gt;</content><author><name></name></author><category term="Psychiatrie" /><category term="ITEM iECN" /><summary type="html">Mise à jour du Mikbook</summary></entry><entry><title type="html">Best-of d’ORL</title><link href="http://localhost:4000/2020/05/14/BO_ORL.html" rel="alternate" type="text/html" title="Best-of d'ORL" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/BO_ORL</id><content type="html" xml:base="http://localhost:4000/2020/05/14/BO_ORL.html">&lt;h4 id=&quot;episaxis&quot;&gt;Episaxis&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_10.png&quot; alt=&quot;Image nerfs&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Rhumatologie" /><category term="ITEM iECN" /><summary type="html">Syndromes radiculaires</summary></entry><entry><title type="html">Best-of d’ORL</title><link href="http://localhost:4000/2020/05/14/BO_ORL.html" rel="alternate" type="text/html" title="Best-of d'ORL" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/BO_ORL</id><content type="html" xml:base="http://localhost:4000/2020/05/14/BO_ORL.html">&lt;h4 id=&quot;episaxis&quot;&gt;Episaxis&lt;/h4&gt;
 
 &lt;p&gt;Deux grandes parties à intégrer :&lt;/p&gt;
 &lt;ul&gt;
@@ -1690,7 +2081,43 @@ Soit on fait cytoponction soit on enlève le ganglion en entier&lt;/p&gt;
       &lt;li&gt;Attention aux piles bouton et aux trucs piquants -&amp;gt; médiastinite&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="ORL" /><category term="BO" /><category term="Fiche" /><summary type="html">Episaxis</summary></entry><entry><title type="html">ITEM 147 - Otites infectieuses adulte et enfant</title><link href="http://localhost:4000/2020/05/13/Item147.html" rel="alternate" type="text/html" title="ITEM 147 - Otites infectieuses adulte et enfant" /><published>2020-05-13T00:00:00+02:00</published><updated>2020-05-13T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/13/Item147</id><content type="html" xml:base="http://localhost:4000/2020/05/13/Item147.html">&lt;h3 id=&quot;objectifs&quot;&gt;Objectifs&lt;/h3&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="ORL" /><category term="BO" /><category term="Fiche" /><summary type="html">Episaxis</summary></entry><entry><title type="html">ITEM 11 - Soins psychiatriques sans consentement</title><link href="http://localhost:4000/2020/05/14/Item11.html" rel="alternate" type="text/html" title="ITEM 11 - Soins psychiatriques sans consentement" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/Item11</id><content type="html" xml:base="http://localhost:4000/2020/05/14/Item11.html">&lt;h3 id=&quot;mise-à-jour-du-mikbook&quot;&gt;Mise à jour du Mikbook&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/Psy_1.jpeg&quot; alt=&quot;drawing&quot; width=&quot;1000&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;notes-extraites-du-bo&quot;&gt;Notes extraites du BO&lt;/h4&gt;
+
+&lt;p&gt;A la demande d’un tiers = toute personne connaissant le patient avant d’être aux urgences&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;Demande d’un tiers&lt;/li&gt;
+      &lt;li&gt;2 certificats dont au – 1 rédigé par médecin extérieur thésé&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Péril imminent&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;Pas possible s’il est aux urgences&lt;/li&gt;
+      &lt;li&gt;Pas demande de tiers&lt;/li&gt;
+      &lt;li&gt;Fait par 1 extérieur thésé en urgence&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Demande d’un tiers en urgence&lt;/strong&gt; : Tellement d’urgence qu’on ne peut pas trouver un tiers.
+    &lt;ul&gt;
+      &lt;li&gt;Demande d’un tiers&lt;/li&gt;
+      &lt;li&gt;1 certificat de médecin thésé extérieur à l’établissement&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sur décision d’un représentant de l’état&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;1 seul certificat médical par psychiatre extérieur&lt;/li&gt;
+      &lt;li&gt;Contrôle par le préfet de l’hospitalisation (=arrêté préfectoral) &amp;lt; 48h&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contrôle systématique d’hospitalisation par un juge à J12.&lt;/p&gt;</content><author><name></name></author><category term="Psychiatrie" /><category term="ITEM iECN" /><summary type="html">Mise à jour du Mikbook</summary></entry><entry><title type="html">ITEM 147 - Otites infectieuses adulte et enfant</title><link href="http://localhost:4000/2020/05/13/Item147.html" rel="alternate" type="text/html" title="ITEM 147 - Otites infectieuses adulte et enfant" /><published>2020-05-13T00:00:00+02:00</published><updated>2020-05-13T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/13/Item147</id><content type="html" xml:base="http://localhost:4000/2020/05/13/Item147.html">&lt;h3 id=&quot;objectifs&quot;&gt;Objectifs&lt;/h3&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Connaître les agents infectieux responsables des OMA.&lt;br /&gt;
@@ -1871,217 +2298,4 @@ Diagnostiquer otite moyenne chronique dangereuse ou cholestéateuse.&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.info-radiologie.ch/sequence_irm.php&quot;&gt;Lien pour compléter ou revoir les applications de chaque séquence&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Imagerie" /><category term="Neurologie" /><category term="Fiche" /><summary type="html">Différentes séquences utiles en IRM pour la neurologie</summary></entry><entry><title type="html">Physiologie neurologie - système nerveux périphérique</title><link href="http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP.html" rel="alternate" type="text/html" title="Physiologie neurologie - système nerveux périphérique" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FicheNeuroPhysioSNP.html">&lt;h3 id=&quot;voies-efférentes&quot;&gt;Voies efférentes&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Système nerveux somatique&lt;/th&gt;
-      &lt;th&gt;Système nerveux autonome&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Exerce son influence sur les muscles squelettiques&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;Pas soumis au contrôle volontaire&lt;/em&gt; &lt;br /&gt; -&amp;gt; muscle cardiaque, muscles lisses, glandes exocrines et certaines endocrines&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Sympathique&lt;/strong&gt; ou &lt;strong&gt;Parasympathique&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sympathique&lt;/strong&gt; :
-    &lt;ul&gt;
-      &lt;li&gt;Courts neurones pré-ganglionnaires &lt;strong&gt;cholinergiques&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;Longs neurones post-ganglionnaires &lt;strong&gt;adrénergiques&lt;/strong&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Parasympathique&lt;/strong&gt; :
-    &lt;ul&gt;
-      &lt;li&gt;Longs neurones pré-ganglionnaires &lt;strong&gt;cholinergiques&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;Courts neurones post-ganglionnaires &lt;strong&gt;cholinergiques&lt;/strong&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Chaque voie possède deux neurones l’un à la suite de l’autre :
-    &lt;ul&gt;
-      &lt;li&gt;1er : neurone pré-ganglionnaire -&amp;gt; corps cellulaire dans le SNC&lt;/li&gt;
-      &lt;li&gt;2e : neurone post-ganglionnaire -&amp;gt; corps cellulaire situé en dehors du SNC et innerve les organes effecteurs.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Rappel : ganglion = ensemble de corps cellulaires de neurones situés en dehors du SNC&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_5.png&quot; alt=&quot;Voies sensitives&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Dominance parasympathique&lt;/strong&gt; : en situation calme, sans menace, l’organisme fait passer au premier plan la digestion et le repos.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dominance sympathique&lt;/strong&gt; : prépare l’organisme à une activité physique intense en cas de situation stressante. Préparation à la fuite ou à la lutte (cœur accélère, PA augmente, vasoconstriction…)
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;récepteurs-cholinergiques&quot;&gt;Récepteurs cholinergiques&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Nicotiniques&lt;/strong&gt; : sur le corps cellulaire des neurones post-ganglionnaires de tous les ganglions du SNA. Répondent à l’acétylcholine.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Muscariniques&lt;/strong&gt; : dans la membrane des cellules effectrices (muscle cardiaque, muscles lisses…). Stimulés par liaison à acétylcholine.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;récepteurs-adrénergiques-&quot;&gt;Récepteurs adrénergiques :&lt;/h4&gt;
-
-&lt;p&gt;Deux classes de récepteurs à l’adrénaline et noradrénaline :&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Alpha&lt;/strong&gt; : plus grande affinité pour la noradrénaline que pour l’adrénaline
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Alpha 1 (excitateur)&lt;/em&gt; : plupart des tissus cible du sympathique&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Alpha 2 (inhibiteur)&lt;/em&gt; : au niveau des organes digestifs&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Beta&lt;/strong&gt; :
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Beta 1 (excitateur)&lt;/em&gt; : exclusivement localisés au niveau du cœur.
-Affinité identique pour adrénaline ou noradrénaline.&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Beta 2 (inhibiteur)&lt;/em&gt; : au niveau des muscles lisses, artérioles et bronchioles.
-Affinité exclusive à l’adrénaline.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Médicament agoniste&lt;/strong&gt; : se lie au récepteur -&amp;gt; &lt;em&gt;mime le neurotransmetteur&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Médicament antagoniste&lt;/strong&gt; : se lie au récepteur et &lt;em&gt;bloque la liaison du neurotransmetteur&lt;/em&gt; (même l’agoniste ne produit plus d’effet&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;système-nerveux-somatique&quot;&gt;Système nerveux somatique&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Motoneurones&lt;/strong&gt; :&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;A l’inverse du système autonome&lt;/em&gt; : l’axone du motoneurone va directeur du SNC au muscle qu’il innerve.&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Terminaison du motoneurone&lt;/em&gt; : libère de l’acétylcholine qui entraine contraction musculaire&lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;em&gt;Seul rôle du motoneurone&lt;/em&gt; : stimuler les muscles squelettiques&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Maladies des motoneurones&lt;/em&gt; :
-        &lt;ul&gt;
-          &lt;li&gt;&lt;em&gt;Poliomyélite&lt;/em&gt; : destruction du corps des motoneurones par le virus&lt;/li&gt;
-          &lt;li&gt;&lt;em&gt;SLA (= Charcot)&lt;/em&gt; : dégénérescence et mort des motoneurones de cause indéterminée&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jonction neuromusculaire&lt;/strong&gt; :&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;L’acétylcholine est le neurotransmetteur de la jonction musculaire.&lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Acétylcholinestérase met fin à l’action de l’acétylcholine dans la jonction neuromusculaire : quand plus de signal du motoneurone, l’activité électrique de la fibre musculaire est interrompue grâce à cette enzyme qui inactive l’acétylcholine.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Application en pathologie :&lt;/em&gt;
-        &lt;ul&gt;
-          &lt;li&gt;Venin de la veuve noire : cause libération explosive d’ACh&lt;/li&gt;
-          &lt;li&gt;Toxine botulique : bloque la libération d’ACh&lt;/li&gt;
-          &lt;li&gt;Curare : bloque action de l’ACh sur les récepteurs (paralysie musculaire réversible)&lt;/li&gt;
-          &lt;li&gt;Myasthénie : inactive les sites récepteurs de l’ACh. Extrême fatigabilité musculaire. Attaque auto-immune d’Ac contre les récepteurs&lt;/li&gt;
-          &lt;li&gt;Organophosphores : s’opposent de façon irréversible à l’activité de l’acétylcholinestérase. Présents dans pesticides et gaz de combat&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Voies efférentes</summary></entry><entry><title type="html">Physiologie ORL</title><link href="http://localhost:4000/2020/05/11/FichePhysioORL.html" rel="alternate" type="text/html" title="Physiologie ORL" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FichePhysioORL</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FichePhysioORL.html">&lt;h3 id=&quot;généralités-anatomiques-et-physiologiques&quot;&gt;Généralités anatomiques et physiologiques&lt;/h3&gt;
-
-&lt;p&gt;Chaque oreille comporte 3 parties :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Oreille externe&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Pavillon&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Conduit auditif externe&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Membrane tympanique&lt;/em&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Oreille moyenne&lt;/strong&gt; : transfère les mouvements vibratoires du tympan aux liquides de l’oreille interne
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Membrane tympanique&lt;/em&gt; : iso-pression assurée par pression atmosphérique à l’extérieur, et trompe d’Eustache (normalement fermée mais s’ouvre au bâillement, mastication, déglutition) reliée au pharynx en interne.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Oreille interne&lt;/strong&gt; : remplie de liquide, contient deux systèmes sensoriels différents
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Cochlée&lt;/em&gt; : récepteurs convertissent ondes sonores en signaux électriques
-        &lt;ul&gt;
-          &lt;li&gt;Contient l’organe de Corti, qui est l’appareil sensoriel de l’audition : cellules ciliées de ce dernier transforment les mouvements du liquide en signaux nerveux&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Appareil vestibulaire&lt;/em&gt; : nécessaire à l’équilibre&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/ORL_1.png&quot; alt=&quot;Anatomie&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Oreille humaine sensible à des fréquences allant de 20 à 20kHz&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sons &amp;gt; 100dB peuvent endommager définitivement la cochlée&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fibres de la voie auditive croisent dans le tronc cérébral de sorte que les signaux auditifs sont transmis aux deux lobes temporaux&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Discrimination des tons&lt;/em&gt; : basses fréquences près de l’hélicotrème, hautes fréquences près de la fenêtre ronde (voir figure)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/ORL_2.png&quot; alt=&quot;Anatomie&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    
-    &lt;div class=&quot;column&quot; style=&quot;flex: %&quot;&gt;
-        &lt;img src=&quot;/assets/img/medecine/ORL_3.png&quot; alt=&quot;ORL_3.png&quot; /&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&quot;column&quot; style=&quot;flex: %&quot;&gt;
-        &lt;img src=&quot;/assets/img/medecine/ORL_4.png&quot; alt=&quot;ORL_4.png&quot; /&gt;
-    &lt;/div&gt;
-    
-&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Surdité&lt;/strong&gt; :
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Transmission&lt;/em&gt; : ondes ne sont pas transmises correctement dans l’oreille interne. Nombreuses étiologies : bouchon cérumen, rupture tympan, lésion osselets, liquide dans oreille moyenne, lésions fenêtre ovale&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Perception&lt;/em&gt; : ondes transmises dans l’oreille interne ne sont pas transcrites en signaux électriques : anomalies de l’organe de Corti ou des nerfs auditifs
-        &lt;ul&gt;
-          &lt;li&gt;&lt;em&gt;Presbyacousie&lt;/em&gt; : dégénératif, vieillissement atteinte cellules de Corti.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Remarque : les appareils auditifs ont de l’intérêt pour les surdités de transmission, mais peu pour celles de perception.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;appareil-vestibulaire&quot;&gt;Appareil vestibulaire&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Appareil vestibulaire&lt;/strong&gt; : fournit informations essentielles sur l’équilibre, coordination des mouvements de la tête, des yeux avec les mouvements posturaux. Tous les constituants de l’appareil vestibulaire sont remplis de liquide.
-Deux ensembles de structures dans les cavités de l’os temporal :
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Canaux semi-circulaires&lt;/em&gt; : détectent l’accélération ou la décélération angulaire ou rotative de la tête. 3 dans chaque oreille, disposés perpendiculairement.&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Organes à otolithes (urticule, saccule)&lt;/em&gt; : fournissent des informations sur la position de la tête dans le champ de gravité et sur les accélérations linéaires au cours de mouvements rectilignes quelle qu’en soit la direction.
-        &lt;ul&gt;
-          &lt;li&gt;&lt;em&gt;Urticule&lt;/em&gt; : mouvement horizontal&lt;/li&gt;
-          &lt;li&gt;&lt;em&gt;Saccule&lt;/em&gt; : mouvement vertical&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/ORL_5.png&quot; alt=&quot;Structure et activation de l'appareil vestibulaire&quot; /&gt;
-&lt;img src=&quot;/assets/img/medecine/ORL_6.png&quot; alt=&quot;Fonctions&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="ORL" /><category term="Physiologie" /><category term="Fiche" /><summary type="html">Généralités anatomiques et physiologiques</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://www.info-radiologie.ch/sequence_irm.php&quot;&gt;Lien pour compléter ou revoir les applications de chaque séquence&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Imagerie" /><category term="Neurologie" /><category term="Fiche" /><summary type="html">Différentes séquences utiles en IRM pour la neurologie</summary></entry></feed>
