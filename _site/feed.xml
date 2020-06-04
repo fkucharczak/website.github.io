@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-28T12:04:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">LCA niveau 2 - S2 2019/2020 - Examen 2</title><link href="http://localhost:4000/2020/05/23/LCA_partiel_2.html" rel="alternate" type="text/html" title="LCA niveau 2 - S2 2019/2020 - Examen 2" /><published>2020-05-23T00:00:00+02:00</published><updated>2020-05-23T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/23/LCA_partiel_2</id><content type="html" xml:base="http://localhost:4000/2020/05/23/LCA_partiel_2.html">&lt;p&gt;Etude de l’article &lt;code class=&quot;highlighter-rouge&quot;&gt;Tenecteplase versus alteplase for management of acute
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-04T10:19:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Réunion d’étape projet Bootstrap CI</title><link href="http://localhost:4000/2020/06/03/ReunionSarahM2.html" rel="alternate" type="text/html" title="Réunion d'étape projet Bootstrap CI" /><published>2020-06-03T00:00:00+02:00</published><updated>2020-06-03T00:00:00+02:00</updated><id>http://localhost:4000/2020/06/03/ReunionSarahM2</id><content type="html" xml:base="http://localhost:4000/2020/06/03/ReunionSarahM2.html">&lt;h2 id=&quot;contexte&quot;&gt;Contexte&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Suivi de l’avancement des travaux de Sarah&lt;/li&gt;
+  &lt;li&gt;Discussion à propos de la simulation du fantôme voxélisé pour laquelle elle rencontre quelques soucis
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Dans gate il y a un exemple de fantôme voxelisé qui simule le cerveau de hoffman (https://github.com/OpenGATE/GateContrib/tree/master/imaging/PhantomSource/Voxelized_Phantom_Source), j’ai précisé tous les chemins de répertoire comme nous l’avions fait pour la base de données mais toujours rien. Voici le message d’erreur qui m’est indiqué : « GateMiscFunctions.cc (l.88): Error while opening brain_phantom.i33 for reading »&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-faire&quot;&gt;A faire&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Proposition de réaliser le &lt;a href=&quot;http://www.opengatecollaboration.org/Materials2015/PracticalExercises2015/VoxelizedSources&amp;amp;Phantoms&quot;&gt;TP sur la simulation de fantômes voxelisés par GATE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Initiation de la discussion avec Olivier sur la manière de définir des IC avec des réplicats Bootstrap&lt;/li&gt;
+  &lt;li&gt;Envoi et correction du plan de son rapport bibliographique réalisé entre deux&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Réunion" /><summary type="html">Contexte</summary></entry><entry><title type="html">Notes Matlab modèles cinématiques TEP</title><link href="http://localhost:4000/2020/05/28/NotesMatlab.html" rel="alternate" type="text/html" title="Notes Matlab modèles cinématiques TEP" /><published>2020-05-28T00:00:00+02:00</published><updated>2020-05-28T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/28/NotesMatlab</id><content type="html" xml:base="http://localhost:4000/2020/05/28/NotesMatlab.html">&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/docs/articles/KineticModeling/FBB_19.pdf&quot;&gt;Article Fayçal&lt;/a&gt; sur la comparaison LLS, NLS, Patlak pour la modélisation cinématique cérébrale&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.turkupetcentre.net/petanalysis/model_compartmental_ref.html&quot;&gt;Documentation&lt;/a&gt; du Turku PET Centre sur la TEP dynamique&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf&quot;&gt;PPT DMG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;divers-points-débattus&quot;&gt;Divers points débattus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Les valeurs des pixels enregistrées dans les données DICOM semblent bien être en Bq/voxel = coups/(secondes.voxel) (le temps d’acquisition par volume est donc déjà pris en compte). Par exemple, sur la série échantillonnée toutes les minutes, un voxel dans le striatum G est autour de 6500 entre la 4° et 5° minute, et dans celle échantillonnée toutes les 5’, dans le premier volume, on trouve 5000 dans les 5 premières minutes (un peu moins car la 1° partie de l’acquisition, avant la 4° minute, a moins d’activité).
+Il ne faut donc pas pondérer par la durée d’acquisition et garder le signal DICOM tel quel en Bq/voxel.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tests&quot;&gt;Tests&lt;/h2&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/img/recherche/activity_vs_time.png&quot; style=&quot;width:70%&quot; /&gt;
+  &lt;br /&gt;
+    &lt;em&gt;Activité moyenne par volume 3D en fonction du temps d'acquisition en minutes&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/img/recherche/activity_vs_time_normalise.png&quot; style=&quot;width:70%&quot; /&gt;
+  &lt;br /&gt;
+    &lt;em&gt;Activité moyenne par volume 3D en fonction du temps d'acquisition en minutes si on normalise l'activité par la durée d'acquisition de la séquence&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;tac-input&quot;&gt;TAC input&lt;/h2&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/img/recherche/T2_tac.png&quot; style=&quot;width:70%&quot; /&gt;
+  &lt;br /&gt;
+    &lt;em&gt;Coupes de T2 avec entrées carotidiennes&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Coordonnées d’une portion coronale de carotide interne.&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;CI gauche centrée en (84,139,43)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CI droite centrée en (104,139,43)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;essais-de-tracé-de-tac&quot;&gt;Essais de tracé de TAC&lt;/h3&gt;
+
+&lt;p&gt;Si on prend une ROI centrée sur la carotide gauche par exemple, avec une ROI de +/- 2 dans toutes les dimensions comme sur l’image ci-dessous à gauche, on obtient une TAC comme celle présentée à droite.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;column&quot;&gt;
+    &lt;img src=&quot;/assets/img/recherche/serie10.png&quot; style=&quot;width:90%&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+    &lt;img src=&quot;/assets/img/recherche/TAC_ss_norm.png&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p align=&quot;center&quot;&gt;
+    &lt;br /&gt;
+    &lt;em&gt;Série 10 en vue coronale avec ROI en noir (G). TAC associée dans normalisation de la durée d'acquisition (D). &lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Ci-dessous, une vue de la même coupe coronale pour trois différentes séries temporelles. Le carré noir correspond à une coupe du volume utilisé pour le calcul de la TAC.&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;img src=&quot;/assets/img/recherche/8.png&quot; style=&quot;width:33%&quot; /&gt;
+    &lt;img src=&quot;/assets/img/recherche/15.png&quot; style=&quot;width:33%&quot; /&gt;
+    &lt;img src=&quot;/assets/img/recherche/29.png&quot; style=&quot;width:33%&quot; /&gt;
+&lt;/div&gt;
+&lt;p align=&quot;center&quot;&gt;
+    &lt;br /&gt;
+    &lt;em&gt;Série 8, 15 et 29 avec la même échelle de couleur [0, 10k]. &lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;logiciel-développé&quot;&gt;Logiciel développé&lt;/h2&gt;
+
+&lt;h3 id=&quot;première-version--données-normalisées-par-la-durée-dacquisition&quot;&gt;Première version : données normalisées par la durée d’acquisition&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/img/recherche/logiciel_print1.png&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;br /&gt;
+    &lt;em&gt;Exemple du logiciel DynaPET développé sous Matlab&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;seconde-version&quot;&gt;Seconde version&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/img/recherche/logiciel_print2.png&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;br /&gt;
+    &lt;em&gt;Nouvelle version avec gestion des données d'entrée brutes et du recalage&lt;/em&gt;
+&lt;/p&gt;</content><author><name></name></author><category term="Médecine nucléaire" /><category term="Recherche" /><summary type="html">Documentation</summary></entry><entry><title type="html">LCA niveau 2 - S2 2019/2020 - Examen 2</title><link href="http://localhost:4000/2020/05/23/LCA_partiel_2.html" rel="alternate" type="text/html" title="LCA niveau 2 - S2 2019/2020 - Examen 2" /><published>2020-05-23T00:00:00+02:00</published><updated>2020-05-23T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/23/LCA_partiel_2</id><content type="html" xml:base="http://localhost:4000/2020/05/23/LCA_partiel_2.html">&lt;p&gt;Etude de l’article &lt;code class=&quot;highlighter-rouge&quot;&gt;Tenecteplase versus alteplase for management of acute
 ischaemic stroke (NOR-TEST): a phase 3, randomised,
 open-label, blinded endpoint trial&lt;/code&gt;&lt;/p&gt;
 
@@ -1666,141 +1771,43 @@ ethics committee or institutional review board at each contributing centre.&lt;/
   &lt;li&gt;On n’a pas les &lt;em&gt;p-values&lt;/em&gt; pour la comparaison des groupes, juste la phrase : “&lt;em&gt;Most other baseline characteristics were well balanced between study groups&lt;/em&gt;” -&amp;gt; pas nécessaire dans les études randomisées&lt;/li&gt;
   &lt;li&gt;Biais de changement de traitement (TTT additionnel) au cours de l’étude : “the rules for additional treatments were set at a low threshold to minimise the risk of visual impairment and applied to both laser therapy and ranibizumab groups.”&lt;/li&gt;
   &lt;li&gt;Le choix du retraitement était laissé à la discrétion de chaque centre, ce qui a pu induire des biais de classement, l’étude étant réalisée en ouvert.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="LCA" /><category term="Cas clinique" /><summary type="html">Etude de l’article Ranibizumab versus laser therapy for the treatment of very low birthweight infants with retinopathy of prematurity (RAINBOW): an open-label randomised controlled trial</summary></entry><entry><title type="html">ITEM 93, 94, 95 - Radiculalgies et syndromes canalaires, Neuropathies périphériques, Syndrome Guillain-Barré</title><link href="http://localhost:4000/2020/05/14/Item93_94_95.html" rel="alternate" type="text/html" title="ITEM 93, 94, 95 - Radiculalgies et syndromes canalaires, Neuropathies périphériques, Syndrome Guillain-Barré" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/Item93_94_95</id><content type="html" xml:base="http://localhost:4000/2020/05/14/Item93_94_95.html">&lt;h3 id=&quot;syndromes-radiculaires&quot;&gt;Syndromes radiculaires&lt;/h3&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="LCA" /><category term="Cas clinique" /><summary type="html">Etude de l’article Ranibizumab versus laser therapy for the treatment of very low birthweight infants with retinopathy of prematurity (RAINBOW): an open-label randomised controlled trial</summary></entry><entry><title type="html">ITEM 11 - Soins psychiatriques sans consentement</title><link href="http://localhost:4000/2020/05/14/Item11.html" rel="alternate" type="text/html" title="ITEM 11 - Soins psychiatriques sans consentement" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/Item11</id><content type="html" xml:base="http://localhost:4000/2020/05/14/Item11.html">&lt;h3 id=&quot;mise-à-jour-du-mikbook&quot;&gt;Mise à jour du Mikbook&lt;/h3&gt;
 
-&lt;p&gt;31 paires spinales&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Antérieures : motrices&lt;/li&gt;
-  &lt;li&gt;Postérieures : sensitives&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/Psy_1.jpeg&quot; alt=&quot;drawing&quot; width=&quot;1000&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Différents types de syndromes :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;cervicales, lombaires et sacrées&lt;/li&gt;
-  &lt;li&gt;de la queue de cheval&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4 id=&quot;notes-extraites-du-bo&quot;&gt;Notes extraites du BO&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_11.png&quot; alt=&quot;Territoires radiculaires&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;syndromes-plexiques&quot;&gt;Syndromes plexiques&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Signes d’atteinte de plusieurs racines cervicales ou lombosacrées.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;A la demande d’un tiers = toute personne connaissant le patient avant d’être aux urgences&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Les branches antérieures s’anastomosent en un &lt;strong&gt;plexus&lt;/strong&gt;
+  &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt; :
     &lt;ul&gt;
-      &lt;li&gt;cervical : C1 à C4&lt;/li&gt;
-      &lt;li&gt;brachial : C5 à T1&lt;/li&gt;
-      &lt;li&gt;lombaire : L1 à L4&lt;/li&gt;
-      &lt;li&gt;sacré : L5 à S3&lt;/li&gt;
+      &lt;li&gt;Demande d’un tiers&lt;/li&gt;
+      &lt;li&gt;2 certificats dont au – 1 rédigé par médecin extérieur thésé&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Etiologies&lt;/strong&gt; : contexte pathologique
+  &lt;li&gt;&lt;strong&gt;Péril imminent&lt;/strong&gt; :
     &lt;ul&gt;
-      &lt;li&gt;Traumatismes violents : accidents de moto&lt;/li&gt;
-      &lt;li&gt;Cancers (infiltration du plexus ou effets neurotoxiques de la radiothérapie)&lt;/li&gt;
+      &lt;li&gt;Pas possible s’il est aux urgences&lt;/li&gt;
+      &lt;li&gt;Pas demande de tiers&lt;/li&gt;
+      &lt;li&gt;Fait par 1 extérieur thésé en urgence&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Demande d’un tiers en urgence&lt;/strong&gt; : Tellement d’urgence qu’on ne peut pas trouver un tiers.
+    &lt;ul&gt;
+      &lt;li&gt;Demande d’un tiers&lt;/li&gt;
+      &lt;li&gt;1 certificat de médecin thésé extérieur à l’établissement&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sur décision d’un représentant de l’état&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;1 seul certificat médical par psychiatre extérieur&lt;/li&gt;
+      &lt;li&gt;Contrôle par le préfet de l’hospitalisation (=arrêté préfectoral) &amp;lt; 48h&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;syndromes-tronculaires&quot;&gt;Syndromes tronculaires&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Sensitifs&lt;/strong&gt; : paresthésies , hypoesthésie, plus souvent que douleurs, parfois particulièrement pénibles, brûlures (causalgies), décharges électriques (névralgies). Ces symptômes sont systématisés au territoire d’un tronc nerveux.&lt;br /&gt;
-&lt;strong&gt;Moteurs&lt;/strong&gt; : manque de force, maladresse, gêne, etc… également systématisés&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Membre supérieur&lt;/strong&gt; :
-    &lt;ul&gt;
-      &lt;li&gt;Nerf axillaire (circonflexe)&lt;/li&gt;
-      &lt;li&gt;Nerf sub-scapulaire (sus-scapulaire)&lt;/li&gt;
-      &lt;li&gt;Nerf musculo-cutané&lt;/li&gt;
-      &lt;li&gt;Nerf radial
-        &lt;ul&gt;
-          &lt;li&gt;Nerfs extenseurs du membre supérieur&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Nerf ulnaire
-        &lt;ul&gt;
-          &lt;li&gt;Préhension et des mouvements latéraux des doigts&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Nerf médian
-        &lt;ul&gt;
-          &lt;li&gt;De l’opposition du pouce&lt;/li&gt;
-          &lt;li&gt;Du canal carpien le + fréquent&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Membre inférieur&lt;/strong&gt; :
-    &lt;ul&gt;
-      &lt;li&gt;Nerf cutané latéral de la cuisse (fémoro-cutané)&lt;/li&gt;
-      &lt;li&gt;Nerf fémoral (crural)&lt;/li&gt;
-      &lt;li&gt;Nerf fibulaire commun&lt;/li&gt;
-      &lt;li&gt;Nerf tibial&lt;/li&gt;
-      &lt;li&gt;Nerf sciatique&lt;/li&gt;
-      &lt;li&gt;Nerf pudental (honteux interne)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_13.png&quot; alt=&quot;Syndromes tronculaires&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;TERRITOIRES SENSITIFS DES TRONCS NERVEUX&lt;br /&gt;
-Nouvelle nomenclature : cubital = ulnaire ; crural = fémoral ; sciatique poplité externe = fibulaire commun ; sciatique poplité interne= tibial&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;classification-topographique-des-neuropathies-périphériques&quot;&gt;Classification topographique des neuropathies périphériques&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;POLYNEUROPATHIES&lt;/strong&gt; : atteinte de tous les troncs nerveux et/ou toutes les racines.
-Le syndrome neurogène périphérique y est par définition bilatéral et symétrique (ou peu asymétrique)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;POLYNEVRITES (ou POLYNEUROPATHIES LONGUEUR DEPENDANTES)&lt;/strong&gt;
-        &lt;ul&gt;
-          &lt;li&gt;SdNP bilatéral symétrique&lt;/li&gt;
-          &lt;li&gt;distal, touchant initialement et principalement les pieds&lt;/li&gt;
-          &lt;li&gt;progressif (installé en quelques mois ou années)&lt;/li&gt;
-          &lt;li&gt;synchrone (les 2 pieds sont touchés simultanément)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;POLYRADICULONEVRITES&lt;/strong&gt; :
-        &lt;ul&gt;
-          &lt;li&gt;SdNP bilatéral et symétrique&lt;/li&gt;
-          &lt;li&gt;proximal et distal, touchant les 4 membres et souvent la face et le tronc&lt;/li&gt;
-          &lt;li&gt;aigu (installé en quelques jours), mais il existe des formes chroniques&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;MONONEUROPATHIES&lt;/strong&gt; : atteinte d’un tronc nerveux, d’un plexus ou d’une racine.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;MONONEUROPATHIE SIMPLE&lt;/strong&gt; si le SdNP est monofocal unilatéral, limité à un seul élément anatomique. Il peut s’agir :
-        &lt;ul&gt;
-          &lt;li&gt;d’une racine : syndrome radiculaire&lt;/li&gt;
-          &lt;li&gt;d’un plexus : syndrome plexuel&lt;/li&gt;
-          &lt;li&gt;d’un tronc nerveux : syndrome tronculaire&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;MONONEUROPATHIE MULTIPLE&lt;/strong&gt; si le SdNP est plurifocal, habituellement bilatéral, asymétrique et asynchrone. S’il s’agit de plusieurs troncs nerveux : &lt;strong&gt;multinévrite&lt;/strong&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_14.jpg&quot; alt=&quot;Classification topographique&quot; /&gt;
-  &lt;br /&gt;
-  A gauche : Mononeuropathie multiple&lt;br /&gt;
-  Au centre : Polyneuropathie longueur-dépendante&lt;br /&gt;
-  A droite : Polyradiculonévrite&lt;br /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;schémas-complémentaires&quot;&gt;Schémas complémentaires&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_12.png&quot; alt=&quot;Schéma moelle&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_10.png&quot; alt=&quot;Image nerfs&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Rhumatologie" /><category term="ITEM iECN" /><summary type="html">Syndromes radiculaires</summary></entry><entry><title type="html">Best-of d’ORL</title><link href="http://localhost:4000/2020/05/14/BO_ORL.html" rel="alternate" type="text/html" title="Best-of d'ORL" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/BO_ORL</id><content type="html" xml:base="http://localhost:4000/2020/05/14/BO_ORL.html">&lt;h4 id=&quot;episaxis&quot;&gt;Episaxis&lt;/h4&gt;
+&lt;p&gt;Contrôle systématique d’hospitalisation par un juge à J12.&lt;/p&gt;</content><author><name></name></author><category term="Psychiatrie" /><category term="ITEM iECN" /><summary type="html">Mise à jour du Mikbook</summary></entry><entry><title type="html">Best-of d’ORL</title><link href="http://localhost:4000/2020/05/14/BO_ORL.html" rel="alternate" type="text/html" title="Best-of d'ORL" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/BO_ORL</id><content type="html" xml:base="http://localhost:4000/2020/05/14/BO_ORL.html">&lt;h4 id=&quot;episaxis&quot;&gt;Episaxis&lt;/h4&gt;
 
 &lt;p&gt;Deux grandes parties à intégrer :&lt;/p&gt;
 &lt;ul&gt;
@@ -2081,221 +2088,138 @@ Soit on fait cytoponction soit on enlève le ganglion en entier&lt;/p&gt;
       &lt;li&gt;Attention aux piles bouton et aux trucs piquants -&amp;gt; médiastinite&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="ORL" /><category term="BO" /><category term="Fiche" /><summary type="html">Episaxis</summary></entry><entry><title type="html">ITEM 11 - Soins psychiatriques sans consentement</title><link href="http://localhost:4000/2020/05/14/Item11.html" rel="alternate" type="text/html" title="ITEM 11 - Soins psychiatriques sans consentement" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/Item11</id><content type="html" xml:base="http://localhost:4000/2020/05/14/Item11.html">&lt;h3 id=&quot;mise-à-jour-du-mikbook&quot;&gt;Mise à jour du Mikbook&lt;/h3&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="ORL" /><category term="BO" /><category term="Fiche" /><summary type="html">Episaxis</summary></entry><entry><title type="html">ITEM 93, 94, 95 - Radiculalgies et syndromes canalaires, Neuropathies périphériques, Syndrome Guillain-Barré</title><link href="http://localhost:4000/2020/05/14/Item93_94_95.html" rel="alternate" type="text/html" title="ITEM 93, 94, 95 - Radiculalgies et syndromes canalaires, Neuropathies périphériques, Syndrome Guillain-Barré" /><published>2020-05-14T00:00:00+02:00</published><updated>2020-05-14T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/14/Item93_94_95</id><content type="html" xml:base="http://localhost:4000/2020/05/14/Item93_94_95.html">&lt;h3 id=&quot;syndromes-radiculaires&quot;&gt;Syndromes radiculaires&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/Psy_1.jpeg&quot; alt=&quot;drawing&quot; width=&quot;1000&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;31 paires spinales&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Antérieures : motrices&lt;/li&gt;
+  &lt;li&gt;Postérieures : sensitives&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h4 id=&quot;notes-extraites-du-bo&quot;&gt;Notes extraites du BO&lt;/h4&gt;
+&lt;p&gt;Différents types de syndromes :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;cervicales, lombaires et sacrées&lt;/li&gt;
+  &lt;li&gt;de la queue de cheval&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;A la demande d’un tiers = toute personne connaissant le patient avant d’être aux urgences&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_11.png&quot; alt=&quot;Territoires radiculaires&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;syndromes-plexiques&quot;&gt;Syndromes plexiques&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Signes d’atteinte de plusieurs racines cervicales ou lombosacrées.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt; :
+  &lt;li&gt;Les branches antérieures s’anastomosent en un &lt;strong&gt;plexus&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;Demande d’un tiers&lt;/li&gt;
-      &lt;li&gt;2 certificats dont au – 1 rédigé par médecin extérieur thésé&lt;/li&gt;
+      &lt;li&gt;cervical : C1 à C4&lt;/li&gt;
+      &lt;li&gt;brachial : C5 à T1&lt;/li&gt;
+      &lt;li&gt;lombaire : L1 à L4&lt;/li&gt;
+      &lt;li&gt;sacré : L5 à S3&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Péril imminent&lt;/strong&gt; :
+  &lt;li&gt;&lt;strong&gt;Etiologies&lt;/strong&gt; : contexte pathologique
     &lt;ul&gt;
-      &lt;li&gt;Pas possible s’il est aux urgences&lt;/li&gt;
-      &lt;li&gt;Pas demande de tiers&lt;/li&gt;
-      &lt;li&gt;Fait par 1 extérieur thésé en urgence&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Demande d’un tiers en urgence&lt;/strong&gt; : Tellement d’urgence qu’on ne peut pas trouver un tiers.
-    &lt;ul&gt;
-      &lt;li&gt;Demande d’un tiers&lt;/li&gt;
-      &lt;li&gt;1 certificat de médecin thésé extérieur à l’établissement&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sur décision d’un représentant de l’état&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;1 seul certificat médical par psychiatre extérieur&lt;/li&gt;
-      &lt;li&gt;Contrôle par le préfet de l’hospitalisation (=arrêté préfectoral) &amp;lt; 48h&lt;/li&gt;
+      &lt;li&gt;Traumatismes violents : accidents de moto&lt;/li&gt;
+      &lt;li&gt;Cancers (infiltration du plexus ou effets neurotoxiques de la radiothérapie)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Contrôle systématique d’hospitalisation par un juge à J12.&lt;/p&gt;</content><author><name></name></author><category term="Psychiatrie" /><category term="ITEM iECN" /><summary type="html">Mise à jour du Mikbook</summary></entry><entry><title type="html">ITEM 147 - Otites infectieuses adulte et enfant</title><link href="http://localhost:4000/2020/05/13/Item147.html" rel="alternate" type="text/html" title="ITEM 147 - Otites infectieuses adulte et enfant" /><published>2020-05-13T00:00:00+02:00</published><updated>2020-05-13T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/13/Item147</id><content type="html" xml:base="http://localhost:4000/2020/05/13/Item147.html">&lt;h3 id=&quot;objectifs&quot;&gt;Objectifs&lt;/h3&gt;
+&lt;h3 id=&quot;syndromes-tronculaires&quot;&gt;Syndromes tronculaires&lt;/h3&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Connaître les agents infectieux responsables des OMA.&lt;br /&gt;
-Diagnostic et prise en charge d’une OMA purulente, otite externe et otite séromuqueuse.&lt;br /&gt;
-Prescrire le TTT.&lt;br /&gt;
-Diagnostiquer otite moyenne chronique dangereuse ou cholestéateuse.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;un-peu-danatomie&quot;&gt;Un peu d’anatomie&lt;/h3&gt;
-
-&lt;p&gt;Chaque oreille comporte 3 parties :&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Oreille externe&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Pavillon&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Conduit auditif externe&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Membrane tympanique&lt;/em&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Oreille moyenne&lt;/strong&gt; : transfère les mouvements vibratoires du tympan aux liquides de l’oreille interne
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Membrane tympanique&lt;/em&gt; : iso-pression assurée par pression atmosphérique à l’extérieur, et trompe d’Eustache (normalement fermée mais s’ouvre au bâillement, mastication, déglutition) reliée au pharynx en interne.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Oreille interne&lt;/strong&gt; : remplie de liquide, contient deux systèmes sensoriels différents
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Cochlée&lt;/em&gt; : récepteurs convertissent ondes sonores en signaux électriques
-        &lt;ul&gt;
-          &lt;li&gt;Contient l’organe de Corti, qui est l’appareil sensoriel de l’audition : cellules ciliées de ce dernier transforment les mouvements du liquide en signaux nerveux&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Appareil vestibulaire&lt;/em&gt; : nécessaire à l’équilibre&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/ORL_1.png&quot; alt=&quot;Anatomie&quot; /&gt;
-&lt;img src=&quot;/assets/img/medecine/ORL_7.png&quot; alt=&quot;Anatomie&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;différents-types-dotites&quot;&gt;Différents types d’otites&lt;/h3&gt;
-
-&lt;h4 id=&quot;de-loreille-externe&quot;&gt;De l’oreille externe&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Sensitifs&lt;/strong&gt; : paresthésies , hypoesthésie, plus souvent que douleurs, parfois particulièrement pénibles, brûlures (causalgies), décharges électriques (névralgies). Ces symptômes sont systématisés au territoire d’un tronc nerveux.&lt;br /&gt;
+&lt;strong&gt;Moteurs&lt;/strong&gt; : manque de force, maladresse, gêne, etc… également systématisés&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Otite externe&lt;/strong&gt; :
+  &lt;li&gt;&lt;strong&gt;Membre supérieur&lt;/strong&gt; :
     &lt;ul&gt;
-      &lt;li&gt;Deux principaux types :
+      &lt;li&gt;Nerf axillaire (circonflexe)&lt;/li&gt;
+      &lt;li&gt;Nerf sub-scapulaire (sus-scapulaire)&lt;/li&gt;
+      &lt;li&gt;Nerf musculo-cutané&lt;/li&gt;
+      &lt;li&gt;Nerf radial
         &lt;ul&gt;
-          &lt;li&gt;Bactérienne : Staph dorés +++&lt;/li&gt;
-          &lt;li&gt;Maligne : Pseudomonas aeroginosa (chez diabétique ou iD)&lt;/li&gt;
+          &lt;li&gt;Nerfs extenseurs du membre supérieur&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;Pathologie plutôt dermato (aureus, pseudomonas aeruginosa, aspergillus)&lt;/li&gt;
-      &lt;li&gt;Facteur favorisant : Baignade +++, cotons tiges, etc.&lt;/li&gt;
-      &lt;li&gt;💊 local -&amp;gt; gouttes ATB d’Oflocet + cortico&lt;/li&gt;
-      &lt;li&gt;💢 chondrite (pavillon rouge, cartillage touché), otite externe maligne (ostéolyse associée)&lt;/li&gt;
+      &lt;li&gt;Nerf ulnaire
+        &lt;ul&gt;
+          &lt;li&gt;Préhension et des mouvements latéraux des doigts&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Nerf médian
+        &lt;ul&gt;
+          &lt;li&gt;De l’opposition du pouce&lt;/li&gt;
+          &lt;li&gt;Du canal carpien le + fréquent&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Membre inférieur&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;Nerf cutané latéral de la cuisse (fémoro-cutané)&lt;/li&gt;
+      &lt;li&gt;Nerf fémoral (crural)&lt;/li&gt;
+      &lt;li&gt;Nerf fibulaire commun&lt;/li&gt;
+      &lt;li&gt;Nerf tibial&lt;/li&gt;
+      &lt;li&gt;Nerf sciatique&lt;/li&gt;
+      &lt;li&gt;Nerf pudental (honteux interne)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;de-loreille-moyenne&quot;&gt;De l’oreille moyenne&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Aigue congestive&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Tympan rouge, hyper vascularisé&lt;/li&gt;
-      &lt;li&gt;Petit épanchement rétrotympanique&lt;/li&gt;
-      &lt;li&gt;Tympan ne bombe pas ! (différence avec OSM)&lt;/li&gt;
-      &lt;li&gt;Virale -&amp;gt; pas d’ATB&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Aigue purulente&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Disparition de la transparence tympan, relief des osselets&lt;/li&gt;
-      &lt;li&gt;Bactérienne : germes respiratoires (pneumocoque, Hae. Influenzae)&lt;/li&gt;
-      &lt;li&gt;💊 Amox 80-90 mg/kg/J en 2 ou 3 prises (1e intention), si echec : Augmentin&lt;/li&gt;
-      &lt;li&gt;Si &amp;gt;2A avec symptômes peu intense -&amp;gt; paracétamol seul et réevaluation à 48h.&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;&lt;img src=&quot;/assets/img/medecine/ORL_8.png&quot; alt=&quot;Anatomie&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Séro-muqueuse&lt;/strong&gt; (chronique)
-    &lt;ul&gt;
-      &lt;li&gt;Epanchement rétro-tympanique stérile&lt;/li&gt;
-      &lt;li&gt;Bilatérale ++, Fréquent ++&lt;/li&gt;
-      &lt;li&gt;FdR : fente, tumeur cavum, hypertrophie végétations adénoïdes, RGO&lt;/li&gt;
-      &lt;li&gt;Ne fait pas mal mais génère surdité de transmission : typanogramme plat&lt;/li&gt;
-      &lt;li&gt;💊 aérateur trans-tympanique = yoyo = diabolo si &amp;gt; 6 mois ou si modification du tympan.&lt;/li&gt;
-      &lt;li&gt;💢 OMA à répétition, cholestéatome, tbe articulation&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;&lt;img src=&quot;/assets/img/medecine/ORL_9.png&quot; alt=&quot;Anatomie&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cholestéatome&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Présence de peau (epithélium malpighien kératinisé) dans l’oreille moyenne à la place de la muqueuse&lt;/li&gt;
-      &lt;li&gt;Risque de lyse des éléments de la caisse&lt;/li&gt;
-      &lt;li&gt;Oreille qui coule et qui sent mauvais (fétide)&lt;/li&gt;
-      &lt;li&gt;💢 paralysie faciale périphérique, abcès cérébral, méningite.&lt;/li&gt;
-      &lt;li&gt;💊 chirurgicale -&amp;gt; nettoyer le cholestéatome.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/ORL_12.jpg&quot; alt=&quot;Anatomie&quot; /&gt;
-  &lt;img src=&quot;/assets/img/medecine/ORL_10.png&quot; alt=&quot;Anatomie&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;remember&quot;&gt;&lt;em&gt;Remember&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_13.png&quot; alt=&quot;Syndromes tronculaires&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Paralysie faciale&lt;/strong&gt; :&lt;br /&gt;
-	- Œil ne peut pas se fermer&lt;br /&gt;
-	- &lt;strong&gt;Si paralysie faciale périphérique -&amp;gt; 🩺 regarder les oreilles à l’otoscope !!!!&lt;/strong&gt;&lt;br /&gt;
-	- Si OMA purulente -&amp;gt; paracentèse (on évacue le pus et analyse bactério) + amox + paracétamol&lt;br /&gt;&lt;/p&gt;
+  &lt;p&gt;TERRITOIRES SENSITIFS DES TRONCS NERVEUX&lt;br /&gt;
+Nouvelle nomenclature : cubital = ulnaire ; crural = fémoral ; sciatique poplité externe = fibulaire commun ; sciatique poplité interne= tibial&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Éléments nerveux qui passent dans la caisse du tympan :&lt;br /&gt;
-    -	Corde tympan -&amp;gt; sensibilité gustative&lt;br /&gt;
-    -	Nerf facial -&amp;gt; si pus au contact peut causer une paralysie faciale&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="ORL" /><category term="ITEM iECN" /><summary type="html">Objectifs</summary></entry><entry><title type="html">Séquences IRM</title><link href="http://localhost:4000/2020/05/11/FicheIRMNeuro.html" rel="alternate" type="text/html" title="Séquences IRM" /><published>2020-05-11T00:00:00+02:00</published><updated>2020-05-11T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/11/FicheIRMNeuro</id><content type="html" xml:base="http://localhost:4000/2020/05/11/FicheIRMNeuro.html">&lt;h3 id=&quot;différentes-séquences-utiles-en-irm-pour-la-neurologie&quot;&gt;Différentes séquences utiles en IRM pour la neurologie&lt;/h3&gt;
+&lt;h4 id=&quot;classification-topographique-des-neuropathies-périphériques&quot;&gt;Classification topographique des neuropathies périphériques&lt;/h4&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Séquence&lt;/th&gt;
-      &lt;th&gt;Caractéristiques&lt;/th&gt;
-      &lt;th&gt;Exemple&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;T1&lt;/strong&gt;&lt;br /&gt;(INJECTÉ OU PAS)&lt;/td&gt;
-      &lt;td&gt;LCR : noir&lt;br /&gt;Muscle : gris&lt;br /&gt;Moelle spinale : gris&lt;br /&gt;Graisse : blanc&lt;br /&gt;Disques para vertébraux : gris&lt;br /&gt; Air : très noir&lt;br /&gt;Inflammation (œdème, zone infarcie, démyélinisation) : foncé&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_1.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;T2&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;LCR : blanc&lt;br /&gt;Muscle : noir&lt;br /&gt;Moelle spinale : gris clair&lt;br /&gt;Graisse : blanc (gris clair)&lt;br /&gt;Disques para vertébraux : blanc&lt;br /&gt; Air : très noir&lt;br /&gt;Inflammation (œdème, zone infarcie, démyélinisation) : blanc&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_2.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;T2 FLAIR&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;T2 avec suppression du LCR&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_3.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;T2&lt;/strong&gt;⭐&lt;/td&gt;
-      &lt;td&gt;Présence de produits sanguins et de calcifications en raison des propriétés de susceptibilité de ces matériaux (seule application de l’écho de gradient)&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_4.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Diffusion&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;Mouvement des molécules d’eau entraine une réduction du signal&lt;/em&gt;&lt;br /&gt;Mouvement intense : hypo-intense&lt;br /&gt;Mouvement restreint comme dans les tissus hyper-cellulaires (tumeur) : hyper-intense&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_5.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;ADC&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Carte paramétrique, imagerie de diffusion également&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_6.jpeg&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;FAT SAT&lt;/strong&gt; ou &lt;strong&gt;STIR&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;em&gt;FAT SAT (T1/T2)&lt;/em&gt;: Saturation du signal de la graisse (peut-être injecté)&lt;br /&gt;&lt;em&gt;STIR&lt;/em&gt; (T2): Suppression du signal de la graisse (sans injection). Séquence très utilisée pour démontrer la présence de lésions tumorales, d’une infection, d’une contusion osseuse, de fractures, etc. dans le squelette&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/img/medecine/IRM_7.png&quot; alt=&quot;T1&quot; /&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;POLYNEUROPATHIES&lt;/strong&gt; : atteinte de tous les troncs nerveux et/ou toutes les racines.
+Le syndrome neurogène périphérique y est par définition bilatéral et symétrique (ou peu asymétrique)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;POLYNEVRITES (ou POLYNEUROPATHIES LONGUEUR DEPENDANTES)&lt;/strong&gt;
+        &lt;ul&gt;
+          &lt;li&gt;SdNP bilatéral symétrique&lt;/li&gt;
+          &lt;li&gt;distal, touchant initialement et principalement les pieds&lt;/li&gt;
+          &lt;li&gt;progressif (installé en quelques mois ou années)&lt;/li&gt;
+          &lt;li&gt;synchrone (les 2 pieds sont touchés simultanément)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;POLYRADICULONEVRITES&lt;/strong&gt; :
+        &lt;ul&gt;
+          &lt;li&gt;SdNP bilatéral et symétrique&lt;/li&gt;
+          &lt;li&gt;proximal et distal, touchant les 4 membres et souvent la face et le tronc&lt;/li&gt;
+          &lt;li&gt;aigu (installé en quelques jours), mais il existe des formes chroniques&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;MONONEUROPATHIES&lt;/strong&gt; : atteinte d’un tronc nerveux, d’un plexus ou d’une racine.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;MONONEUROPATHIE SIMPLE&lt;/strong&gt; si le SdNP est monofocal unilatéral, limité à un seul élément anatomique. Il peut s’agir :
+        &lt;ul&gt;
+          &lt;li&gt;d’une racine : syndrome radiculaire&lt;/li&gt;
+          &lt;li&gt;d’un plexus : syndrome plexuel&lt;/li&gt;
+          &lt;li&gt;d’un tronc nerveux : syndrome tronculaire&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;MONONEUROPATHIE MULTIPLE&lt;/strong&gt; si le SdNP est plurifocal, habituellement bilatéral, asymétrique et asynchrone. S’il s’agit de plusieurs troncs nerveux : &lt;strong&gt;multinévrite&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.info-radiologie.ch/sequence_irm.php&quot;&gt;Lien pour compléter ou revoir les applications de chaque séquence&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Imagerie" /><category term="Neurologie" /><category term="Fiche" /><summary type="html">Différentes séquences utiles en IRM pour la neurologie</summary></entry></feed>
+    &lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_14.jpg&quot; alt=&quot;Classification topographique&quot; /&gt;
+  &lt;br /&gt;
+  A gauche : Mononeuropathie multiple&lt;br /&gt;
+  Au centre : Polyneuropathie longueur-dépendante&lt;br /&gt;
+  A droite : Polyradiculonévrite&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;schémas-complémentaires&quot;&gt;Schémas complémentaires&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_12.png&quot; alt=&quot;Schéma moelle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/medecine/neuro_10.png&quot; alt=&quot;Image nerfs&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Neurologie" /><category term="Rhumatologie" /><category term="ITEM iECN" /><summary type="html">Syndromes radiculaires</summary></entry></feed>

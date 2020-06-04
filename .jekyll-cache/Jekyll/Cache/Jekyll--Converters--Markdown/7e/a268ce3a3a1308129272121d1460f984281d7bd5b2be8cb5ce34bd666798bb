@@ -1,0 +1,19 @@
+I"�<h2 id="contexte">Contexte</h2>
+
+<ul>
+  <li>Suivi de l’avancement des travaux de Sarah</li>
+  <li>Discussion à propos de la simulation du fantôme voxélisé pour laquelle elle rencontre quelques soucis
+    <ul>
+      <li><em>Dans gate il y a un exemple de fantôme voxelisé qui simule le cerveau de hoffman (https://github.com/OpenGATE/GateContrib/tree/master/imaging/PhantomSource/Voxelized_Phantom_Source), j’ai précisé tous les chemins de répertoire comme nous l’avions fait pour la base de données mais toujours rien. Voici le message d’erreur qui m’est indiqué : « GateMiscFunctions.cc (l.88): Error while opening brain_phantom.i33 for reading »</em></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="a-faire">A faire</h2>
+
+<ul>
+  <li>Proposition de réaliser le TP sur la simulation de fantômes voxelisés par GATE -&gt; http://www.opengatecollaboration.org/Materials2015/PracticalExercises2015/VoxelizedSources&amp;Phantoms</li>
+  <li>Initiation de la discussion avec Olivier sur la manière de définir des IC avec des réplicats Bootstrap</li>
+  <li>Envoi et correction du plan de son rapport bibliographique réalisé entre deux</li>
+</ul>
+:ET

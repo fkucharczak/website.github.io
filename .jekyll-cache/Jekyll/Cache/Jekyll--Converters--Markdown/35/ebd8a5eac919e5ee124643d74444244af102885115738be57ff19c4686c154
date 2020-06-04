@@ -1,0 +1,14 @@
+I"�<h2 id="tac-input">TAC input</h2>
+
+<p align="center">
+  <img src="/assets/img/recherche/T2_tac.png" style="width:70%" />
+  <br />
+    <em>Coupes de T2 avec entrées carotidiennes</em>
+</p>
+
+<p>Coordonnées d’une portion coronale de carotide interne.<br /></p>
+<ul>
+  <li><strong>CI gauche centrée en (84,139,43)</strong></li>
+  <li><strong>CI droite centrée en (104,139,43)</strong></li>
+</ul>
+:ET

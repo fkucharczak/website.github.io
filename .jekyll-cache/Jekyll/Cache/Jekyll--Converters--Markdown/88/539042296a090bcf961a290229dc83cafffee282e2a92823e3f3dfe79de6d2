@@ -1,0 +1,65 @@
+I"�<h2 id="notes-sur-les-discussions">Notes sur les discussions</h2>
+
+<h2 id="tests">Tests</h2>
+
+<p align="center">
+  <img src="/assets/img/recherche/activity_vs_time.png" style="width:70%" />
+  <br />
+    <em>Activité moyenne par volume 3D en fonction du temps d'acquisition en minutes</em>
+</p>
+
+<p align="center">
+  <img src="/assets/img/recherche/activity_vs_time_normalise.png" style="width:70%" />
+  <br />
+    <em>Activité moyenne par volume 3D en fonction du temps d'acquisition en minutes si on normalise l'activité par la durée d'acquisition de la séquence</em>
+</p>
+
+<h2 id="tac-input">TAC input</h2>
+
+<p align="center">
+  <img src="/assets/img/recherche/T2_tac.png" style="width:70%" />
+  <br />
+    <em>Coupes de T2 avec entrées carotidiennes</em>
+</p>
+
+<p>Coordonnées d’une portion coronale de carotide interne.<br /></p>
+<ul>
+  <li><strong>CI gauche centrée en (84,139,43)</strong></li>
+  <li><strong>CI droite centrée en (104,139,43)</strong></li>
+</ul>
+
+<h3 id="essais-de-tracé-de-tac">Essais de tracé de TAC</h3>
+
+<p>Si on prend une ROI centrée sur la carotide gauche par exemple, avec une ROI de +/- 2 dans toutes les dimensions comme sur l’image ci-dessous à gauche, on obtient une TAC comme celle présentée à droite.</p>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/recherche/serie10.png" style="width:90%" />
+  </div>
+  <div class="column">
+    <img src="/assets/img/recherche/TAC_ss_norm.png" style="width:100%" />
+  </div>
+</div>
+<p align="center">
+    <br />
+    <em>Série 10 en vue coronale avec ROI en noir (G). TAC associée dans normalisation de la durée d'acquisition (D). </em>
+</p>
+
+<h2 id="logiciel-développé">Logiciel développé</h2>
+
+<h3 id="première-version--données-normalisées-par-la-durée-dacquisition">Première version : données normalisées par la durée d’acquisition</h3>
+
+<p align="center">
+  <img src="/assets/img/recherche/logiciel_print1.png" style="width:100%" />
+  <br />
+    <em>Exemple du logiciel DynaPET développé sous Matlab</em>
+</p>
+
+<h3 id="seconde-version">Seconde version</h3>
+
+<p align="center">
+  <img src="/assets/img/recherche/logiciel_print2.png" style="width:100%" />
+  <br />
+    <em>Nouvelle version avec gestion des données d'entrée brutes et du recalage</em>
+</p>
+:ET

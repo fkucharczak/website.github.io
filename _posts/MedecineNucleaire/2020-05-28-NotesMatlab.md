@@ -1,0 +1,91 @@
+---
+layout: post
+title: Notes Matlab modèles cinématiques TEP
+tags: [Médecine nucléaire, Recherche]
+---
+
+## Documentation
+
+- [Article Fayçal](/assets/docs/articles/KineticModeling/FBB_19.pdf) sur la comparaison LLS, NLS, Patlak pour la modélisation cinématique cérébrale
+- [Documentation](http://www.turkupetcentre.net/petanalysis/model_compartmental_ref.html) du Turku PET Centre sur la TEP dynamique
+- [PPT DMG](/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf)
+
+## Divers points débattus
+
+- Les valeurs des pixels enregistrées dans les données DICOM semblent bien être en Bq/voxel = coups/(secondes.voxel) (le temps d’acquisition par volume est donc déjà pris en compte). Par exemple, sur la série échantillonnée toutes les minutes, un voxel dans le striatum G est autour de 6500 entre la 4° et 5° minute, et dans celle échantillonnée toutes les 5’, dans le premier volume, on trouve 5000 dans les 5 premières minutes (un peu moins car la 1° partie de l’acquisition, avant la 4° minute, a moins d’activité).
+Il ne faut donc pas pondérer par la durée d’acquisition et garder le signal DICOM tel quel en Bq/voxel.
+
+## Tests
+
+<p align="center">
+  <img src="/assets/img/recherche/activity_vs_time.png" style="width:70%"/>
+  <br>
+    <em>Activité moyenne par volume 3D en fonction du temps d'acquisition en minutes</em>
+</p>
+
+<p align="center">
+  <img src="/assets/img/recherche/activity_vs_time_normalise.png" style="width:70%"/>
+  <br>
+    <em>Activité moyenne par volume 3D en fonction du temps d'acquisition en minutes si on normalise l'activité par la durée d'acquisition de la séquence</em>
+</p>
+
+
+## TAC input
+
+<p align="center">
+  <img src="/assets/img/recherche/T2_tac.png" style="width:70%"/>
+  <br>
+    <em>Coupes de T2 avec entrées carotidiennes</em>
+</p>
+
+Coordonnées d'une portion coronale de carotide interne.<br>
+- **CI gauche centrée en (84,139,43)**
+- **CI droite centrée en (104,139,43)**
+
+### Essais de tracé de TAC
+
+Si on prend une ROI centrée sur la carotide gauche par exemple, avec une ROI de +/- 2 dans toutes les dimensions comme sur l'image ci-dessous à gauche, on obtient une TAC comme celle présentée à droite.
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/recherche/serie10.png" style="width:90%">
+  </div>
+  <div class="column">
+    <img src="/assets/img/recherche/TAC_ss_norm.png" style="width:100%">
+  </div>
+</div>
+<p align="center">
+    <br>
+    <em>Série 10 en vue coronale avec ROI en noir (G). TAC associée dans normalisation de la durée d'acquisition (D). </em>
+</p>
+
+^
+Ci-dessous, une vue de la même coupe coronale pour trois différentes séries temporelles. Le carré noir correspond à une coupe du volume utilisé pour le calcul de la TAC.
+
+<div>
+    <img src="/assets/img/recherche/8.png" style="width:33%">
+    <img src="/assets/img/recherche/15.png" style="width:33%">
+    <img src="/assets/img/recherche/29.png" style="width:33%">
+</div>
+<p align="center">
+    <br>
+    <em>Série 8, 15 et 29 avec la même échelle de couleur [0, 10k]. </em>
+</p>
+
+## Logiciel développé
+
+### Première version : données normalisées par la durée d'acquisition
+
+<p align="center">
+  <img src="/assets/img/recherche/logiciel_print1.png" style="width:100%"/>
+  <br>
+    <em>Exemple du logiciel DynaPET développé sous Matlab</em>
+</p>
+
+### Seconde version
+
+<p align="center">
+  <img src="/assets/img/recherche/logiciel_print2.png" style="width:100%"/>
+  <br>
+    <em>Nouvelle version avec gestion des données d'entrée brutes et du recalage</em>
+</p>
