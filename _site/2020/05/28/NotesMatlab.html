@@ -207,7 +207,24 @@
 <ul>
   <li><a href="/assets/docs/articles/KineticModeling/FBB_19.pdf">Article Fayçal</a> sur la comparaison LLS, NLS, Patlak pour la modélisation cinématique cérébrale</li>
   <li><a href="http://www.turkupetcentre.net/petanalysis/model_compartmental_ref.html">Documentation</a> du Turku PET Centre sur la TEP dynamique</li>
-  <li><a href="/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf">Slides de description</a></li>
+  <li><a href="http://www.turkupetcentre.net/petanalysis/input_idif.html">Extraction de TAC à partir des données dynamiques</a></li>
+  <li><strong><a href="http://www.turkupetcentre.net/petanalysis/tac_auc.html">AUC en PET</a></strong> -&gt; voir spécifiquement la section <em>“AUC from time frame data”</em>
+    <ul>
+      <li>Blood time-activity curves (BTACs) are collected as mean concentrations during specified time frames.</li>
+      <li>The events (counts) have to be collected over the certain time “frame” to achieve acceptable count statistics, and the number of measured events are then divided by the time frame length to obtain the count rates (counts/s), which are further calibrated to radioactivity concentrations (Bq/mL) based on the measured volume and calibration coefficients.</li>
+      <li>If time frames are sufficiently short, we can assume that the average tracer concentration during the time frame represents the instantaneous concentration at frame middle time point</li>
+      <li>If concentration changes markedly during the time frame, then the midframe approximation is not valid</li>
+    </ul>
+  </li>
+  <li><a href="http://www.turkupetcentre.net/petanalysis/model_mtga.html#patlak">Méthode graphique de Patlak</a></li>
+  <li><a href="/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf">Slides PPT - modèle NLS</a></li>
+</ul>
+
+<h3 id="informations-sur-lestimation-de-tac-avec-lactivité-carotidienne">Informations sur l’estimation de TAC avec l’activité carotidienne</h3>
+
+<ul>
+  <li>In brain PET studies the blood curve is estimated from carotid arteries or other intra-cranial blood vessels, but because of large partial volume effect and proximity of large veins the results may be poor and require a few blood samples for calibration. Different approaches like factor analysis, non-negative matrix factorization, independent component analysis (ICA), cluster analysis, and applying MRI have been used to overcome these problems.</li>
+  <li>Mean diameters of internal carotid artery and common carotid artery are 5.11±0.87 mm and 6.52±0.98 mm in men, and 4.66±0.78 mm and 6.10±0.80 mm in women (Krejza et al., 2006).</li>
 </ul>
 
 <h2 id="divers-points-débattus">Divers points débattus</h2>

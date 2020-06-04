@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-04T10:47:56+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Réunion d’étape projet Bootstrap CI</title><link href="http://localhost:4000/2020/06/03/ReunionSarahM2.html" rel="alternate" type="text/html" title="Réunion d'étape projet Bootstrap CI" /><published>2020-06-03T00:00:00+02:00</published><updated>2020-06-03T00:00:00+02:00</updated><id>http://localhost:4000/2020/06/03/ReunionSarahM2</id><content type="html" xml:base="http://localhost:4000/2020/06/03/ReunionSarahM2.html">&lt;h2 id=&quot;contexte&quot;&gt;Contexte&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-04T11:21:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Réunion d’étape projet Bootstrap CI</title><link href="http://localhost:4000/2020/06/03/ReunionSarahM2.html" rel="alternate" type="text/html" title="Réunion d'étape projet Bootstrap CI" /><published>2020-06-03T00:00:00+02:00</published><updated>2020-06-03T00:00:00+02:00</updated><id>http://localhost:4000/2020/06/03/ReunionSarahM2</id><content type="html" xml:base="http://localhost:4000/2020/06/03/ReunionSarahM2.html">&lt;h2 id=&quot;contexte&quot;&gt;Contexte&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Suivi de l’avancement des travaux de Sarah&lt;/li&gt;
@@ -20,7 +20,24 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/assets/docs/articles/KineticModeling/FBB_19.pdf&quot;&gt;Article Fayçal&lt;/a&gt; sur la comparaison LLS, NLS, Patlak pour la modélisation cinématique cérébrale&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.turkupetcentre.net/petanalysis/model_compartmental_ref.html&quot;&gt;Documentation&lt;/a&gt; du Turku PET Centre sur la TEP dynamique&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf&quot;&gt;Slides de description&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.turkupetcentre.net/petanalysis/input_idif.html&quot;&gt;Extraction de TAC à partir des données dynamiques&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.turkupetcentre.net/petanalysis/tac_auc.html&quot;&gt;AUC en PET&lt;/a&gt;&lt;/strong&gt; -&amp;gt; voir spécifiquement la section &lt;em&gt;“AUC from time frame data”&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Blood time-activity curves (BTACs) are collected as mean concentrations during specified time frames.&lt;/li&gt;
+      &lt;li&gt;The events (counts) have to be collected over the certain time “frame” to achieve acceptable count statistics, and the number of measured events are then divided by the time frame length to obtain the count rates (counts/s), which are further calibrated to radioactivity concentrations (Bq/mL) based on the measured volume and calibration coefficients.&lt;/li&gt;
+      &lt;li&gt;If time frames are sufficiently short, we can assume that the average tracer concentration during the time frame represents the instantaneous concentration at frame middle time point&lt;/li&gt;
+      &lt;li&gt;If concentration changes markedly during the time frame, then the midframe approximation is not valid&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.turkupetcentre.net/petanalysis/model_mtga.html#patlak&quot;&gt;Méthode graphique de Patlak&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf&quot;&gt;Slides PPT - modèle NLS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;informations-sur-lestimation-de-tac-avec-lactivité-carotidienne&quot;&gt;Informations sur l’estimation de TAC avec l’activité carotidienne&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In brain PET studies the blood curve is estimated from carotid arteries or other intra-cranial blood vessels, but because of large partial volume effect and proximity of large veins the results may be poor and require a few blood samples for calibration. Different approaches like factor analysis, non-negative matrix factorization, independent component analysis (ICA), cluster analysis, and applying MRI have been used to overcome these problems.&lt;/li&gt;
+  &lt;li&gt;Mean diameters of internal carotid artery and common carotid artery are 5.11±0.87 mm and 6.52±0.98 mm in men, and 4.66±0.78 mm and 6.10±0.80 mm in women (Krejza et al., 2006).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;divers-points-débattus&quot;&gt;Divers points débattus&lt;/h2&gt;
