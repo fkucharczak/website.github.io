@@ -56,22 +56,28 @@ Coordonnées d'une portion coronale de carotide interne.<br>
 
 ### Essais de tracé de TAC
 
-Si on prend une ROI centrée sur la carotide gauche par exemple, avec une ROI de +/- 2 dans toutes les dimensions comme sur l'image ci-dessous à gauche, on obtient une TAC comme celle présentée à droite.
+Si on prend une ROI centrée sur la carotide gauche par exemple, avec une ROI de +/- 2 dans toutes les dimensions on obtient une TAC comme celle présentée à gauche dans la figure suivante.
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/recherche/serie10.png" style="width:90%">
-  </div>
-  <div class="column">
-    <img src="/assets/img/recherche/TAC_ss_norm.png" style="width:100%">
-  </div>
+<div>
+    <img src="/assets/img/recherche/TAC_ss_norm.png" style="width:49%">
+    <img src="/assets/img/recherche/AUC_nn_norm.png" style="width:49%">
 </div>
 <p align="center">
     <br>
-    <em>Série 10 en vue coronale avec ROI en noir (G). TAC associée dans normalisation de la durée d'acquisition (D). </em>
+    <em>Série 10 en vue coronale avec ROI en noir (G).<br> TAC associée sans normalisation de la durée d'acquisition (C). AUC = intégration de 0 à t sur la même ROI (D) </em>
+</p>
+^
+<div>
+    <img src="/assets/img/recherche/AN.png" style="width:49%">
+    <img src="/assets/img/recherche/AUC.png" style="width:49%">
+</div>
+<p align="center">
+    <br>
+    <em>TAC normalisée par durée de la série à (G). AUC = intégration de 0 à t sur la même ROI (D). </em>
 </p>
 
-^
+
+
 Ci-dessous, une vue de la même coupe coronale pour trois différentes séries temporelles. Le carré noir correspond à une coupe du volume utilisé pour le calcul de la TAC.
 
 <div>

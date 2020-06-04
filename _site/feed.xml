@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-04T11:21:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Réunion d’étape projet Bootstrap CI</title><link href="http://localhost:4000/2020/06/03/ReunionSarahM2.html" rel="alternate" type="text/html" title="Réunion d'étape projet Bootstrap CI" /><published>2020-06-03T00:00:00+02:00</published><updated>2020-06-03T00:00:00+02:00</updated><id>http://localhost:4000/2020/06/03/ReunionSarahM2</id><content type="html" xml:base="http://localhost:4000/2020/06/03/ReunionSarahM2.html">&lt;h2 id=&quot;contexte&quot;&gt;Contexte&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-04T11:51:49+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Réunion d’étape projet Bootstrap CI</title><link href="http://localhost:4000/2020/06/03/ReunionSarahM2.html" rel="alternate" type="text/html" title="Réunion d'étape projet Bootstrap CI" /><published>2020-06-03T00:00:00+02:00</published><updated>2020-06-03T00:00:00+02:00</updated><id>http://localhost:4000/2020/06/03/ReunionSarahM2</id><content type="html" xml:base="http://localhost:4000/2020/06/03/ReunionSarahM2.html">&lt;h2 id=&quot;contexte&quot;&gt;Contexte&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Suivi de l’avancement des travaux de Sarah&lt;/li&gt;
@@ -77,19 +77,23 @@ Il ne faut donc pas pondérer par la durée d’acquisition et garder le signal 
 
 &lt;h3 id=&quot;essais-de-tracé-de-tac&quot;&gt;Essais de tracé de TAC&lt;/h3&gt;
 
-&lt;p&gt;Si on prend une ROI centrée sur la carotide gauche par exemple, avec une ROI de +/- 2 dans toutes les dimensions comme sur l’image ci-dessous à gauche, on obtient une TAC comme celle présentée à droite.&lt;/p&gt;
+&lt;p&gt;Si on prend une ROI centrée sur la carotide gauche par exemple, avec une ROI de +/- 2 dans toutes les dimensions on obtient une TAC comme celle présentée à gauche dans la figure suivante.&lt;/p&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;/assets/img/recherche/serie10.png&quot; style=&quot;width:90%&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;/assets/img/recherche/TAC_ss_norm.png&quot; style=&quot;width:100%&quot; /&gt;
-  &lt;/div&gt;
+&lt;div&gt;
+    &lt;img src=&quot;/assets/img/recherche/TAC_ss_norm.png&quot; style=&quot;width:49%&quot; /&gt;
+    &lt;img src=&quot;/assets/img/recherche/AUC_nn_norm.png&quot; style=&quot;width:49%&quot; /&gt;
 &lt;/div&gt;
 &lt;p align=&quot;center&quot;&gt;
     &lt;br /&gt;
-    &lt;em&gt;Série 10 en vue coronale avec ROI en noir (G). TAC associée dans normalisation de la durée d'acquisition (D). &lt;/em&gt;
+    &lt;em&gt;Série 10 en vue coronale avec ROI en noir (G).&lt;br /&gt; TAC associée sans normalisation de la durée d'acquisition (C). AUC = intégration de 0 à t sur la même ROI (D) &lt;/em&gt;
+&lt;/p&gt;
+&lt;div&gt;
+    &lt;img src=&quot;/assets/img/recherche/AN.png&quot; style=&quot;width:49%&quot; /&gt;
+    &lt;img src=&quot;/assets/img/recherche/AUC.png&quot; style=&quot;width:49%&quot; /&gt;
+&lt;/div&gt;
+&lt;p align=&quot;center&quot;&gt;
+    &lt;br /&gt;
+    &lt;em&gt;TAC normalisée par durée de la série à (G). AUC = intégration de 0 à t sur la même ROI (D). &lt;/em&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Ci-dessous, une vue de la même coupe coronale pour trois différentes séries temporelles. Le carré noir correspond à une coupe du volume utilisé pour le calcul de la TAC.&lt;/p&gt;
