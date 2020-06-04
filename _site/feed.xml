@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-04T10:19:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Réunion d’étape projet Bootstrap CI</title><link href="http://localhost:4000/2020/06/03/ReunionSarahM2.html" rel="alternate" type="text/html" title="Réunion d'étape projet Bootstrap CI" /><published>2020-06-03T00:00:00+02:00</published><updated>2020-06-03T00:00:00+02:00</updated><id>http://localhost:4000/2020/06/03/ReunionSarahM2</id><content type="html" xml:base="http://localhost:4000/2020/06/03/ReunionSarahM2.html">&lt;h2 id=&quot;contexte&quot;&gt;Contexte&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-04T10:47:56+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Réunion d’étape projet Bootstrap CI</title><link href="http://localhost:4000/2020/06/03/ReunionSarahM2.html" rel="alternate" type="text/html" title="Réunion d'étape projet Bootstrap CI" /><published>2020-06-03T00:00:00+02:00</published><updated>2020-06-03T00:00:00+02:00</updated><id>http://localhost:4000/2020/06/03/ReunionSarahM2</id><content type="html" xml:base="http://localhost:4000/2020/06/03/ReunionSarahM2.html">&lt;h2 id=&quot;contexte&quot;&gt;Contexte&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Suivi de l’avancement des travaux de Sarah&lt;/li&gt;
@@ -20,7 +20,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/assets/docs/articles/KineticModeling/FBB_19.pdf&quot;&gt;Article Fayçal&lt;/a&gt; sur la comparaison LLS, NLS, Patlak pour la modélisation cinématique cérébrale&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.turkupetcentre.net/petanalysis/model_compartmental_ref.html&quot;&gt;Documentation&lt;/a&gt; du Turku PET Centre sur la TEP dynamique&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf&quot;&gt;PPT DMG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf&quot;&gt;Slides de description&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;divers-points-débattus&quot;&gt;Divers points débattus&lt;/h2&gt;
@@ -44,7 +44,7 @@ Il ne faut donc pas pondérer par la durée d’acquisition et garder le signal 
     &lt;em&gt;Activité moyenne par volume 3D en fonction du temps d'acquisition en minutes si on normalise l'activité par la durée d'acquisition de la séquence&lt;/em&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&quot;tac-input&quot;&gt;TAC input&lt;/h2&gt;
+&lt;h2 id=&quot;time-activity-curve-tac-input&quot;&gt;Time-activity curve (TAC) input&lt;/h2&gt;
 
 &lt;p align=&quot;center&quot;&gt;
   &lt;img src=&quot;/assets/img/recherche/T2_tac.png&quot; style=&quot;width:70%&quot; /&gt;

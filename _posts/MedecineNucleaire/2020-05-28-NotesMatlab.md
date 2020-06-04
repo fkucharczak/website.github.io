@@ -8,7 +8,7 @@ tags: [Médecine nucléaire, Recherche]
 
 - [Article Fayçal](/assets/docs/articles/KineticModeling/FBB_19.pdf) sur la comparaison LLS, NLS, Patlak pour la modélisation cinématique cérébrale
 - [Documentation](http://www.turkupetcentre.net/petanalysis/model_compartmental_ref.html) du Turku PET Centre sur la TEP dynamique
-- [PPT DMG](/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf)
+- [Slides de description](/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf)
 
 ## Divers points débattus
 
@@ -30,7 +30,7 @@ Il ne faut donc pas pondérer par la durée d’acquisition et garder le signal 
 </p>
 
 
-## TAC input
+## Time-activity curve (TAC) input
 
 <p align="center">
   <img src="/assets/img/recherche/T2_tac.png" style="width:70%"/>
