@@ -16,6 +16,13 @@ tags: [Médecine nucléaire, Recherche]
      - If concentration changes markedly during the time frame, then the midframe approximation is not valid
 - [Méthode graphique de Patlak](http://www.turkupetcentre.net/petanalysis/model_mtga.html#patlak)
 - [Slides PPT - modèle NLS](/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf)
+- [Templates vasculaires](https://www.ucalgary.ca/miplab/downloads)
+- [Occiput.io](https://github.com/spedemon/occiput)
+- [APPIAN](https://www.frontiersin.org/articles/10.3389/fninf.2018.00064/full). [GitHub](https://github.com/APPIAN-PET/APPIAN)
+
+
+- **Articles intéressants** :
+  - [Estimation of an image derived input function with MR-defined carotid arteries in FDG-PET human studies using a novel partial volume correction method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5453460/#!po=53.4483)
 
 ### Informations sur l'estimation de TAC avec l'activité carotidienne
 
@@ -106,4 +113,56 @@ Ci-dessous, une vue de la même coupe coronale pour trois différentes séries t
   <img src="/assets/img/recherche/logiciel_print2.png" style="width:100%"/>
   <br>
     <em>Nouvelle version avec gestion des données d'entrée brutes et du recalage</em>
+</p>
+
+## Templates
+
+- Lien sur site de [McGill](http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009)
+
+## Analyse compartimentale Yale
+
+- [Lien](https://tauruspet.med.yale.edu/staff/edm42/chapters/kinetic-modeling-chapter-23-wernick-book.pdf)
+^
+- $$C_a$$ : measurement of blood samples drawn during a PET scan
+- $$C_t$$ : radioactivity concen- tration that is measured in a given tissue region
+  - $$C (t) = K_1 \int_0^{t} C_a(x) exp[–k_2(t – x)]dx$$
+^
+- $$Cp*(t)$$ (in nCi/ml plasma) represents the concentration of [18F]FDG measured in the arterial plasma t minutes after its injection into the venous blood
+- $$Cm*(t)$$ concentration of products of [18F]FDG metabolism in the tissue
+- $$Ci*(t)$$ total concentration of activity in the tissue
+
+## Analyse compartimentale FBB
+
+- $$\Delta_n = [10,10,10,10,10,10,10,10,10,10,10,10,30,30,30,30,30,30,60,60,60,60,60,300,300,300,300,300,300]$$
+- $$t_n = [5,15,25,35,45,55,65,75,85,95,105,115,135,165,195,225,255,285,330,390,450,510,570,750,1050,1350,1650,1950,2250]$$
+- $$\overline{C_p}(t_n) = \frac{\int_{t_n -\Delta_n/2}^{t_n +\Delta_n/2}C_p(t)dt}{\Delta_n}$$ correspondant à la concentration plasmatique artérielle de $$^{18}$$F-FDG.
+- $$\overline{C_c}(t_n) = \frac{\int_{t_n -\Delta_n/2}^{t_n +\Delta_n/2}C_c(t)dt}{\Delta_n}$$ correspondant à la concentration de tissus cérébral de $$^{18}$$F-FDG.
+
+### Expression graphique de Patlak
+
+- $$\frac{C_c(t)}{C_p(t)} = K_i\frac{\int_{0}^{t}C_p(\tau)d\tau}{C_p(t)} + \frac{K_1k_2}{(k_2 + k_3)^2}$$
+- On trace le rapport $$\frac{C_c(t)}{C_p(t)}$$ en fonction de $$\frac{\int_{0}^{t}C_p(\tau)d\tau}{C_p(t)}$$
+
+### Illustration : Pat_001_DESY68
+
+<p align="center">
+  <img src="/assets/img/recherche/TAC.png" style="width:70%">
+  <br>
+    <em>TAC brute obtenue en moyennant les TAC D et G issues de la partie pétreuse de la carotide interne</em>
+</p>
+
+^
+<div>
+    <img src="/assets/img/recherche/Coupe.png" style="width:49%">
+    <img src="/assets/img/recherche/Ki_patlak.png" style="width:49%">
+</div>
+<p align="center">
+    <br>
+    <em> Illustration de la méthode de Patlak pour le voxel (47,83,64) correspondant à celui pointé sur l'image de gauche. </em>
+</p>
+^
+<p align="center">
+  <img src="/assets/img/recherche/coupe_Ki.png" style="width:70%">
+  <br>
+    <em>Coupe de Ki correspondante</em>
 </p>

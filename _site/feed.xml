@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-04T11:51:49+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Réunion d’étape projet Bootstrap CI</title><link href="http://localhost:4000/2020/06/03/ReunionSarahM2.html" rel="alternate" type="text/html" title="Réunion d'étape projet Bootstrap CI" /><published>2020-06-03T00:00:00+02:00</published><updated>2020-06-03T00:00:00+02:00</updated><id>http://localhost:4000/2020/06/03/ReunionSarahM2</id><content type="html" xml:base="http://localhost:4000/2020/06/03/ReunionSarahM2.html">&lt;h2 id=&quot;contexte&quot;&gt;Contexte&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-08T11:47:18+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">F. Kucharczak</title><subtitle>Ma page personnelle</subtitle><entry><title type="html">Réunion d’étape projet Bootstrap CI</title><link href="http://localhost:4000/2020/06/03/ReunionSarahM2.html" rel="alternate" type="text/html" title="Réunion d'étape projet Bootstrap CI" /><published>2020-06-03T00:00:00+02:00</published><updated>2020-06-03T00:00:00+02:00</updated><id>http://localhost:4000/2020/06/03/ReunionSarahM2</id><content type="html" xml:base="http://localhost:4000/2020/06/03/ReunionSarahM2.html">&lt;h2 id=&quot;contexte&quot;&gt;Contexte&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Suivi de l’avancement des travaux de Sarah&lt;/li&gt;
@@ -31,6 +31,16 @@
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.turkupetcentre.net/petanalysis/model_mtga.html#patlak&quot;&gt;Méthode graphique de Patlak&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf&quot;&gt;Slides PPT - modèle NLS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ucalgary.ca/miplab/downloads&quot;&gt;Templates vasculaires&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/spedemon/occiput&quot;&gt;Occiput.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fninf.2018.00064/full&quot;&gt;APPIAN&lt;/a&gt;. &lt;a href=&quot;https://github.com/APPIAN-PET/APPIAN&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Articles intéressants&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5453460/#!po=53.4483&quot;&gt;Estimation of an image derived input function with MR-defined carotid arteries in FDG-PET human studies using a novel partial volume correction method&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;informations-sur-lestimation-de-tac-avec-lactivité-carotidienne&quot;&gt;Informations sur l’estimation de TAC avec l’activité carotidienne&lt;/h3&gt;
@@ -124,6 +134,77 @@ Il ne faut donc pas pondérer par la durée d’acquisition et garder le signal 
   &lt;img src=&quot;/assets/img/recherche/logiciel_print2.png&quot; style=&quot;width:100%&quot; /&gt;
   &lt;br /&gt;
     &lt;em&gt;Nouvelle version avec gestion des données d'entrée brutes et du recalage&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;templates&quot;&gt;Templates&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lien sur site de &lt;a href=&quot;http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009&quot;&gt;McGill&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;analyse-compartimentale-yale&quot;&gt;Analyse compartimentale Yale&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tauruspet.med.yale.edu/staff/edm42/chapters/kinetic-modeling-chapter-23-wernick-book.pdf&quot;&gt;Lien&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;C_a&lt;/script&gt; : measurement of blood samples drawn during a PET scan&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;C_t&lt;/script&gt; : radioactivity concen- tration that is measured in a given tissue region
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;script type=&quot;math/tex; mode=display&quot;&gt;C (t) = K_1 \int_0^{t} C_a(x) exp[–k_2(t – x)]dx&lt;/script&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;Cp*(t)&lt;/script&gt; (in nCi/ml plasma) represents the concentration of [18F]FDG measured in the arterial plasma t minutes after its injection into the venous blood&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;Cm*(t)&lt;/script&gt; concentration of products of [18F]FDG metabolism in the tissue&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;Ci*(t)&lt;/script&gt; total concentration of activity in the tissue&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;analyse-compartimentale-fbb&quot;&gt;Analyse compartimentale FBB&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;\Delta_n = [10,10,10,10,10,10,10,10,10,10,10,10,30,30,30,30,30,30,60,60,60,60,60,300,300,300,300,300,300]&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;t_n = [5,15,25,35,45,55,65,75,85,95,105,115,135,165,195,225,255,285,330,390,450,510,570,750,1050,1350,1650,1950,2250]&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\overline{C_p}(t_n) = \frac{\int_{t_n -\Delta_n/2}^{t_n +\Delta_n/2}C_p(t)dt}{\Delta_n}&lt;/script&gt; correspondant à la concentration plasmatique artérielle de &lt;script type=&quot;math/tex&quot;&gt;^{18}&lt;/script&gt;F-FDG.&lt;/li&gt;
+  &lt;li&gt;&lt;script type=&quot;math/tex&quot;&gt;\overline{C_c}(t_n) = \frac{\int_{t_n -\Delta_n/2}^{t_n +\Delta_n/2}C_c(t)dt}{\Delta_n}&lt;/script&gt; correspondant à la concentration de tissus cérébral de &lt;script type=&quot;math/tex&quot;&gt;^{18}&lt;/script&gt;F-FDG.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;expression-graphique-de-patlak&quot;&gt;Expression graphique de Patlak&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{C_c(t)}{C_p(t)} = K_i\frac{\int_{0}^{t}C_p(\tau)d\tau}{C_p(t)} + \frac{K_1k_2}{(k_2 + k_3)^2}&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;On trace le rapport &lt;script type=&quot;math/tex&quot;&gt;\frac{C_c(t)}{C_p(t)}&lt;/script&gt; en fonction de &lt;script type=&quot;math/tex&quot;&gt;\frac{\int_{0}^{t}C_p(\tau)d\tau}{C_p(t)}&lt;/script&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;illustration--pat_001_desy68&quot;&gt;Illustration : Pat_001_DESY68&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/img/recherche/TAC.png&quot; style=&quot;width:70%&quot; /&gt;
+  &lt;br /&gt;
+    &lt;em&gt;TAC brute obtenue en moyennant les TAC D et G issues de la partie pétreuse de la carotide interne&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;img src=&quot;/assets/img/recherche/Coupe.png&quot; style=&quot;width:49%&quot; /&gt;
+    &lt;img src=&quot;/assets/img/recherche/Ki_patlak.png&quot; style=&quot;width:49%&quot; /&gt;
+&lt;/div&gt;
+&lt;p align=&quot;center&quot;&gt;
+    &lt;br /&gt;
+    &lt;em&gt; Illustration de la méthode de Patlak pour le voxel (47,83,64) correspondant à celui pointé sur l'image de gauche. &lt;/em&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/img/recherche/coupe_Ki.png&quot; style=&quot;width:70%&quot; /&gt;
+  &lt;br /&gt;
+    &lt;em&gt;Coupe de Ki correspondante&lt;/em&gt;
 &lt;/p&gt;</content><author><name></name></author><category term="Médecine nucléaire" /><category term="Recherche" /><summary type="html">Documentation</summary></entry><entry><title type="html">LCA niveau 2 - S2 2019/2020 - Examen 2</title><link href="http://localhost:4000/2020/05/23/LCA_partiel_2.html" rel="alternate" type="text/html" title="LCA niveau 2 - S2 2019/2020 - Examen 2" /><published>2020-05-23T00:00:00+02:00</published><updated>2020-05-23T00:00:00+02:00</updated><id>http://localhost:4000/2020/05/23/LCA_partiel_2</id><content type="html" xml:base="http://localhost:4000/2020/05/23/LCA_partiel_2.html">&lt;p&gt;Etude de l’article &lt;code class=&quot;highlighter-rouge&quot;&gt;Tenecteplase versus alteplase for management of acute
 ischaemic stroke (NOR-TEST): a phase 3, randomised,
 open-label, blinded endpoint trial&lt;/code&gt;&lt;/p&gt;

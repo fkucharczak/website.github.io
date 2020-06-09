@@ -1,0 +1,173 @@
+I"�#<h2 id="documentation">Documentation</h2>
+
+<ul>
+  <li><a href="/assets/docs/articles/KineticModeling/FBB_19.pdf">Article Fayçal</a> sur la comparaison LLS, NLS, Patlak pour la modélisation cinématique cérébrale</li>
+  <li><a href="http://www.turkupetcentre.net/petanalysis/model_compartmental_ref.html">Documentation</a> du Turku PET Centre sur la TEP dynamique</li>
+  <li><a href="http://www.turkupetcentre.net/petanalysis/input_idif.html">Extraction de TAC à partir des données dynamiques</a></li>
+  <li><strong><a href="http://www.turkupetcentre.net/petanalysis/tac_auc.html">AUC en PET</a></strong> -&gt; voir spécifiquement la section <em>“AUC from time frame data”</em>
+    <ul>
+      <li>Blood time-activity curves (BTACs) are collected as mean concentrations during specified time frames.</li>
+      <li>The events (counts) have to be collected over the certain time “frame” to achieve acceptable count statistics, and the number of measured events are then divided by the time frame length to obtain the count rates (counts/s), which are further calibrated to radioactivity concentrations (Bq/mL) based on the measured volume and calibration coefficients.</li>
+      <li>If time frames are sufficiently short, we can assume that the average tracer concentration during the time frame represents the instantaneous concentration at frame middle time point</li>
+      <li>If concentration changes markedly during the time frame, then the midframe approximation is not valid</li>
+    </ul>
+  </li>
+  <li><a href="http://www.turkupetcentre.net/petanalysis/model_mtga.html#patlak">Méthode graphique de Patlak</a></li>
+  <li><a href="/assets/docs/articles/KineticModeling/DMG_DIAPOS.pdf">Slides PPT - modèle NLS</a></li>
+  <li><a href="https://www.ucalgary.ca/miplab/downloads">Templates vasculaires</a></li>
+  <li><a href="https://github.com/spedemon/occiput">Occiput.io</a></li>
+  <li>
+    <p><a href="https://www.frontiersin.org/articles/10.3389/fninf.2018.00064/full">APPIAN</a>. <a href="https://github.com/APPIAN-PET/APPIAN">GitHub</a></p>
+  </li>
+  <li><strong>Articles intéressants</strong> :
+    <ul>
+      <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5453460/#!po=53.4483">Estimation of an image derived input function with MR-defined carotid arteries in FDG-PET human studies using a novel partial volume correction method</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="informations-sur-lestimation-de-tac-avec-lactivité-carotidienne">Informations sur l’estimation de TAC avec l’activité carotidienne</h3>
+
+<ul>
+  <li>In brain PET studies the blood curve is estimated from carotid arteries or other intra-cranial blood vessels, but because of large partial volume effect and proximity of large veins the results may be poor and require a few blood samples for calibration. Different approaches like factor analysis, non-negative matrix factorization, independent component analysis (ICA), cluster analysis, and applying MRI have been used to overcome these problems.</li>
+  <li>Mean diameters of internal carotid artery and common carotid artery are 5.11±0.87 mm and 6.52±0.98 mm in men, and 4.66±0.78 mm and 6.10±0.80 mm in women (Krejza et al., 2006).</li>
+</ul>
+
+<h2 id="divers-points-débattus">Divers points débattus</h2>
+
+<ul>
+  <li>Les valeurs des pixels enregistrées dans les données DICOM semblent bien être en Bq/voxel = coups/(secondes.voxel) (le temps d’acquisition par volume est donc déjà pris en compte). Par exemple, sur la série échantillonnée toutes les minutes, un voxel dans le striatum G est autour de 6500 entre la 4° et 5° minute, et dans celle échantillonnée toutes les 5’, dans le premier volume, on trouve 5000 dans les 5 premières minutes (un peu moins car la 1° partie de l’acquisition, avant la 4° minute, a moins d’activité).
+Il ne faut donc pas pondérer par la durée d’acquisition et garder le signal DICOM tel quel en Bq/voxel.</li>
+</ul>
+
+<h2 id="tests">Tests</h2>
+
+<p align="center">
+  <img src="/assets/img/recherche/activity_vs_time.png" style="width:70%" />
+  <br />
+    <em>Activité moyenne par volume 3D en fonction du temps d'acquisition en minutes</em>
+</p>
+
+<p align="center">
+  <img src="/assets/img/recherche/activity_vs_time_normalise.png" style="width:70%" />
+  <br />
+    <em>Activité moyenne par volume 3D en fonction du temps d'acquisition en minutes si on normalise l'activité par la durée d'acquisition de la séquence</em>
+</p>
+
+<h2 id="time-activity-curve-tac-input">Time-activity curve (TAC) input</h2>
+
+<p align="center">
+  <img src="/assets/img/recherche/T2_tac.png" style="width:70%" />
+  <br />
+    <em>Coupes de T2 avec entrées carotidiennes</em>
+</p>
+
+<p>Coordonnées d’une portion coronale de carotide interne.<br /></p>
+<ul>
+  <li><strong>CI gauche centrée en (84,139,43)</strong></li>
+  <li><strong>CI droite centrée en (104,139,43)</strong></li>
+</ul>
+
+<h3 id="essais-de-tracé-de-tac">Essais de tracé de TAC</h3>
+
+<p>Si on prend une ROI centrée sur la carotide gauche par exemple, avec une ROI de +/- 2 dans toutes les dimensions on obtient une TAC comme celle présentée à gauche dans la figure suivante.</p>
+
+<div>
+    <img src="/assets/img/recherche/TAC_ss_norm.png" style="width:49%" />
+    <img src="/assets/img/recherche/AUC_nn_norm.png" style="width:49%" />
+</div>
+<p align="center">
+    <br />
+    <em>Série 10 en vue coronale avec ROI en noir (G).<br /> TAC associée sans normalisation de la durée d'acquisition (C). AUC = intégration de 0 à t sur la même ROI (D) </em>
+</p>
+<div>
+    <img src="/assets/img/recherche/AN.png" style="width:49%" />
+    <img src="/assets/img/recherche/AUC.png" style="width:49%" />
+</div>
+<p align="center">
+    <br />
+    <em>TAC normalisée par durée de la série à (G). AUC = intégration de 0 à t sur la même ROI (D). </em>
+</p>
+
+<p>Ci-dessous, une vue de la même coupe coronale pour trois différentes séries temporelles. Le carré noir correspond à une coupe du volume utilisé pour le calcul de la TAC.</p>
+
+<div>
+    <img src="/assets/img/recherche/8.png" style="width:33%" />
+    <img src="/assets/img/recherche/15.png" style="width:33%" />
+    <img src="/assets/img/recherche/29.png" style="width:33%" />
+</div>
+<p align="center">
+    <br />
+    <em>Série 8, 15 et 29 avec la même échelle de couleur [0, 10k]. </em>
+</p>
+
+<h2 id="logiciel-développé">Logiciel développé</h2>
+
+<h3 id="première-version--données-normalisées-par-la-durée-dacquisition">Première version : données normalisées par la durée d’acquisition</h3>
+
+<p align="center">
+  <img src="/assets/img/recherche/logiciel_print1.png" style="width:100%" />
+  <br />
+    <em>Exemple du logiciel DynaPET développé sous Matlab</em>
+</p>
+
+<h3 id="seconde-version">Seconde version</h3>
+
+<p align="center">
+  <img src="/assets/img/recherche/logiciel_print2.png" style="width:100%" />
+  <br />
+    <em>Nouvelle version avec gestion des données d'entrée brutes et du recalage</em>
+</p>
+
+<h2 id="templates">Templates</h2>
+
+<ul>
+  <li>Lien sur site de <a href="http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009">McGill</a></li>
+</ul>
+
+<h2 id="analyse-compartimentale-yale">Analyse compartimentale Yale</h2>
+
+<ul>
+  <li><a href="https://tauruspet.med.yale.edu/staff/edm42/chapters/kinetic-modeling-chapter-23-wernick-book.pdf">Lien</a></li>
+</ul>
+<ul>
+  <li><script type="math/tex">C_a</script> : measurement of blood samples drawn during a PET scan</li>
+  <li><script type="math/tex">C_t</script> : radioactivity concen- tration that is measured in a given tissue region
+    <ul>
+      <li>
+        <script type="math/tex; mode=display">C (t) = K_1 \int_0^{t} C_a(x) exp[–k_2(t – x)]dx</script>
+      </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><script type="math/tex">Cp*(t)</script> (in nCi/ml plasma) represents the concentration of [18F]FDG measured in the arterial plasma t minutes after its injection into the venous blood</li>
+  <li><script type="math/tex">Cm*(t)</script> concentration of products of [18F]FDG metabolism in the tissue</li>
+  <li><script type="math/tex">Ci*(t)</script> total concentration of activity in the tissue</li>
+</ul>
+
+<h2 id="analyse-compartimentale-fbb">Analyse compartimentale FBB</h2>
+
+<ul>
+  <li>
+    <script type="math/tex; mode=display">\Delta_n = [10,10,10,10,10,10,10,10,10,10,10,10,30,30,30,30,30,30,60,60,60,60,60,300,300,300,300,300,300]</script>
+  </li>
+  <li>
+    <script type="math/tex; mode=display">t_n = [5,15,25,35,45,55,65,75,85,95,105,115,135,165,195,225,255,285,330,390,450,510,570,750,1050,1350,1650,1950,2250]</script>
+  </li>
+  <li>
+    <script type="math/tex; mode=display">\overline{C_p}(t_n) = \frac{\int_{t_n -\Delta_n/2}^{t_n +\Delta_n/2}C_p(t)dt}{\Delta_n}</script>
+  </li>
+  <li>
+    <script type="math/tex; mode=display">\overline{C_c}(t_n) = \frac{\int_{t_n -\Delta_n/2}^{t_n +\Delta_n/2}C_c(t)dt}{\Delta_n}</script>
+  </li>
+</ul>
+
+<h3 id="expression-graphique-de-patlak">Expression graphique de Patlak</h3>
+
+<ul>
+  <li>
+    <script type="math/tex; mode=display">\frac{C_c(t)}{C_p(t)} = K_i\frac{\int_{0}^{t}C_p(\tau)d\tau}{C_p(t)} + \frac{K_1k_2}{(k_2 + k_3)^2}</script>
+  </li>
+</ul>
+:ET
