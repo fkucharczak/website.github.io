@@ -77,4 +77,4 @@ Bilan en urgence : voir si il y a une lithiase à retirer (pas faire le diagnost
 
 Signe de dilatation bicanalaire signe la présence d'un cancer de la tête (et non la queue) du pancréas.
 
-## Orthopédie
+Anévrisme de l'aorte abdominale : suivi du patient par angioscanner abdominopelvien ou angiographie par résonnance magnétique, pas irradiant mais peu accessible et moins bonne résolution spatiale. L'artériographie est réservée au bilan initial.
