@@ -61,10 +61,20 @@ Si négatif : IRM dorso-lombaire et des sacro-iliaques
 
 Note : on ne fait pas de FLAIR sur du rachis lombaire.
 
-## Gastrologie
+## Hepato-gastrologie
 
 MICI sur le TD : inflammation
-Signe du Halo (épaississement de la paroi avec oedème), signe du peigne (inflammation donc aspect peigné du mésocolon (partie du péritoire qui accroche les anses)).
+Signe du Halo (épaississement de la paroi avec oedème), signe du peigne (inflammation donc aspect peigné du mésocolon (partie du péritoine qui accroche les anses)).
 Peut faire des épaissiements, des fistules et ensuite des collections.
 
 Si MICI, on peut faire une bili-IRM pour rechercher une sténose ou une dilatation causée par une Cholangite sclérosante primitive.
+
+Pancréatite : diagnostic clinique + biologique.
+IRM centrée sur le foie en coupe coronale, c'est l'examen le plus sensible que l'échographie et le scanner pour retrouver un calcul dans la voie biliaire principale.
+Bili-IRM comme ici présente un intérêt dans le bilan étiologique à distance (en l'absence de cause évidente lithiasique ou OH aiguë).
+
+Bilan en urgence : voir si il y a une lithiase à retirer (pas faire le diagnostic) avec une écho.
+
+Signe de dilatation bicanalaire signe la présence d'un cancer de la tête (et non la queue) du pancréas.
+
+## Orthopédie
