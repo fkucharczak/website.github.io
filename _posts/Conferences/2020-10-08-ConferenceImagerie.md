@@ -79,4 +79,4 @@ Signe de dilatation bicanalaire signe la présence d'un cancer de la tête (et n
 
 Anévrisme de l'aorte abdominale : suivi du patient par angioscanner abdominopelvien ou angiographie par résonnance magnétique, pas irradiant mais peu accessible et moins bonne résolution spatiale. L'artériographie est réservée au bilan initial.
 
-[Lien vers la correction du SIDES de la conférence](./assets/pdf/conf/sides_imagerie.pdf)
+[Lien vers la correction du SIDES de la conférence](\assets\pdf\conf\sides_imagerie.pdf)
