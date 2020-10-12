@@ -15,3 +15,17 @@ Repères poids :
 - 6 mois : 6kg
 - 1 an : 10kg
 - Puis : (age+4)x2
+
+### Urgences vitales chez l'enfant
+
+*Quick look* : C.R.C :
+- Comportement
+- Respiration
+- Couleur
+Réponse binaire : normal ou anormal
+
+Consient et réactif : ABCDE
+- Diagnostics : insuffisance respiratoire ou circulatoire (compensée ou décompensée)
+
+Réanimation ABC :
+- Arrêt cardio-respiratoire
