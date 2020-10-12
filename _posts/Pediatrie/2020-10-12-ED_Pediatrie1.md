@@ -40,7 +40,7 @@ Réanimation ABC :
   - Travail respiratoire : en augmentation? Visualisation des signes de détresse respi : tirage sus-sternal, inter-costral, battement ailes du nez...
   - Volume courant : ce qui rentre dans le poumon, soulement symmétrique du thorax, etc. Sensibiliser cette visualisation au stéthoscope
   - Oxygénation
-- _Circulation_ :
+- _Circulation_ : ("les 5 P")
   - FC (entre 80 et 180 rassurant chez nourisson)
   - Perfusion périphérique : peau meilleure source d'information -> marbrures, purpura, chaleur de la peau (ligne chaud froid?), TRC (appui 5s) < 3s?
   - Pouls : si bien frappé, bonne fraction d'éjection systolique
@@ -125,5 +125,3 @@ Si rythme défibrilable : Adrénaline 10 ug/kg. Alternance avec RCP 15/2 2 minut
  - Tension/ pneumothorax
  - Thrombose
  - Toxiques
-
-### Mise en situation : cas inspirés de la vraie vie
