@@ -78,3 +78,5 @@ Ensuite il faut préciser le diagnostic avec le E :
 - A :
   - Position neutre chez le nourisson : alignement oreille épaule.
   - Plus on va grandir plus on va gagner en extension pour libérer les VAS
+  - On peut s'aider de la Guedel
+  - On peut aspirer, en adaptant la sonde à la problématique
