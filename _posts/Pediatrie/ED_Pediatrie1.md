@@ -18,7 +18,7 @@ Repères poids :
 
 ### Urgences vitales chez l'enfant
 
-*Quick look* : C.R.C :
+#### Quick look : C.R.C :
 - Comportement
 - Respiration
 - Couleur
@@ -30,7 +30,7 @@ Consient et réactif : ABCDE
 Réanimation ABC :
 - Arrêt cardio-respiratoire
 
-*Quick look Conscience* :
+#### Quick look Conscience :
 - _Airways_ :
   - Libres et sûres?
   - A risque?
@@ -61,3 +61,20 @@ Ensuite il faut préciser le diagnostic avec le E :
  - Passé médical
  - Longueur du jeûne
  - Evènement/ Environnement
+
+#### Evaluation de la décompensation :
+
+- Cerveau = altération de l'état de conscience :
+  - Agitation, somnolence, hypotonie, coma...
+
+- Epuisement CR
+  - Sp02 basse malgré l'O2 : cible > 94° toujours, quel que soit l'état
+  - Apnées, diminution brutale du travail respiratoire et de la FR
+  - hypoPA
+  - Bradycardie
+
+#### Prise en charge :
+
+- A :
+  - Position neutre chez le nourisson : alignement oreille épaule.
+  - Plus on va grandir plus on va gagner en extension pour libérer les VAS
