@@ -82,6 +82,48 @@ Ensuite il faut préciser le diagnostic avec le E :
   - On peut aspirer, en adaptant la sonde à la problématique
 
 - B :
-  - Masque hate concentration 12-15L (98° de FiO2)
+  - Masque haute concentration 12-15L (98° de FiO2) -> à 3L ce n'est pas à haute concentration : minimum 12L
   - Masque simple : 4-6L (60° de FiO2)
   - Lunettes : max 3L (30-40° de FiO2)
+  - Ventillation au ballon si patient n'arrive pas à respirer seul
+
+- C :
+  - Seul soluté recommandé en 1e intention : NaCl 0.9
+    - 20ml/kg
+  - Cathé
+
+### Si inconscient : ABC
+
+- _Airways_ :
+  - Ouvrir, positionner
+- _Breathing_ :
+  - Voir écouter sentir
+    - 5 insufflations (bouche à bouche si pas de matériel disponible)
+- _Circulation_ :
+  - Signes de vie
+    - CT
+    - RCP 15/2
+
+*Appel du 112 après 1 minute de RCP*
+
+### Arrêt cardiaque :
+
+Rythmes défibrilables : FV. Que ce soit grande maille ou petite maille.
+On ne défibrile pas un rythme normal.
+
+On choque toutes les 2 minutes avec 4 joules/kg.
+Si rythme défibrilable : Adrénaline 10 ug/kg. Alternance avec RCP 15/2 2 minutes.
+
+*Les causes d'arrêt traitables* :
+- Plus fréquent :
+ - Hypoxie
+ - Hypothermie (avalanche, noyade piscine hiver)
+ - Hypovolémie
+ - Hyper/hypo magnesium, potassium, calcium
+- Moins fréquent
+ - Tamponnade : rarissime
+ - Tension/ pneumothorax
+ - Thrombose
+ - Toxiques
+
+### Mise en situation : cas inspirés de la vraie vie
