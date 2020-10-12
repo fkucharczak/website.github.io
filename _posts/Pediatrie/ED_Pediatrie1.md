@@ -29,3 +29,14 @@ Consient et réactif : ABCDE
 
 Réanimation ABC :
 - Arrêt cardio-respiratoire
+
+*Quick look Conscience* :
+- _Airways_ :
+  - Libres et sûres?
+  - A risque?
+  - Obstruées?
+- _Breathing_ :
+  - FR
+  - Travail respiratoire
+  - Volume courant
+  - Oxygénation
