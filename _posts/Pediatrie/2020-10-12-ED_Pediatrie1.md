@@ -46,7 +46,7 @@ Réanimation ABC :
   - Pouls : si bien frappé, bonne fraction d'éjection systolique
   - PA : PA moyenne = 2 x systole + diastole (>40 moyenne dans 1e année)
   - Précharge : ne doit pas être augmentée -> coeur ne se remplit pas bien. Se regarde au niveau du foie.
-  - _Disability_ : conséquences de ABC sur l'état de conscience
+- _Disability_ : conséquences de ABC sur l'état de conscience
     - AVPU (état de conscience et si inconscience -> stimulation : A = alerte, V = voix, S = stimulation tactile, P = pain) - Glasgow
     - Tonus
     - Pupille
