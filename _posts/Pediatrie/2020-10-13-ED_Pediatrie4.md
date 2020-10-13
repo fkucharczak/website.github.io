@@ -27,8 +27,8 @@ Bilan de dépistage des comorbidités et diagnostic différentiel :
 - Consultation en neuropédiatrie
 - **ADOS** : test filmé d'interraction social -> sert à faire le diagnostic positif d'autisme
 
-Tout enfant autiste aura un dossier **MDPH**.
-Demande de 100% auprès de la sécu.
+Tout enfant autiste aura un dossier **MDPH**.<\br>
+Demande de 100% auprès de la sécu.<\br>
 Demande de l'AEEH : allocation pour aider à l'éducation de l'enfant autiste.
 
 ## Cas clinique DP 2
@@ -46,11 +46,24 @@ Bilan systématique une fois diagnostic posé :
 
 ### Fiche flash sur l'autisme
 
-Trouble précoce avant 3 ans et durable de développement.
-Prévalence 1%
-4G pour 1F
+Trouble précoce avant 3 ans et durable de développement.<\br>
+Prévalence 1%<\br>
+4G pour 1F<\br>
 Déficits persistants dans deux domaines cliniques :
 - anomalies de la communication et des interactions sociales
 - caractère restreint et répétitif des comportements, des intérêts et des activités
-Retentissement cliniquement significatif
+Retentissement cliniquement significatif<\br>
 Avec ou sans comorbidités (déficit intellectuel associé ou non)
+
+**Autiste sans retard intellectuel = Asperger**
+
+Signes d'alerte :
+- ne regarde pas en direction des personnes
+- ne répond pas quand on l'appelle
+- absence de babillage, pointage, gestes sociaux
+- absence de mots et marche à 18M
+- absence d'association de mots à 24M
+
+**Un diagnostic est possible dès 2 ou 3 ans, diagnostic fiable impossible avant 18 mois (mais peut évoquer trouble du neurodéveloppement). Diagnostic clinique avec évaluation pluridisciplinaire du développement et recherche de troubles associés. Recherche ensuite de comorbidités (épilepsie, ORL, ...) avec lien neuropédiatres et génétitiens (X fragile, 22q11) pour trouver une étiologie.**
+
+Maintenant, syndrome de RET ne fait plus partie du spectre autistique.
