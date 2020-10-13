@@ -8,7 +8,7 @@ tags: [CV]
 ### Presentation
 Chercheur en traitement du signal et des images, titulaire d'un diplôme d'ingénieur en _Ingénierie des Systèmes, Automatique et Vision_ obtenu à **Télécom Physique Strasbourg** en 2014 et d'une thèse en _Systèmes automatiques et micro-électronique_ délivrée par l'**Université de Montpellier**, je suis particulièrement intéressé par les problématiques de recherche autour de la statistique et du traitement d'image dans les données médicales.
 
-J'ai souhaité compléter mon cursus scientifique et devenir médecin. J'ai ainsi rejoint la **Faculté de médecine de l'Université de Montpellier** en 3e année (DFGSM1) en 2018. Je travaille également depuis fin 2019 en tant qu'assistant associés des universités dans le service de médecine nucléaire du CHU de Montpellier sur des problématiques d'analyse compartimentale en TEP pour la prise en charge de patients ayant subie une hémorragie méningée.
+J'ai souhaité compléter mon cursus scientifique et devenir médecin. J'ai ainsi rejoint la **Faculté de médecine de l'Université de Montpellier** en 3e année (DFGSM1) en 2018. En parallèle, je mène actuellement (depuis fin 2019) mes recherches en tant qu'assistant associés des universités dans le service de médecine nucléaire du CHU de Montpellier.
 
 <h3 style="text-align:left">Formation</h3>
 
@@ -18,8 +18,7 @@ J'ai souhaité compléter mon cursus scientifique et devenir médecin. J'ai ains
 
 <h5 style="text-align: left; width:69%; display: inline-block;">Assistant associé des universités, Faculté de médecine de Montpellier (34)</h5>
 <h5 style="text-align: right; width:30%;  display: inline-block;">En cours - Dec. 2020</h5>
-<p>Recherches menées dans le service de médecine nucléaire du CHU de Montpellier portant sur l'analyse
-  compartimentale en TEP destinée à la prévention du vasospasme cérébral post-hémorragie méningée.</p>
+<p>Recherches menées dans le service de médecine nucléaire du CHU de Montpellier portant sur l'analyse compartimentale en TEP dynamique destinée à la compréhension des mécanismes physiopathologiques du vasospasme post-hémorragie méningée. Travaux menés en collaboration étroite avec des neuroréanimateurs du CHU.</p>
 
 <h5 style="text-align: left; width:69%; display: inline-block;">Doctorat en systèmes automatiques, Université de Montpellier (34)</h5>
 <h5 style="text-align: right; width:30%;  display: inline-block;">2015 - 2019</h5>
@@ -76,7 +75,7 @@ Spécialisation en imagerie médicale avec cours exclusivement en portugais.<br>
 <h4 style="text-align:left">Enseignements</h4>
 
 <h5 style="text-align: left; width:69%; display: inline-block;">Vacataire en M1 EEA, Université de Montpellier (34)</h5>
-<h5 style="text-align: right; width:30%;  display: inline-block;">2009 - 2011</h5>
+<h5 style="text-align: right; width:30%;  display: inline-block;">2016 - 2018</h5>
 <ul  style="text-align:left">
   <li  style="text-align:left"> Projet C/ OpenGL : 21h</li>
   <li  style="text-align:left"> Travaux pratiques Matlab : 61h</li>
