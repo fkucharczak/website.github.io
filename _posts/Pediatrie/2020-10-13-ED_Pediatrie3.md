@@ -35,3 +35,10 @@ Même malade et en fin de vie, l'enfant garde ses droits. Même en soins paliati
 
 *ERRSPP* : 13 à 14 centres ressources en soins palliatifs en France.
 LISP : lits identifiés en soins palliatifs exclusifs.
+
+### Communication avec les enfants
+
+Quoi qu'il arrive, les enfants sont peu informés sur la maladie mais en fait ils savent.
+La détresse d'un enfant, le choc de l'annonce, n'est pas plus important que de ne pas savoir.
+
+Ils donnent des indices, ils choisissent la personne. Ne pas avoir peur de dire "je ne sais pas".
