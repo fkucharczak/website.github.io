@@ -27,4 +27,30 @@ Bilan de dépistage des comorbidités et diagnostic différentiel :
 - Consultation en neuropédiatrie
 - **ADOS** : test filmé d'interraction social -> sert à faire le diagnostic positif d'autisme
 
-Tout enfant autiste aura un dossier **MDPH**. 
+Tout enfant autiste aura un dossier **MDPH**.
+Demande de 100% auprès de la sécu.
+Demande de l'AEEH : allocation pour aider à l'éducation de l'enfant autiste.
+
+## Cas clinique DP 2
+
+Evocateur de TSA :
+- peu d'intérêt pour les personnes (mais surtout objets)
+- utilisation stéréotypée d'objets
+- pauvreté du jeu
+- recherche de plaisir par exemple en secouant un objet bruyant près de son oreille
+
+Bilan systématique une fois diagnostic posé :
+- CS ORL
+- CS génétique
+- CS neuropédiatrie
+
+### Fiche flash sur l'autisme
+
+Trouble précoce avant 3 ans et durable de développement.
+Prévalence 1%
+4G pour 1F
+Déficits persistants dans deux domaines cliniques :
+- anomalies de la communication et des interactions sociales
+- caractère restreint et répétitif des comportements, des intérêts et des activités
+Retentissement cliniquement significatif
+Avec ou sans comorbidités (déficit intellectuel associé ou non)
