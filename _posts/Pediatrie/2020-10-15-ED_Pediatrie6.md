@@ -31,7 +31,8 @@ Au delà de 10 ans, a du sens de faire une Ag-urie pneumocoque mais pas avant. R
 ## Bronchiolites
 
 Infections hautes et basses.
-Nouvelles recommendations à connaitre
+Nouvelles recommendations à connaitre.
+Pic en novembre-janvier dans le sud. 2 mois avant à Paris
 
 Definition : "Dyspnée sifflante"
 - **Premier épiose aigu de gène respiratoire avec sifflement avant 1 an**
@@ -42,3 +43,21 @@ Hospitalisation de
 - formes modéerées nécessitant oxygénothérapie, et/ou nécessitant support nutritionnel, critères de vulnérabilité, contexte médico-socio-économique et de recours aux soins ne permettant pas un retour à domicile
 
 >Tirage n'est pas un signe automatique de gravité avant 4 ans. Contrairement à l'adulte
+
+Examen complémentaire :
+- pas de bilan rang
+- +/- viro
+- +/- Rx thorax si risque de gravité (hospit en gros)
+- +/- GdS en capilaire chez l'enfant (ne donne juste pas la Pa02)
+
+> Moins de 28 jours (= nourisson) avec de la fièvre **GRAVE** = infection materno-foetale jusqu'à preuve du contraire et on fait la totale :
+1. Hospitalisation
+2. Prise de sang
+3. PL
+
+Traitement +++ des formes non graves : désobstruction nasale.
+Pas de kinésithérapie pour les bronchiolites.
+
+> Bronchiolite ou asthme
+- Deuxième épisode de dyspnée sifflante à moins de 12M avec atopie personnelle ou familiale = Asthme du nourisson -> on essaie la Ventoline
+- Troisième épisode < 1A ou > 1A : Asthme du nourisson
