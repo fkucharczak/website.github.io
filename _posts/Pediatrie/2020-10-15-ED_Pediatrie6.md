@@ -61,3 +61,6 @@ Pas de kinésithérapie pour les bronchiolites.
 > Bronchiolite ou asthme
 - Deuxième épisode de dyspnée sifflante à moins de 12M avec atopie personnelle ou familiale = Asthme du nourisson -> on essaie la Ventoline
 - Troisième épisode < 1A ou > 1A : Asthme du nourisson
+
+Chez l'enfant : asthme viro-induit. Si pas d'allergènes >3A et pas de terrain atopique, chance que ça passe vers 6 ans.
+Chez l'adolescent et l'adulte : asthme allergique.
