@@ -85,4 +85,8 @@ Traitement des autres causes peut améliorer l'asthme.
 
 Si crépitant : atteinte alvéolaire.
 
- 
+Si rupture de la courbe de croissance staturo-pondérale avec toux grasse chronique, diarrhée chronique et infections respiratoires à répétition : penser à la _Mucoviscidose_.
+
+Si DDB chez enfant : Muco (test sueur, si positif on en refait 1), dyskinésies cilliaires primitives (prélèvement et analyse au microscope) associé à 50% à un situs inversus, séquelle d'infections. -> TVO non réversible à la ventoline = BPCO de l'enfant.
+
+Règle d'Appert : diversification à 4 mois donc valide jusqu'à ce moment là.
