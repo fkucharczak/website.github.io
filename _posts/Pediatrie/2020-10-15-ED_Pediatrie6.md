@@ -64,3 +64,25 @@ Pas de kinésithérapie pour les bronchiolites.
 
 Chez l'enfant : asthme viro-induit. Si pas d'allergènes >3A et pas de terrain atopique, chance que ça passe vers 6 ans.
 Chez l'adolescent et l'adulte : asthme allergique.
+
+## Toux chez l'enfant
+
+Toutes les pathologies inflammatoires vont parler la nuit.
+
+Pyrosis : très dur à diagnostiquer chez les bébés.
+Reflux bébé pas grave, normal. Sinon, pas normal. Cs. gastro. Pas normal de mettre un IPP au long cours chez un enfant.
+
+Principales causes de toux :
+- Asthme
+- RGO
+- Pathologies ORL : SAOS, végétations, amydgales.
+
+Traitement des autres causes peut améliorer l'asthme.
+
+> Ne jamais oublier le corps étranger
+
+> Ne jamais mettre de traitement antitussif. Ne marche pas. Même possiblement plus délétère. Strictement CI avant 2A mais de la place nulle part.
+
+Si crépitant : atteinte alvéolaire.
+
+ 
