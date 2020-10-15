@@ -108,8 +108,7 @@ Spécialisation en imagerie médicale avec cours exclusivement en portugais.<br>
 
 <h5 style="text-align: left; width:69%; display: inline-block;">Chef de projet ingénieur, IRCAD Strasbourg (67)</h5>
 <h5 style="text-align: right; width:30%;  display: inline-block;">2012 - 2013</h5>
-<p>Développement d’une tablette numérique permettant au chirurgien de visualiser les vaisseaux sanguins en réalité augmentée lors d’opérations laparoscopiques. Responsable de la
-  gestion de projet d’uneéquipe de 6 personnes et participation aux tâches techniques (expérimentations optiques et cliniques,traitement d’images et intégration hardware).</p>
+<p>Développement d’une tablette numérique permettant au chirurgien de visualiser les vaisseaux sanguins en réalité augmentée lors d’opérations laparoscopiques. Responsable de la gestion de projet d’une équipe de 6 personnes et participation aux tâches techniques (expérimentations optiques et cliniques,traitement d’images et intégration hardware).</p>
 
 <h3 style="text-align:left">Maitrise des langues</h3>
 <ul  style="text-align:left">
