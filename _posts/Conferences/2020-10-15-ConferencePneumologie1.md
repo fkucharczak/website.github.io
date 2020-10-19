@@ -87,3 +87,25 @@ Deux indications de VNI :
 
 Indications d'ocygénothérapie au long cours :
 - GdS à 3 mois dans un état de base avec PaO2 < 55 ou 60 avec HTAP, IVD, polyglobulie, désaturations nocturnes.
+
+Questionnaire SAOS : questionnaire d'Epworth.
+
+Dépistage :
+- Polysomnographie très lourd comme examen
+- Dépistage : polygraphie ventillatoire et pas polysomnographie (intérêt : quand on suspecte des troubles neuros du sommeil) qui est un enregistrement couplé à l'ECG.
+
+SAOS non traité est CI à la conduite automobile.
+TTT :
+- PPC en première intention pas VNI
+
+Nodule < 6mm sans facteur de risque on ne fait rien.
+On surveille par TDM à 6-12 mois si entre 6 et 8.
+
+Echelle MRC : à connaitre, valence penumo du NYHA
+
+Sarcoïdose : toujours faire un diagnostic histologique donc il faut le biopsier. On va du plus simple au plus compliqué -> peau, ganglions superficiels, BGSA, adénopathies médiastinales. On recherche un granulome sans nécrose.
+
+Micro-nodules diffus :
+- Sarcoïdose (si associé à épaississement péri-vasculaire)
+- Tuberculose milliaire
+- Métastases milliaires
