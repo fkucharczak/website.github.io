@@ -95,8 +95,9 @@ _On suspecte un néphroblastome_
 Examen paraclinique pour étayer la suspicion diagnostique :
 - **on ne biopsie pas un néphroblastome : on ne veut surtout pas de rupture de la capsule**
 - on veut éliminer le neuroblastome :
-  - dosage urinaire des cathécolamines
+  - dosage urinaire des catécholamines
   - scinti MIBG
+  - il FAUT faire une biopsie dans le neuroblastome : mutation est facteur de pronostic et traitement adapté en fonction
 
 TTT :
 - chimio préopératoire sans preuve anapath mais ayant éliminé la possibilité des autres tumeurs :
@@ -120,3 +121,7 @@ Dispositif d'annonce en K pédiatrique :
   - RCP inter-régionale
   - proposition deuxième avis systélatiquement
   - bénéfice risque
+
+Facteurs pronostiques du neuroblastome :
+- Age (avantageux plus il est jeune)
+- Amplification oncogène NMYC
