@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM 65 - Troubles du spectre de l'autisme
-tags: [Pédiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, ED]
 ---
 
 Savoir les repérer, les diagnostiques, les signes d'alerte.
