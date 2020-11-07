@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Infection et grossesse
-tags: [Gynécologie, ED, ITEM iECN]
+tags: [Gynécologie, ED]
 ---
 
 ## Rubéole
