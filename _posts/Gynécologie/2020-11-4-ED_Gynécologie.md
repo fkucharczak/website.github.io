@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cancer de l'endomètre, de l'utérus, de l'ovaire
-tags: [Gynécologie, Cancérologie, ED, ITEM iECN]
+tags: [Gynécologie, Cancérologie, ED]
 ---
 
 ## Cancer de l'utérus
