@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM 294 - Cancers de l'enfant
-tags: [Pédiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, ED]
 ---
 
  ITEM assez peu fréquent mais assez discriminatif.
