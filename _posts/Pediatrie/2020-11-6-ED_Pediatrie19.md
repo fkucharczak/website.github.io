@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM 64, 70 - Troubles dépressifs, anxieux panique, phobique somatoforme, post-traumatique, de l'adaptation, de la personnalité
-tags: [Pédiatrie, Psychiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, Psychiatrie, ED]
 ---
 
 On ne comprend rien aux pathologies qu'on traite. Très descriptif et codifié.
