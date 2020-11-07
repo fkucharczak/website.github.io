@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM - Tuberculose de l'enfant
-tags: [Pédiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, ED]
 ---
 
 ## Particularités de la tuberculose chez l'enfant
