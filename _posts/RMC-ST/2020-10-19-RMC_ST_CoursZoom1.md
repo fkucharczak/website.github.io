@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cours ZOOM RMC-ST
-tags: [Médecine du travail, Médecine physique et réadaptation, Neurologie, RMC-ST]
+tags: [Médecine du travail, Médecine physique et réadaptation, Neurologie]
 ---
 
 Festination : emballement de la marche, le patient court après son centre de gravité.
