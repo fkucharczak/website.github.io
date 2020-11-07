@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM - Accouchement prématuré et RCIU
-tags: [Pédiatrie, Gynécologie, ED, ITEM iECN]
+tags: [Pédiatrie, Gynécologie, ED]
 ---
 
 > Limite de viabilité fixé par la loi :
