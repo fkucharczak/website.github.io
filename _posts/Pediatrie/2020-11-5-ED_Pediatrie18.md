@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM - Diabète sucré de l'enfant
-tags: [Pédiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, ED]
 ---
 
 ## Diabète
