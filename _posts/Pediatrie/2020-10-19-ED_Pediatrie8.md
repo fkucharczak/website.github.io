@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM 294 : Cancers de l'enfant
+title: ITEM 294 - Cancers de l'enfant
 tags: [Pédiatrie, ED, ITEM iECN]
 ---
 
