@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Médecine génomique
-tags: [Pédiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, ED]
 ---
 
 A qui on prescrit un génome :
