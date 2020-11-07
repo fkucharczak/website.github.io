@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM 236 - Souffle cardiaque chez l'enfant
-tags: [Pédiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, ED]
 ---
 
 Chapitre assez généraliste. Valable aussi chez l'adulte.
