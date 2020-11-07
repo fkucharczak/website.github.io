@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM - Infections bronchopulmonaires de l'enfant
-tags: [Pédiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, ED]
 ---
 
 ## Bronchopneumopathie
