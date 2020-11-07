@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM - Protéinurie et syndrome néphrotique chez l'enfant
-tags: [Pédiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, ED]
 ---
 
 ## Syndromes glomérulaires :
