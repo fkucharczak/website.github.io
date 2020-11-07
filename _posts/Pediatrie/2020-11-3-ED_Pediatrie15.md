@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM 53, 108 - Développement psychomoteur du nourisson et de l'enfant, développement affectif, interactions précoces. Troubles du sommeil, de l'alimentation, contrôles sphinctériens chez nourisson.
-tags: [Pédiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, ED]
 ---
 
 ## Interactions
