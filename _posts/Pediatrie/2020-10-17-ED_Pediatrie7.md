@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Infectiologie pédiatrique
-tags: [Pédiatrie, ED, ITEM iECN]
+tags: [Pédiatrie, ED]
 ---
 
 ## Ce qui fait tousser
