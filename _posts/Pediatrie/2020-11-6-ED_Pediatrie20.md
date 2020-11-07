@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ITEM - RGO, vomissements, diarrhée, constipation chez l'enfant
-tags: [Pédiatrie, Gasto, ED, ITEM iECN]
+tags: [Pédiatrie, Gasto, ED]
 ---
 
 ## Alergies protéines de lait de vache
