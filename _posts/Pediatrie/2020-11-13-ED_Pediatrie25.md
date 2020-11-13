@@ -78,7 +78,7 @@ Prélèvements obligatoires en chambre funéraire :
 
 Obstacle médico-légal si parents refusent autopsie
 
-# HTaP de l'enfant
+# HTaP de l'enfant : Item 222
 
 Il faut savoir diagnostiquer une HT(a)P de l'enfant, distinguer pré-capillaire et post-capillaire.
 
