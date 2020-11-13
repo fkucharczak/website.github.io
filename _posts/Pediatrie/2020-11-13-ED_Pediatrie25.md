@@ -97,3 +97,8 @@ PAPm = 2/3 PAPd + 1/3 PAPs
 </p>
 
 > Stagnation pondérale, dyspnée, sueurs aux tétées -> **Insuffisance cardiaque**
+
+Critères cliniques et paracliniques de sévérité :
+- Statut fonctionnel (WHO) = NYHA pour l'HTaP
+- Epreuve d'effort cardio-respi = reflet du status fonctionnel
+- NT pro BNP
