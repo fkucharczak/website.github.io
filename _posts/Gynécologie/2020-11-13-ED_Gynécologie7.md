@@ -59,12 +59,14 @@ Si pas de symptomes, PEC :
 - pas de TTT
 - surveillance écho (quand volumineux d'entrée)
 
-> **Myomes asymptomatiques = pas de traitement pas de suivi** (suivi écho une fois que si non documenté et gros d'emblée)
-> **Myomes symptomatiques = traitement chirurgical**
-	- En attendant, on peut faire certains traitements symptomatiques type progestérone pour l'atrophier
-	- Myomectomie
-		- Hysteroscopie : de type 0 à 2 < 4cm
-		- Hystérectomie
+> - **Myomes asymptomatiques = pas de traitement pas de suivi** (suivi écho une fois que si non documenté et gros d'emblée)
+> - **Myomes symptomatiques = traitement chirurgical**
+		- En attendant, on peut faire certains traitements symptomatiques type progestérone pour l'atrophier
+		- Myomectomie
+			- Hysteroscopie : si myome de type 0 à 2 < 4cm (= en gros ceux qu'on peut voir de l'intérieur)
+			- Hystérectomie en coelio ou laparo
+			- A chaque fois on morcelle le fibrome pendant la résection
+			 	- Mise en place de morcellation 
 
 <p align="center">
   <img src="/assets/img/medecine/fibromes3.png" style="width:70%"/>
@@ -75,3 +77,23 @@ Si pas de symptomes, PEC :
 _Esmya plus utilisé car hépatites fulgurantes recensées_
 
 **DIU Mirena recommandé** sauf si sous muqueux car peut etre expulsé. A l'avantage de bien réduire les saignements car atrophie du myomètre.
+
+Un utérus opéré pour myomectomie est considéré comme cicatriciel (fragile). Césarienne systématique pour l'accouchement derrière?
+
+> Surveillance annuelle chez patientes de plus de 40 ans
+> Proposition d'hystérectomie si plus de volonté de grossesse
+
+Embolisation réservée aux femmes sans désir de grossesse avec une place asssez peu claire dans les propositions
+
+# Endométriose
+
+Forte augmentation d'incidence.
+
+Symptomes :
+- Dysménorrhée
+- Symptomes cycliques, d'agravation progressive
+- Dyspareunie profonde
+- Défécation douloureuse
+- Dysurie
+- Diarrhée Constipation
+- Infertilité
