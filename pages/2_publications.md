@@ -10,7 +10,7 @@ tags: [Publications, Articles, Recherche]
 Premier place au prix de thèse de l'innovation de la [Société Française de Génie Biologique et Médical](https://sfgbm.fr/archives/11044) 2019. ([Présentation](/assets/docs/these/PresentationGBM.pdf))
 
 ### Journaux internationaux
-**F. Kucharczak**, M. Suau, O. Strauss, F. B. Bouallegue and D. Mariano-Goulart, [Brain 18F-FDG PET analysis via interval-valued reconstruction. Proof of concept for Alzheimer’s disease diagnosis.](/assets/docs/articles_perso/ANM20.pdf), Annals of Nuclear Medicine, Accepted for publication, **2020**.
+**F. Kucharczak**, M. Suau, O. Strauss, F. B. Bouallegue and D. Mariano-Goulart, [Brain 18F-FDG PET analysis via interval-valued reconstruction. Proof of concept for Alzheimer’s disease diagnosis.](/assets/docs/articles_perso/ANM2020.pdf), Annals of Nuclear Medicine, Accepted for publication, **2020**.
 
 **F. Kucharczak**, F. B. Bouallegue, O. Strauss, and D. Mariano-Goulart, [Confidence interval constraint based regularization framework for PET quantization](/assets/docs/articles_perso/TMI2019.pdf), IEEE Transactions in Medical Imaging, vol. 38, no. 6, pp. 1513–1523, **2019**.
 
