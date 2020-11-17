@@ -60,13 +60,14 @@ Si pas de symptomes, PEC :
 - surveillance écho (quand volumineux d'entrée)
 
 > - **Myomes asymptomatiques = pas de traitement pas de suivi** (suivi écho une fois que si non documenté et gros d'emblée)
-> - **Myomes symptomatiques = traitement chirurgical**
-		- En attendant, on peut faire certains traitements symptomatiques type progestérone pour l'atrophier
-		- Myomectomie
-			- Hysteroscopie : si myome de type 0 à 2 < 4cm (= en gros ceux qu'on peut voir de l'intérieur)
-			- Hystérectomie en coelio ou laparo
-			- A chaque fois on morcelle le fibrome pendant la résection
-			 	- Mise en place de morcellation 
+>
+- **Myomes symptomatiques = traitement chirurgical**
+	- En attendant, on peut faire certains traitements symptomatiques type progestérone pour l'atrophier
+	- Myomectomie
+		- Hysteroscopie : si myome de type 0 à 2 < 4cm (= en gros ceux qu'on peut voir de l'intérieur)
+		- Hystérectomie en coelio ou laparo
+		- A chaque fois on morcelle le fibrome pendant la résection
+			- Mise en place de morcellation
 
 <p align="center">
   <img src="/assets/img/medecine/fibromes3.png" style="width:70%"/>
@@ -88,6 +89,12 @@ Embolisation réservée aux femmes sans désir de grossesse avec une place assse
 # Endométriose
 
 Forte augmentation d'incidence.
+Développement de tissus endométrial dans des localisations ectopiques.
+
+<p align="center">
+  <img src="/assets/img/medecine/endom1.png" style="width:70%"/>
+</p>
+
 
 Symptomes :
 - Dysménorrhée
@@ -97,3 +104,16 @@ Symptomes :
 - Dysurie
 - Diarrhée Constipation
 - Infertilité
+
+Différents types d'endométriose :
+- Superficielle
+- Profonde
+- Endométriomes (kystes au milieu des ovaires)
+	- diminue la réserve ovarienne
+	- altère encore plus cette réserve lors de l'opération
+- Adénomyose
+
+- TTT :
+	- Hormonal en première intention
+	- Chirurgical 
+	- Douleur : AINS efficace sur les symptomes si pris précocement
