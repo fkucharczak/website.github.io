@@ -41,4 +41,13 @@ Artisans, professions libérales : pas pris en charge
 
 Prise en charge et indemnisation d'une pathologie imputable au travail :
 - Soit un fait accidentel identifiable -> AT
+  - Employeur déclare à la sécu
 - Soit des expo chroniques ou répétées -> MP
+  - Employé déclare à la sécu directement. Pas son médecin (rupture du secret médical)
+
+> Retenir qu'une pathologie qui est hors tableau peut être considérée comme MP
+
+Bien retenir que la date de première constatation médicale (pas de diagnostic opposable forcément) est beaucoup plus importante, au bénéfice des patients.
+
+- Guérison = retour à l'état antérieur
+- Consolidation = ça bouge plus -> séquelles -> potentiellement indemnisables
