@@ -19,7 +19,7 @@ tags: [Santé du travail, Médecine physique et réadaptation, RMC-ST]
 - Echelle de **Bristol** : échelle visuelle répartissant les selles humaines en sept types
 - Echelle de **Norton, Braden, Gonesse, Waterlow** : Evaluation du risque encarres
 - **Critères de Budapest** : critères diagnostiques du SDRC
-- **Mesure impédance fonctionnelle (MIF)** : permet d'évaluer les limitations d'activités d'un patient lésé médullaire
+- **Mesure indépendance fonctionnelle (MIF)** : permet d'évaluer les limitations d'activités d'un patient lésé médullaire
 - **CDAPH** : Commission des droits et de l'autonomie des personnes handicapées
 
 ### Définitions importantes avec difficultés d'enregistrement 
