@@ -34,6 +34,8 @@ Invalidité peut ne pas être de cause professionnelle.
 
 A retenir : on ne touche pas plusieurs pensions en général.
 
+> APA se demande au conseil général
+
 # Item 180 : AT-MP
 
 1e condition : être couvert pour ce risque = être salarié
