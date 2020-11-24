@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes sur échelles et acronymes : RMC-ST
+title: Notes sur échelles et acronymes - RMC-ST
 tags: [Santé du travail, Médecine physique et réadaptation, RMC-ST]
 ---
 
@@ -24,14 +24,14 @@ tags: [Santé du travail, Médecine physique et réadaptation, RMC-ST]
 - **Mesure indépendance fonctionnelle (MIF)** : permet d'évaluer les limitations d'activités d'un patient lésé médullaire
 - **CDAPH** : Commission des droits et de l'autonomie des personnes handicapées
 
-### Définitions importantes avec difficultés d'enregistrement 
+### Définitions importantes avec difficultés d'enregistrement
 
 - **Agnosie** = incapacité à reconnaître des objets familiers
 - **Anosognosie** = trouble neurologique caractérisé par la méconnaissance par le malade de la maladie dont il est atteint.
 - **Allodynie** = douleur déclenchée par un stimulus qui est normalement indolore. Par exemple,  un léger effleurement de la peau ou une faible sensation de chaud ou  froid peuvent alors être douloureux.
 - **Aphasie** = difficulté à comprendre le langage ou à utiliser le langage pour parler ou écrire
 - **Apraxie** = difficulté avec les capacités motrices courantes, comme allumer une allumette ou se peigner, malgré une force normale
-- **Syndrome de Pancoast Tobias** : associe dans sa forme typique (Pancoast 1924, Tobias 1932) : 
+- **Syndrome de Pancoast Tobias** : associe dans sa forme typique (Pancoast 1924, Tobias 1932) :
   - **Une tumeur de l’apex**, exceptionnellement bénigne (indispensable)
   - **Des signes radiculaires** (atteinte du plexus brachial inférieur) : début par une douleur  postérieure de l’épaule, puis radiculaires C8 - D1 : des atteintes  sensisitives puis motrices avec hypotrophie des loges musculaires  (thénar et hypothénar) se voient tardivement.
   - **Des signes sympathiques** : le syndrome de Claude-Bernard-Horner (ptosis, myosis, énophtalmie)
@@ -41,7 +41,7 @@ tags: [Santé du travail, Médecine physique et réadaptation, RMC-ST]
   - une négligence sensorielle des stimulations sensitives, auditives unilatérale.
   - une négligence motrice
     - des troubles de l'analyse spatiale (apraxie) constructive ou de l'habillage
-    - des troubles de la perception visuelle: 
+    - des troubles de la perception visuelle:
     - une anosognosie (méconnaissance et négation des troubles).
 
 - **Syndrome de Brown-Sequard** : est un syndrome neurologique consécutif à une atteinte de l'hémi-moelle. Il se traduit par :
@@ -54,24 +54,22 @@ tags: [Santé du travail, Médecine physique et réadaptation, RMC-ST]
 - Nécessaire de renouveler tous les 3 ans avec remplissage d'un auto questionnaire tous les ans
   - Même règle pour pratique loisir ou compétition
 - Certains sports à contraintes particulières en nécessitent tous les ans (rugby, plongée, spéléo, ...)
-- Examen clinique : 
+- Examen clinique :
   - Bilan morphologique : poids, taille, IMC
   - Examen locomoteur complet dont les troubles de la statique rachidienne
   - ECG de repos
   - Acuité visuelle
 
-## Activité physique 
+## Activité physique
 
 - Efficace à partir de 10 minutes
 - Utile en prévention du déclin cognitif
 
 ## Notes diverses sur points pas évidents
 
-- Patient atteint de SEP avec TIU : 
+- Patient atteint de SEP avec TIU :
 
   - En 1e intention : Anticholinergiques ou stimulation transcutanée du nerf tibial postérieur
   - En 2e intention : injection de toxine botulique intradétrusorienne
 
 - Orthophoniste aide dans les troubles du langage écrit
-
-  
