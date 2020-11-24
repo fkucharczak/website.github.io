@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - RGO, vomissements, diarrhée, constipation chez l'enfant
+title: RGO, vomissements, diarrhée, constipation chez l'enfant
 tags: [Pédiatrie, Gasto, ED]
 ---
 

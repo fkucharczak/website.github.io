@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM 236 - Souffle cardiaque chez l'enfant
+title: Souffle cardiaque chez l'enfant
 tags: [Pédiatrie, ED]
 ---
 

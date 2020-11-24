@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM 55 - Maltraitance et enfants en danger. Protection maternelle et infantile
+title: Maltraitance et enfants en danger. Protection maternelle et infantile
 tags: [Pédiatrie, ED]
 ---
 ## Fiche Flash ED

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - Retard de croissance staturo-pondérale Puberté pathologique Obésité de l'enfant
+title: Retard de croissance staturo-pondérale Puberté pathologique Obésité de l'enfant
 tags: [Pédiatrie, endocrinologie, ED]
 ---
 

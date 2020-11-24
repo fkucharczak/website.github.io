@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - Douleurs abdominales de l'enfant
+title: Douleurs abdominales de l'enfant
 tags: [Pédiatrie, Gastro, ED]
 ---
 

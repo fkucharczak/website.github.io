@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - Accouchement prématuré et RCIU
+title: Accouchement prématuré et RCIU
 tags: [Pédiatrie, Gynécologie, ED]
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - Tuberculose de l'enfant
+title: Tuberculose de l'enfant
 tags: [Pédiatrie, ED]
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM 65 - Troubles du spectre de l'autisme
+title: Troubles du spectre de l'autisme
 tags: [Pédiatrie, ED]
 ---
 

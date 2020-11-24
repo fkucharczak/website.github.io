@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - Troubles de la miction chez l'enfant. Infection urinaire chez l'enfant. Hématurie (enfant)
+title: Troubles de la miction chez l'enfant. Infection urinaire chez l'enfant. Hématurie (enfant)
 tags: [Pédiatrie, ED]
 ---
 

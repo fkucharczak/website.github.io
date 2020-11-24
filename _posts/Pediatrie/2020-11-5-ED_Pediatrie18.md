@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - Diabète sucré de l'enfant
+title: Diabète sucré de l'enfant
 tags: [Pédiatrie, ED]
 ---
 

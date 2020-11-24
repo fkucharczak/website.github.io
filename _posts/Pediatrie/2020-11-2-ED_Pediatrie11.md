@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - Hypothyroïdie. Dépistage, diagnostic et prise en charge de l'insuffisance surrénale aigue du nouveau né. Prévention primaire par la nutrition.
+title: Hypothyroïdie. Dépistage, diagnostic et prise en charge de l'insuffisance surrénale aigue du nouveau né. Prévention primaire par la nutrition.
 tags: [Pédiatrie, Endocrinologie, ED]
 ---
 

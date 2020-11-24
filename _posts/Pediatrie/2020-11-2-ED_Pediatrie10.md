@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - Protéinurie et syndrome néphrotique chez l'enfant
+title: Protéinurie et syndrome néphrotique chez l'enfant
 tags: [Pédiatrie, ED]
 ---
 

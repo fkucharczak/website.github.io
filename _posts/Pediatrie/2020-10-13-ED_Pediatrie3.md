@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM 139 - Soins palliatifs en pédiatrie
+title: Soins palliatifs en pédiatrie
 tags: [Pédiatrie, ED]
 ---
 ## Définition

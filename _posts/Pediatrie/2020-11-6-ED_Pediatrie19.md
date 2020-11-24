@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM 64, 70 - Troubles dépressifs, anxieux panique, phobique somatoforme, post-traumatique, de l'adaptation, de la personnalité
+title: Troubles dépressifs, anxieux panique, phobique somatoforme, post-traumatique, de l'adaptation, de la personnalité
 tags: [Pédiatrie, Psychiatrie, ED]
 ---
 

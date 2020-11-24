@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - Trisomie 21
+title: Trisomie 21
 tags: [Pédiatrie, Génétique, ED]
 ---
 

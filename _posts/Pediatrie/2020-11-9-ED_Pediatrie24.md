@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITEM - Mucoviscidose
+title: Mucoviscidose
 tags: [Pédiatrie, Génétique, ED]
 ---
 
