@@ -1,3 +1,7 @@
+layout: post
+title: Notes sur échelles et acronymes : RMC-ST
+tags: [Santé du travail, Médecine physique et réadaptation, RMC-ST]
+
 ## Différentes échelles et acronymes relatifs à la RMC-ST
 
 > Faire très attention à énoncé : pièges entre échelles fonctionnelles, de déficience, de participation, d'activité...
