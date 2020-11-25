@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Développement psychomoteur du nourrisson et de l'enfant, développement affectif, interactions précoces. Troubles du sommeil, de l'alimentation, contrôles sphinctériens chez nourrisson.
+title: Développement psychomoteur du nourrisson et de l'enfant
 tags: [Pédiatrie, ED]
 ---
 
