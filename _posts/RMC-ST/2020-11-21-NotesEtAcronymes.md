@@ -25,6 +25,13 @@ tags: [Santé du travail, Médecine physique et réadaptation, RMC-ST]
 - **Mesure indépendance fonctionnelle (MIF)** : permet d'évaluer les limitations d'activités d'un patient lésé médullaire
 - **CDAPH** : Commission des droits et de l'autonomie des personnes handicapées
 
+<p align="center">
+ <img src="/assets/img/medecine/echelle_fct1.png"  style="width:90%"/>
+ <img src="/assets/img/medecine/echelle_fct2.png"  style="width:90%"/>
+    <br>
+    <em>Echelles d'évaluation de limitation d'activité</em>
+</p>
+
 ### Définitions importantes avec difficultés d'enregistrement
 
 - **Agnosie** = incapacité à reconnaître des objets familiers
