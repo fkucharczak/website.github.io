@@ -12,7 +12,7 @@ FdR d'ostéoporose :
 
 - OH, tabac
 - Corticoïdes (ATCD polyarthrite)
-- Hémochromatose
+- Hémochromatose 
 - Hyperthyroïdie 
 - Hypogonadisme
 - Hypercorticisme
@@ -107,7 +107,10 @@ Traitement de 1e intention de la crise de goutte :
 
 {% include aligner.html images="/medecine/tt_antiuric.png" column="auto" %}
 
-> Dès première crise de goutte : traitement symptomatique + hypo-uricémiant. Choix dépend de la fonction rénale
+> Dès première crise de goutte : traitement symptomatique + hypo-uricémiant (introduit à 15j/1M). Choix dépend de la fonction rénale
+> Colchicine doit être prescrite au long cours -> > 6M
+
+L'objectif de l'uricémie : < 360 $\mu$mol chez tout le monde (hyper-uricémie définie comme > 420)
 
 Si CI à tous les TTT : on considère les IL-1.
 
@@ -122,4 +125,29 @@ Localisation de tophus gouteux (_MM = Cado_) :
 - Tendons achiléens
 - Doigts (face d'extension)
 - Oreille
+
+{% include aligner.html images="/medecine/reco_goutte.png" column="auto" %}
+
+
+
+
+## Cas 3 : Spondyloarthrite
+
+_Retenir que c'est plutot une atteinte des enthèses des MI dans la SpA_
+
+Atteintes extra-articulaires :
+
+- cutanées : psoriasis, acnée, pustulose palmo-plantaire
+- ophtalmo : uvéite antérieure
+- digestif : MICI
+- génital : urétrites, cervicites
+- cardiologique : trouble du rythme et de la conduction -> ECG à chaque crise si possible
+
+
+
+> HLA B27
+
+
+
+
 
