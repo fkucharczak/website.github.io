@@ -35,7 +35,7 @@ tags: [Santé du travail, Médecine physique et réadaptation, RMC-ST]
 ### Définitions importantes avec difficultés d'enregistrement
 
 - **Agnosie** = incapacité à reconnaître des objets familiers
-- **Adiadococinésie** = lorsqu'une personne présente des difficultés à l'exécution rapide de mouvements alternatifs (syndrome cerebelleux)
+- **Adiadococinésie** = lorsqu'une personne présente des difficultés à l'exécution rapide de mouvements alternatifs (syndrome cérébelleux)
 - **Anosognosie** = trouble neurologique caractérisé par la méconnaissance par le malade de la maladie dont il est atteint.
 - **Allodynie** = douleur déclenchée par un stimulus qui est normalement indolore. Par exemple,  un léger effleurement de la peau ou une faible sensation de chaud ou  froid peuvent alors être douloureux.
 - **Aphasie** = difficulté à comprendre le langage ou à utiliser le langage pour parler ou écrire
