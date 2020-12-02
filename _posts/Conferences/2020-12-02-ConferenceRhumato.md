@@ -50,9 +50,12 @@ Chez les sujets majeurs et agés -> T-score : score de la DMO par rapport aux je
 Dans l'interprétation c'est la valeur la plus basse qui prédomine.
 -> Eviter de parler d'ostéopénie.
 
-**Definition de l'ostéoporose :** T-score < 2.5
+Valeur de l'ostéodensitométrie en lombaire pas fiable à partir d'un certain âge
 
-Valeur en lombaire pas fiable à partir d'un certain âge
+**Definition de l'ostéoporose :** T-score < 2.5
+Score pour traiter, si associé avec fracture sévère (fémur, vertèbres, humérus, bassin) : entre -1 et -2
+
+{% include aligner.html images="/medecine/conf_rh.png" column="auto" %}
 
 Indication de traitement : score FRAX
 
@@ -68,5 +71,5 @@ Indication de traitement : score FRAX
 
 
 
-{% include aligner.html images="/medecine/denut_all.png" column="auto" %}
+
 
