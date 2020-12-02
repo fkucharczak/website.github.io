@@ -105,4 +105,21 @@ Traitement de 1e intention de la crise de goutte :
 - AINS
 - Corticoïdes (per os ou injecté)
 
+{% include aligner.html images="/medecine/tt_antiuric.png" column="auto" %}
+
+> Dès première crise de goutte : traitement symptomatique + hypo-uricémiant. Choix dépend de la fonction rénale
+
 Si CI à tous les TTT : on considère les IL-1.
+
+{% include aligner.html images="/medecine/cristaux.png" column="auto" %}
+
+**Pyrophosphate de calcium** : dans la chondrocalcinose
+**Urate de sodium** : fortement bi-réfringents en lumière polarisée (faiblement dans cristaux de Pyrophosphate de calcium)
+
+Localisation de tophus gouteux (_MM = Cado_) :
+
+- Coude
+- Tendons achiléens
+- Doigts (face d'extension)
+- Oreille
+
