@@ -61,15 +61,48 @@ Indication de traitement : score FRAX
 
 
 
+Etiologies les plus fréquentes de vertèbres ivoire : 
+
+- Métastase (prostate++)
+- Maladie de Paget
+- Tuberculose
+- Lymphome
 
 
 
+Traitement de première ou 2e intention :
+
+- Biphosphonates :
+  - Risedronate (forme per os de )
+  - Acide zoledronique (forme IV)
+- Dénosumab (en 2e intention si échec des biphosphonates)
+- Tériparatide (AMM si au moins 2 fractures vertébrales)
 
 
 
+> Attention, Raloxifène réservé aux gens qui n'ont pas fracturé. Ne protège pas contre les fractures périphériques
+> -> doit avoir < 70A, pas d'ATCD de chute ou fracture
 
 
 
+## Cas 2 : crise de goutte
 
+Diagnostics possibles pour arthrite :
 
+- Arthrite septique : à toujours garder en tête et à évoquer jusqu'à preuve du contraire.
 
+- Arthrite inflammatoire (PR)
+
+- Arthrite microcristalline (goutte)
+
+  
+
+**Diagnostic de signe de goutte : clinique**
+
+Traitement de 1e intention de la crise de goutte :
+
+- Colchicine
+- AINS
+- Corticoïdes (per os ou injecté)
+
+Si CI à tous les TTT : on considère les IL-1.
