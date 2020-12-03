@@ -143,13 +143,51 @@ Atteintes extra-articulaires :
 - génital : urétrites, cervicites
 - cardiologique : trouble du rythme et de la conduction -> ECG à chaque crise si possible
 
-
-
 > HLA B27
 
 
 
+Examen de première intention :
+
+- Rx dorso-lombo-pelvi-fémorale avec clichés centrés sur les sacro-iliaques
+- ECG
+- CRP
+
+> On ne fait pas IRM ou HLA-B27 en première intention
 
 
 
+Signes radio :
+
+- Coins brillants (ostéites de Romanus)
+- Syndesmophytes
+- Mise au carré des vertèbres
+
+{% include aligner.html images="/medecine/diag_spa.png" column="auto" %}
+
+> Attention : 6S pour la PR, 3M pour la SpA
+
+
+
+TTT :
+
+**AINS en première intention**
+
+{% include aligner.html images="/medecine/ttt_spa.png" column="auto" %}
+
+> BASDAI : Index d'activité de la maladie
+> BASFI : Index de qualité de vie
+
+
+
+CI Anti-TNF : 
+
+- SEP
+
+- Lymphome
+
+- Tuberculose
+
+  -> fait des Lupus induits : inducteurs d'Ac Anti-nucléaires
+  -> marche moins bien pour les obèses
 
