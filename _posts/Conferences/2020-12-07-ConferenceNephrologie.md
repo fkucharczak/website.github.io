@@ -162,7 +162,7 @@ Inacceptable de ne pas doser la PTH dans la démarche diagnostique et ne pas fai
     - IRA
     - Tuberculose, cancers, asthme
   - Periode post-op
-  - Dyndromes nauséeux importants
+  - Syndromes nauséeux importants
   - Médicaments :
     - Tous les psychotropes
     - Tous les antidépresseurs
