@@ -38,7 +38,7 @@ A 3h du matin, col dilaté à 3cm, effacé, un segment inférieur fin et ampli, 
 - Opiaciés (Nalbuphine) pas le médicament de choix sinon bébé va naitre imprégné de Nubain -> dépression respiratoire. Uniquement si CI à la péridurale
 - Rachi-anesthésie : effet intense, immédiat mais dure 2 heures. Seulement indiqué pour césarienne en urgence
 
-> Oxytocine : hormone libérée par hypophyse qui stimule les contractions
+> Ocytocine : hormone libérée par hypophyse qui stimule les contractions
 > - augmente le rythme d'hémorragie de la délivrance
 > - augmente le risque de souffrance foetale
 
@@ -46,7 +46,7 @@ A 3h du matin, col dilaté à 3cm, effacé, un segment inférieur fin et ampli, 
 
 Concernant le streptocoque B :
 - Donner pénicilline G ou clindamycine jusqu'à la naissance.
-- Si allergie à Peni G : on adapte à ATBgramme (vasco si résistance à clindamycine)
+- Si allergie à Peni G : on adapte à ATBgramme (vanco si résistance à clindamycine)
 
 **Engagement** important ++ en obstétrique :
 - plus grande circonférence de la présentation a franchi le DS
@@ -75,7 +75,7 @@ Concernant la délivrance après naissance :
 	-	injection systématique en IV Ocytocine : diminue par 2, 3 le risque d'hémorragie du PP. Seulement quand l'épaule antérieure est dégagée.
 	-	grande parité autre FdR d'HPP
 - délivrance artificielle si pas sorti > 30 min : on met une analgésie (rachi-anesthésie ou péridurale si en place), ATB pour aller le chercher.
-- perte de sang doit être inférieure
+- perte de sang doit être inférieure 500 mL
 
 Examen du placenta sans cotylédon :
 - on pratique une révision de la cavité utérine.
