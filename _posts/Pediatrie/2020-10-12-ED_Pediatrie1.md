@@ -116,12 +116,12 @@ Si rythme défibrilable : Adrénaline 10 ug/kg. Alternance avec RCP 15/2 2 minut
 
 *Les causes d'arrêt traitables* :
 - Plus fréquent :
- - Hypoxie
- - Hypothermie (avalanche, noyade piscine hiver)
- - Hypovolémie
- - Hyper/hypo magnesium, potassium, calcium
-- Moins fréquent
- - Tamponnade : rarissime
- - Tension/ pneumothorax
- - Thrombose
- - Toxiques
+   - Hypoxie
+   - Hypothermie (avalanche, noyade piscine hiver)
+   - Hypovolémie
+   - Hyper/hypo magnesium, potassium, calcium
+  - Moins fréquent
+   - Tamponnade : rarissime
+   - Tension/ pneumothorax
+   - Thrombose
+   - Toxiques
