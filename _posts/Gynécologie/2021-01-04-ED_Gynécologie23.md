@@ -79,5 +79,15 @@ Penser à MPF si < 34SA et prévention de l'allo-immunisation
   - PEC : 
     - HBPM +++
 
+- SHAG : 
+  - rare
+  - potentiellement grave
+  - du 3e trimestre
+  - nausées vomissements du 3e trimestre
+  - risque ++ d'encéphalopathie
+  - PEC : indication extraction +++++
 
-
+<p align="center">
+  <img src="/assets/docs/ITEMS/Gyneco/autres/DLA_ED1.png" style="width:75%"/>
+    <img src="/assets/docs/ITEMS/Gyneco/autres/DLA_ED2.png" style="width:75%"/>
+</p>
