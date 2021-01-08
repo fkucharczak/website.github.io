@@ -73,8 +73,8 @@ Juste avant l'ovulation, on fait une ponction par voie vaginale sous AL ou AG po
 
 Test de grossesse quand on fait une ponction FIV : 14 j post ponction. pcq début gross = date ponction
 
-Embryons congelés : par vitrification +++ pour chances gross
+Embryons congelés : par vitrification +++ pour chances grossesse
 
-On détruit les embryons sauf si femme encore en age pour AMP
+On détruit les embryons sauf si femme encore en âge pour AMP
 
 > Si on n'a pas de spermatozoïdes en nombre > 1M/0.3mL : 13% de chance de grossesse par cycles si insémination
